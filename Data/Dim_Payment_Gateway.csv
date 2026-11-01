@@ -1,0 +1,11 @@
+Gateway_ID,Gateway_Name,Gateway_Type,Processing_Region,Gateway_Status
+GW001,Gateway A,Bank Processing,India,Maintenance
+GW002,Gateway B,Payment Aggregator,India,Active
+GW003,Gateway C,UPI,India,Active
+GW004,Gateway D,UPI,India,Maintenance
+GW005,Gateway E,UPI,India,Active
+GW006,Gateway F,UPI,India,Active
+GW007,Gateway G,Payment Aggregator,India,Active
+GW008,Gateway H,Bank Processing,India,Active
+GW009,Gateway I,UPI,India,Active
+GW010,Gateway J,UPI,India,Active

@@ -1,0 +1,1501 @@
+Incident_ID,Incident_Date,Transaction_ID,Incident_Type,Severity,Resolution_Status,Resolution_Time_Min,Assigned_Team
+INC00001,2026-08-11,TXN00098743,Bank Connectivity,Low,Resolved,83,Bank Integration
+INC00002,2026-11-26,TXN00015153,Transaction Processing Delay,Low,Resolved,248,Bank Integration
+INC00003,2026-03-23,TXN00078814,Application Error,Low,Resolved,68,Platform Engineering
+INC00004,2025-04-27,TXN00031649,Network Issue,Medium,Resolved,143,Bank Integration
+INC00005,2026-01-20,TXN00043497,Transaction Processing Delay,Low,Resolved,116,Payment Operations
+INC00006,2025-08-22,TXN00042443,Application Error,Medium,Resolved,48,Platform Engineering
+INC00007,2026-07-03,TXN00094250,Application Error,High,Resolved,179,Bank Integration
+INC00008,2025-12-28,TXN00053328,Application Error,Medium,Closed,235,Platform Engineering
+INC00009,2025-12-28,TXN00035849,Transaction Processing Delay,Medium,Closed,217,Bank Integration
+INC00010,2025-11-04,TXN00086799,Transaction Processing Delay,Low,Closed,57,Risk Operations
+INC00011,2026-12-06,TXN00027511,Gateway Issue,Medium,Closed,88,Risk Operations
+INC00012,2026-06-01,TXN00062383,Bank Connectivity,High,Resolved,64,Risk Operations
+INC00013,2025-07-11,TXN00060324,Bank Connectivity,High,Closed,39,Risk Operations
+INC00014,2026-03-16,TXN00085738,Gateway Issue,Low,Resolved,45,Payment Operations
+INC00015,2025-10-18,TXN00096864,Gateway Issue,Critical,In Progress,107,Risk Operations
+INC00016,2026-08-06,TXN00059933,Application Error,Medium,Resolved,49,Risk Operations
+INC00017,2025-09-06,TXN00023261,System Outage,Critical,Resolved,31,Risk Operations
+INC00018,2025-03-19,TXN00057674,Application Error,Medium,Resolved,66,Platform Engineering
+INC00019,2026-11-20,TXN00080826,Gateway Issue,Low,Resolved,24,Risk Operations
+INC00020,2025-11-30,TXN00029149,Network Issue,Low,Resolved,34,Payment Operations
+INC00021,2025-09-17,TXN00049422,System Outage,Medium,Resolved,51,Bank Integration
+INC00022,2025-01-04,TXN00087173,Gateway Issue,Low,In Progress,14,Risk Operations
+INC00023,2025-06-16,TXN00034847,Gateway Issue,High,Resolved,148,Platform Engineering
+INC00024,2026-09-01,TXN00026047,Gateway Issue,Medium,Resolved,199,Risk Operations
+INC00025,2026-04-19,TXN00094113,Bank Connectivity,Low,Resolved,63,Bank Integration
+INC00026,2025-11-07,TXN00075578,Application Error,Low,Resolved,85,Payment Operations
+INC00027,2026-05-08,TXN00034021,System Outage,Medium,Resolved,107,Risk Operations
+INC00028,2025-02-22,TXN00024876,Gateway Issue,Low,Resolved,31,Bank Integration
+INC00029,2026-01-15,TXN00083001,System Outage,High,Resolved,226,Payment Operations
+INC00030,2026-05-13,TXN00085068,Application Error,Medium,Resolved,49,Payment Operations
+INC00031,2025-10-13,TXN00038062,Network Issue,Medium,Resolved,154,Platform Engineering
+INC00032,2025-10-02,TXN00050151,Application Error,Low,Resolved,127,Payment Operations
+INC00033,2025-08-15,TXN00026685,Gateway Issue,Medium,Closed,39,Platform Engineering
+INC00034,2026-07-29,TXN00060485,Gateway Issue,Medium,Resolved,71,Risk Operations
+INC00035,2025-06-05,TXN00059066,Gateway Issue,Medium,Resolved,294,Bank Integration
+INC00036,2026-05-31,TXN00057594,Network Issue,Medium,Resolved,32,Platform Engineering
+INC00037,2025-04-29,TXN00002523,Gateway Issue,Medium,Closed,55,Payment Operations
+INC00038,2025-03-24,TXN00050190,Bank Connectivity,High,Resolved,58,Platform Engineering
+INC00039,2026-08-17,TXN00070742,Bank Connectivity,Low,Resolved,60,Platform Engineering
+INC00040,2025-08-11,TXN00044000,System Outage,Critical,Resolved,119,Platform Engineering
+INC00041,2026-02-19,TXN00087369,Application Error,Medium,Resolved,40,Payment Operations
+INC00042,2025-11-10,TXN00042625,Gateway Issue,Medium,Resolved,204,Bank Integration
+INC00043,2026-10-21,TXN00005748,Gateway Issue,High,Resolved,148,Platform Engineering
+INC00044,2026-04-05,TXN00041502,Gateway Issue,High,Resolved,63,Risk Operations
+INC00045,2025-11-01,TXN00069478,Network Issue,Low,Resolved,25,Platform Engineering
+INC00046,2026-12-14,TXN00087063,Network Issue,Medium,Closed,202,Risk Operations
+INC00047,2026-11-21,TXN00013681,Transaction Processing Delay,Medium,Resolved,75,Bank Integration
+INC00048,2025-08-07,TXN00027531,System Outage,Medium,Resolved,81,Bank Integration
+INC00049,2026-06-29,TXN00074764,Bank Connectivity,Low,Resolved,98,Risk Operations
+INC00050,2025-09-22,TXN00047589,Bank Connectivity,Medium,Resolved,107,Payment Operations
+INC00051,2026-12-10,TXN00088609,Network Issue,Critical,In Progress,127,Payment Operations
+INC00052,2025-08-06,TXN00020556,Application Error,Critical,Closed,60,Risk Operations
+INC00053,2026-03-31,TXN00039635,Bank Connectivity,Low,Resolved,38,Payment Operations
+INC00054,2025-02-27,TXN00011168,Gateway Issue,Low,Resolved,86,Risk Operations
+INC00055,2025-07-06,TXN00059732,Gateway Issue,Medium,Closed,135,Payment Operations
+INC00056,2026-03-16,TXN00004574,Network Issue,Low,Resolved,17,Risk Operations
+INC00057,2026-12-22,TXN00094726,Transaction Processing Delay,Medium,Resolved,34,Platform Engineering
+INC00058,2026-12-28,TXN00064390,Network Issue,Medium,Resolved,51,Risk Operations
+INC00059,2026-05-20,TXN00099169,System Outage,Low,In Progress,79,Bank Integration
+INC00060,2025-09-03,TXN00051712,System Outage,Low,Resolved,77,Platform Engineering
+INC00061,2026-10-23,TXN00057418,Gateway Issue,Medium,Resolved,54,Platform Engineering
+INC00062,2025-03-01,TXN00056968,Network Issue,Medium,Closed,45,Risk Operations
+INC00063,2025-05-11,TXN00078023,Bank Connectivity,Medium,Closed,49,Payment Operations
+INC00064,2025-10-19,TXN00068588,Gateway Issue,Medium,Resolved,190,Platform Engineering
+INC00065,2025-07-22,TXN00046094,Transaction Processing Delay,Low,Resolved,120,Platform Engineering
+INC00066,2026-12-13,TXN00099126,Transaction Processing Delay,High,Resolved,257,Payment Operations
+INC00067,2025-01-28,TXN00072881,Application Error,Low,Resolved,70,Risk Operations
+INC00068,2026-12-13,TXN00067806,Application Error,Low,Resolved,74,Platform Engineering
+INC00069,2026-09-24,TXN00042839,Transaction Processing Delay,Low,Resolved,182,Risk Operations
+INC00070,2026-10-09,TXN00009387,Application Error,Critical,Resolved,58,Risk Operations
+INC00071,2026-12-29,TXN00044727,Bank Connectivity,Medium,Resolved,198,Payment Operations
+INC00072,2026-07-26,TXN00082952,Gateway Issue,Medium,Closed,122,Risk Operations
+INC00073,2026-03-11,TXN00011639,Bank Connectivity,Low,Resolved,40,Platform Engineering
+INC00074,2025-10-29,TXN00060835,Bank Connectivity,Medium,Resolved,378,Bank Integration
+INC00075,2026-04-21,TXN00020530,Bank Connectivity,High,Resolved,49,Risk Operations
+INC00076,2025-01-07,TXN00090329,Application Error,Medium,Resolved,28,Platform Engineering
+INC00077,2025-03-12,TXN00059985,System Outage,Low,Resolved,25,Bank Integration
+INC00078,2026-08-03,TXN00083730,Application Error,Low,Closed,254,Payment Operations
+INC00079,2025-01-17,TXN00026743,Transaction Processing Delay,Low,Resolved,124,Payment Operations
+INC00080,2026-01-19,TXN00065058,Network Issue,Medium,Resolved,84,Risk Operations
+INC00081,2025-06-22,TXN00060317,Transaction Processing Delay,Medium,Resolved,149,Payment Operations
+INC00082,2026-03-22,TXN00048863,Gateway Issue,Low,Resolved,87,Platform Engineering
+INC00083,2025-02-09,TXN00000260,Network Issue,High,Resolved,95,Payment Operations
+INC00084,2025-06-28,TXN00041208,Transaction Processing Delay,High,Resolved,87,Risk Operations
+INC00085,2025-12-02,TXN00044266,Bank Connectivity,High,Closed,53,Platform Engineering
+INC00086,2026-02-28,TXN00012350,Gateway Issue,Medium,In Progress,76,Platform Engineering
+INC00087,2025-05-09,TXN00000843,Gateway Issue,Low,Closed,75,Bank Integration
+INC00088,2026-06-27,TXN00077179,Bank Connectivity,Medium,Resolved,162,Payment Operations
+INC00089,2026-02-20,TXN00030271,Gateway Issue,Medium,Resolved,27,Risk Operations
+INC00090,2025-07-12,TXN00038236,Gateway Issue,High,Resolved,26,Bank Integration
+INC00091,2025-02-06,TXN00014477,Application Error,Low,Resolved,91,Bank Integration
+INC00092,2026-03-31,TXN00019348,Gateway Issue,Medium,Resolved,5,Platform Engineering
+INC00093,2025-02-10,TXN00087426,Network Issue,Critical,Resolved,39,Bank Integration
+INC00094,2026-03-19,TXN00042936,Gateway Issue,Medium,Closed,131,Payment Operations
+INC00095,2026-12-04,TXN00028879,Gateway Issue,Low,Resolved,26,Bank Integration
+INC00096,2025-10-11,TXN00005201,System Outage,Low,Resolved,21,Risk Operations
+INC00097,2025-07-23,TXN00052288,Network Issue,High,Resolved,84,Platform Engineering
+INC00098,2026-12-01,TXN00041371,System Outage,High,In Progress,50,Bank Integration
+INC00099,2026-04-03,TXN00056683,Bank Connectivity,Medium,In Progress,165,Risk Operations
+INC00100,2025-04-28,TXN00000177,Gateway Issue,Low,Closed,65,Risk Operations
+INC00101,2025-08-25,TXN00020622,Gateway Issue,Medium,Resolved,103,Payment Operations
+INC00102,2026-05-06,TXN00043342,Gateway Issue,High,Resolved,137,Risk Operations
+INC00103,2025-10-17,TXN00054002,Gateway Issue,Medium,In Progress,93,Bank Integration
+INC00104,2025-05-11,TXN00076905,Application Error,Medium,Resolved,33,Bank Integration
+INC00105,2026-05-10,TXN00060325,Application Error,Medium,Resolved,27,Risk Operations
+INC00106,2026-01-11,TXN00035881,Gateway Issue,Low,Resolved,28,Risk Operations
+INC00107,2025-11-12,TXN00049875,Gateway Issue,Critical,Closed,46,Bank Integration
+INC00108,2025-07-31,TXN00095091,Bank Connectivity,Medium,Resolved,149,Platform Engineering
+INC00109,2025-02-20,TXN00099295,Bank Connectivity,High,Closed,119,Payment Operations
+INC00110,2025-09-04,TXN00015635,Gateway Issue,High,Resolved,119,Risk Operations
+INC00111,2025-10-21,TXN00087907,Network Issue,Medium,Resolved,81,Bank Integration
+INC00112,2025-10-18,TXN00053353,Gateway Issue,High,Resolved,119,Bank Integration
+INC00113,2026-06-16,TXN00083411,Transaction Processing Delay,Low,Resolved,73,Platform Engineering
+INC00114,2025-09-27,TXN00033899,Gateway Issue,Low,Closed,69,Platform Engineering
+INC00115,2026-09-06,TXN00041562,Application Error,High,Closed,94,Bank Integration
+INC00116,2026-06-13,TXN00084693,Gateway Issue,Low,Resolved,167,Payment Operations
+INC00117,2026-09-26,TXN00092385,Gateway Issue,Medium,Closed,97,Platform Engineering
+INC00118,2025-04-14,TXN00077510,Network Issue,Low,Resolved,162,Risk Operations
+INC00119,2026-04-16,TXN00054055,System Outage,Critical,Resolved,38,Bank Integration
+INC00120,2025-08-26,TXN00022220,Gateway Issue,Low,In Progress,56,Platform Engineering
+INC00121,2026-03-27,TXN00032978,Application Error,Medium,Resolved,46,Payment Operations
+INC00122,2026-08-05,TXN00007161,Gateway Issue,Medium,Resolved,43,Bank Integration
+INC00123,2026-07-13,TXN00024949,Application Error,Low,Resolved,59,Bank Integration
+INC00124,2026-12-19,TXN00083124,Transaction Processing Delay,Critical,Closed,86,Platform Engineering
+INC00125,2026-02-15,TXN00034859,Network Issue,Medium,Resolved,138,Payment Operations
+INC00126,2025-05-23,TXN00082119,Gateway Issue,Medium,Resolved,121,Platform Engineering
+INC00127,2026-12-22,TXN00071134,System Outage,High,Resolved,114,Risk Operations
+INC00128,2025-09-12,TXN00065168,Transaction Processing Delay,Medium,Resolved,21,Platform Engineering
+INC00129,2026-05-25,TXN00091117,Bank Connectivity,Medium,Resolved,226,Platform Engineering
+INC00130,2025-07-23,TXN00092045,Network Issue,Low,Closed,49,Platform Engineering
+INC00131,2026-07-02,TXN00091389,Gateway Issue,High,Resolved,58,Payment Operations
+INC00132,2026-01-01,TXN00092697,Application Error,Medium,Closed,38,Bank Integration
+INC00133,2026-11-06,TXN00026940,Network Issue,Medium,Closed,116,Risk Operations
+INC00134,2025-07-31,TXN00074201,Bank Connectivity,Low,In Progress,76,Bank Integration
+INC00135,2025-01-11,TXN00096998,System Outage,Critical,Resolved,176,Platform Engineering
+INC00136,2026-08-30,TXN00045076,System Outage,Low,Resolved,117,Platform Engineering
+INC00137,2025-10-01,TXN00047818,Bank Connectivity,Low,Resolved,8,Bank Integration
+INC00138,2025-04-28,TXN00043218,Bank Connectivity,Low,Resolved,40,Bank Integration
+INC00139,2026-07-08,TXN00080507,Bank Connectivity,Medium,Closed,182,Payment Operations
+INC00140,2026-07-12,TXN00020106,Network Issue,Medium,Resolved,53,Risk Operations
+INC00141,2026-06-15,TXN00053684,Bank Connectivity,Low,Resolved,189,Bank Integration
+INC00142,2026-06-11,TXN00071998,Application Error,Medium,In Progress,110,Platform Engineering
+INC00143,2026-09-16,TXN00048565,Application Error,Medium,Resolved,108,Bank Integration
+INC00144,2026-03-26,TXN00048365,Gateway Issue,Medium,Resolved,110,Bank Integration
+INC00145,2025-08-30,TXN00088104,Gateway Issue,Low,Resolved,207,Risk Operations
+INC00146,2026-03-24,TXN00052409,Network Issue,Medium,Closed,158,Payment Operations
+INC00147,2025-02-27,TXN00013640,Gateway Issue,Medium,Resolved,56,Payment Operations
+INC00148,2026-02-16,TXN00024527,Network Issue,Medium,Closed,50,Risk Operations
+INC00149,2025-01-06,TXN00076415,Network Issue,Critical,Resolved,79,Bank Integration
+INC00150,2026-01-21,TXN00004625,Network Issue,Medium,Resolved,73,Platform Engineering
+INC00151,2026-08-12,TXN00081388,Bank Connectivity,Low,Resolved,83,Bank Integration
+INC00152,2026-08-09,TXN00098183,Transaction Processing Delay,Medium,Resolved,232,Bank Integration
+INC00153,2025-03-14,TXN00012966,Bank Connectivity,Medium,Resolved,35,Payment Operations
+INC00154,2026-10-10,TXN00065145,Gateway Issue,High,Resolved,209,Bank Integration
+INC00155,2025-09-23,TXN00013376,Bank Connectivity,High,Resolved,117,Payment Operations
+INC00156,2025-04-17,TXN00032261,System Outage,Low,In Progress,146,Bank Integration
+INC00157,2025-11-08,TXN00076273,Gateway Issue,Low,Resolved,54,Payment Operations
+INC00158,2026-08-13,TXN00079902,Transaction Processing Delay,Low,Resolved,46,Bank Integration
+INC00159,2025-04-12,TXN00056896,Gateway Issue,Low,Resolved,106,Risk Operations
+INC00160,2025-01-23,TXN00005456,Bank Connectivity,Medium,Closed,67,Platform Engineering
+INC00161,2025-10-28,TXN00055505,Network Issue,Medium,Resolved,51,Risk Operations
+INC00162,2025-03-15,TXN00028882,System Outage,Low,Resolved,63,Payment Operations
+INC00163,2026-04-30,TXN00060884,System Outage,Medium,Closed,49,Payment Operations
+INC00164,2025-03-31,TXN00005898,Gateway Issue,Low,Resolved,47,Risk Operations
+INC00165,2025-02-19,TXN00007674,Transaction Processing Delay,High,Resolved,126,Risk Operations
+INC00166,2025-09-05,TXN00012800,Network Issue,Medium,Resolved,112,Risk Operations
+INC00167,2025-11-14,TXN00066725,Bank Connectivity,Low,Resolved,133,Bank Integration
+INC00168,2026-10-19,TXN00049230,Application Error,High,In Progress,55,Risk Operations
+INC00169,2026-08-22,TXN00092818,Application Error,Low,Resolved,42,Payment Operations
+INC00170,2026-03-09,TXN00027919,Application Error,Low,Closed,111,Payment Operations
+INC00171,2025-10-30,TXN00090593,System Outage,High,Closed,125,Risk Operations
+INC00172,2025-04-03,TXN00086016,Bank Connectivity,Medium,Closed,75,Payment Operations
+INC00173,2025-04-14,TXN00085760,System Outage,High,In Progress,91,Bank Integration
+INC00174,2026-05-09,TXN00008935,Network Issue,Medium,Closed,62,Payment Operations
+INC00175,2026-09-10,TXN00044799,Bank Connectivity,Low,Resolved,20,Payment Operations
+INC00176,2025-03-27,TXN00087722,System Outage,Medium,Resolved,208,Bank Integration
+INC00177,2026-07-23,TXN00008170,Application Error,High,In Progress,87,Platform Engineering
+INC00178,2025-01-08,TXN00014815,Bank Connectivity,High,Closed,63,Risk Operations
+INC00179,2025-03-27,TXN00040337,System Outage,Medium,Closed,40,Platform Engineering
+INC00180,2025-01-25,TXN00054723,Application Error,Low,Resolved,332,Payment Operations
+INC00181,2026-04-21,TXN00017352,Gateway Issue,High,Resolved,54,Payment Operations
+INC00182,2026-03-30,TXN00041244,Bank Connectivity,High,Resolved,5,Payment Operations
+INC00183,2025-02-09,TXN00097897,Transaction Processing Delay,High,Closed,31,Risk Operations
+INC00184,2025-05-02,TXN00080184,Network Issue,Low,Resolved,40,Risk Operations
+INC00185,2026-01-23,TXN00032408,Gateway Issue,Medium,Resolved,69,Risk Operations
+INC00186,2025-08-19,TXN00073432,Bank Connectivity,Low,Closed,112,Bank Integration
+INC00187,2026-07-27,TXN00081260,Transaction Processing Delay,High,Closed,48,Bank Integration
+INC00188,2026-03-16,TXN00058408,Application Error,Medium,Resolved,93,Risk Operations
+INC00189,2025-07-30,TXN00077416,Application Error,Medium,In Progress,79,Payment Operations
+INC00190,2025-03-22,TXN00012772,Network Issue,Low,Resolved,34,Bank Integration
+INC00191,2025-01-09,TXN00021977,Application Error,Medium,Resolved,117,Bank Integration
+INC00192,2025-11-14,TXN00075179,System Outage,High,In Progress,180,Platform Engineering
+INC00193,2025-07-30,TXN00039008,Network Issue,Low,In Progress,58,Bank Integration
+INC00194,2026-07-01,TXN00043148,Application Error,Medium,Resolved,35,Bank Integration
+INC00195,2026-04-08,TXN00070216,Network Issue,Low,Resolved,17,Risk Operations
+INC00196,2026-10-30,TXN00052807,Application Error,High,Closed,40,Platform Engineering
+INC00197,2025-02-04,TXN00060640,Bank Connectivity,Low,Resolved,76,Platform Engineering
+INC00198,2025-10-04,TXN00093713,Bank Connectivity,Low,Resolved,308,Platform Engineering
+INC00199,2025-05-19,TXN00022728,System Outage,Low,Resolved,110,Bank Integration
+INC00200,2025-05-27,TXN00038263,Bank Connectivity,High,Resolved,99,Payment Operations
+INC00201,2025-06-02,TXN00031308,Gateway Issue,Medium,Resolved,42,Bank Integration
+INC00202,2025-04-16,TXN00042359,Bank Connectivity,High,Closed,54,Platform Engineering
+INC00203,2025-03-03,TXN00059194,Transaction Processing Delay,High,Resolved,84,Bank Integration
+INC00204,2026-06-01,TXN00049789,Transaction Processing Delay,Medium,Resolved,87,Risk Operations
+INC00205,2025-01-09,TXN00063392,Bank Connectivity,Low,Closed,66,Payment Operations
+INC00206,2025-08-24,TXN00034546,Gateway Issue,High,Resolved,60,Bank Integration
+INC00207,2026-04-14,TXN00040506,Transaction Processing Delay,Medium,Resolved,90,Platform Engineering
+INC00208,2026-07-25,TXN00063590,Gateway Issue,Medium,Resolved,126,Bank Integration
+INC00209,2026-03-23,TXN00084423,Network Issue,Medium,Resolved,56,Platform Engineering
+INC00210,2026-05-02,TXN00037159,Bank Connectivity,Medium,Resolved,131,Bank Integration
+INC00211,2025-11-02,TXN00035126,Application Error,Medium,In Progress,46,Platform Engineering
+INC00212,2026-05-03,TXN00002473,Bank Connectivity,High,Resolved,70,Payment Operations
+INC00213,2026-12-23,TXN00012117,Gateway Issue,Low,Resolved,60,Bank Integration
+INC00214,2026-01-27,TXN00096092,Transaction Processing Delay,Medium,Resolved,67,Risk Operations
+INC00215,2025-07-02,TXN00067873,System Outage,Medium,Closed,107,Payment Operations
+INC00216,2026-12-28,TXN00081669,Application Error,Low,Closed,127,Risk Operations
+INC00217,2026-07-22,TXN00060136,Gateway Issue,Medium,Resolved,71,Bank Integration
+INC00218,2025-10-03,TXN00035225,Network Issue,Medium,Resolved,68,Risk Operations
+INC00219,2025-12-25,TXN00017802,Bank Connectivity,Medium,Resolved,32,Risk Operations
+INC00220,2025-10-17,TXN00015550,Bank Connectivity,Medium,Resolved,56,Bank Integration
+INC00221,2025-06-11,TXN00037518,Gateway Issue,Low,Resolved,67,Payment Operations
+INC00222,2025-04-19,TXN00012864,System Outage,Medium,Resolved,144,Platform Engineering
+INC00223,2025-09-08,TXN00038733,Transaction Processing Delay,High,In Progress,74,Bank Integration
+INC00224,2025-12-13,TXN00083343,Gateway Issue,High,Resolved,32,Risk Operations
+INC00225,2025-12-04,TXN00073336,Transaction Processing Delay,Low,Resolved,79,Bank Integration
+INC00226,2025-10-30,TXN00010778,Application Error,Medium,Closed,50,Bank Integration
+INC00227,2026-11-11,TXN00073486,Gateway Issue,Low,Resolved,50,Risk Operations
+INC00228,2025-09-24,TXN00043788,Bank Connectivity,Medium,Resolved,59,Risk Operations
+INC00229,2026-12-29,TXN00032201,Gateway Issue,High,Resolved,64,Bank Integration
+INC00230,2026-04-19,TXN00019510,Transaction Processing Delay,Medium,Resolved,171,Platform Engineering
+INC00231,2026-08-29,TXN00078639,Application Error,Low,Resolved,118,Payment Operations
+INC00232,2026-12-12,TXN00004504,Transaction Processing Delay,High,Resolved,240,Payment Operations
+INC00233,2025-11-23,TXN00073579,Gateway Issue,Low,Resolved,112,Risk Operations
+INC00234,2025-10-09,TXN00096904,Bank Connectivity,High,In Progress,30,Risk Operations
+INC00235,2025-06-04,TXN00003370,Bank Connectivity,Medium,In Progress,28,Bank Integration
+INC00236,2026-04-04,TXN00003158,System Outage,Medium,Resolved,104,Payment Operations
+INC00237,2026-05-10,TXN00026463,Transaction Processing Delay,Medium,Resolved,67,Payment Operations
+INC00238,2026-05-02,TXN00080071,Application Error,Medium,Resolved,161,Risk Operations
+INC00239,2025-10-23,TXN00046594,Application Error,Medium,Resolved,56,Payment Operations
+INC00240,2026-11-07,TXN00044860,Network Issue,Low,Resolved,24,Payment Operations
+INC00241,2026-01-16,TXN00025149,Application Error,Low,Resolved,176,Platform Engineering
+INC00242,2025-06-24,TXN00088866,Gateway Issue,Low,Resolved,32,Risk Operations
+INC00243,2026-07-31,TXN00024900,System Outage,High,Closed,55,Platform Engineering
+INC00244,2026-02-25,TXN00057458,Gateway Issue,Critical,Resolved,96,Risk Operations
+INC00245,2025-08-28,TXN00031420,Bank Connectivity,Low,In Progress,106,Payment Operations
+INC00246,2025-05-19,TXN00075681,Application Error,Medium,Resolved,42,Risk Operations
+INC00247,2025-02-09,TXN00044270,System Outage,High,Closed,102,Payment Operations
+INC00248,2025-07-28,TXN00079984,System Outage,High,Resolved,88,Payment Operations
+INC00249,2025-01-30,TXN00067209,System Outage,Critical,Resolved,64,Payment Operations
+INC00250,2025-07-19,TXN00011205,Gateway Issue,Medium,Resolved,36,Platform Engineering
+INC00251,2025-03-05,TXN00070130,Bank Connectivity,High,In Progress,126,Risk Operations
+INC00252,2026-04-20,TXN00049920,Bank Connectivity,Low,Resolved,6,Payment Operations
+INC00253,2026-04-19,TXN00055315,Bank Connectivity,Low,Resolved,77,Risk Operations
+INC00254,2025-01-30,TXN00063912,Gateway Issue,High,Resolved,72,Payment Operations
+INC00255,2026-11-17,TXN00082717,Transaction Processing Delay,Critical,Resolved,31,Bank Integration
+INC00256,2026-11-09,TXN00062635,Network Issue,High,Closed,144,Platform Engineering
+INC00257,2025-06-25,TXN00017795,Gateway Issue,Medium,Resolved,68,Platform Engineering
+INC00258,2025-12-31,TXN00010122,Gateway Issue,Medium,Resolved,197,Risk Operations
+INC00259,2026-02-11,TXN00062048,Network Issue,Low,Closed,34,Bank Integration
+INC00260,2025-03-09,TXN00006038,Network Issue,Medium,Resolved,68,Platform Engineering
+INC00261,2025-06-12,TXN00070194,Gateway Issue,Critical,In Progress,183,Risk Operations
+INC00262,2025-02-19,TXN00075453,Transaction Processing Delay,Medium,Resolved,38,Platform Engineering
+INC00263,2025-10-31,TXN00031670,Application Error,High,Closed,57,Bank Integration
+INC00264,2026-09-12,TXN00056869,Transaction Processing Delay,High,Resolved,85,Bank Integration
+INC00265,2025-03-22,TXN00054812,Bank Connectivity,Medium,Closed,17,Bank Integration
+INC00266,2025-12-01,TXN00060248,Application Error,High,Resolved,58,Payment Operations
+INC00267,2025-07-04,TXN00087840,Network Issue,Medium,Resolved,27,Payment Operations
+INC00268,2025-05-22,TXN00031640,Gateway Issue,Low,Closed,134,Risk Operations
+INC00269,2026-10-04,TXN00098880,Transaction Processing Delay,Medium,In Progress,214,Payment Operations
+INC00270,2026-02-20,TXN00046319,Gateway Issue,Medium,Resolved,41,Platform Engineering
+INC00271,2025-04-13,TXN00056435,Gateway Issue,Medium,Resolved,65,Bank Integration
+INC00272,2025-01-30,TXN00007886,System Outage,Medium,In Progress,206,Platform Engineering
+INC00273,2025-01-07,TXN00056951,Gateway Issue,Medium,Resolved,55,Platform Engineering
+INC00274,2025-04-24,TXN00038610,Application Error,Low,In Progress,128,Platform Engineering
+INC00275,2025-06-26,TXN00027997,Bank Connectivity,High,Resolved,163,Risk Operations
+INC00276,2025-09-06,TXN00041373,Network Issue,High,In Progress,42,Bank Integration
+INC00277,2025-01-13,TXN00039844,Gateway Issue,Medium,Resolved,54,Risk Operations
+INC00278,2026-05-17,TXN00012748,Application Error,Medium,Resolved,12,Risk Operations
+INC00279,2025-08-06,TXN00021422,Transaction Processing Delay,Critical,Resolved,6,Platform Engineering
+INC00280,2025-08-25,TXN00037169,Transaction Processing Delay,Low,Resolved,62,Bank Integration
+INC00281,2025-07-13,TXN00033481,Gateway Issue,Medium,Resolved,185,Bank Integration
+INC00282,2026-07-08,TXN00031132,Network Issue,Low,Resolved,174,Risk Operations
+INC00283,2026-09-13,TXN00035762,Application Error,High,Resolved,83,Risk Operations
+INC00284,2025-10-11,TXN00026806,Bank Connectivity,Low,Resolved,68,Bank Integration
+INC00285,2025-09-29,TXN00096586,Network Issue,Medium,Resolved,75,Payment Operations
+INC00286,2025-08-22,TXN00033147,Network Issue,Critical,Closed,33,Payment Operations
+INC00287,2026-03-17,TXN00078209,Network Issue,Medium,Resolved,112,Payment Operations
+INC00288,2026-06-03,TXN00029195,Gateway Issue,High,Resolved,64,Platform Engineering
+INC00289,2025-12-01,TXN00038197,System Outage,High,Resolved,82,Platform Engineering
+INC00290,2025-08-03,TXN00053767,System Outage,Low,Resolved,99,Bank Integration
+INC00291,2026-06-25,TXN00066115,Network Issue,Critical,In Progress,66,Platform Engineering
+INC00292,2025-03-10,TXN00086203,Transaction Processing Delay,Medium,Resolved,47,Risk Operations
+INC00293,2026-06-23,TXN00015288,Network Issue,Medium,Resolved,194,Platform Engineering
+INC00294,2025-10-26,TXN00088500,Gateway Issue,Low,Closed,26,Platform Engineering
+INC00295,2025-04-16,TXN00046906,Transaction Processing Delay,Low,Resolved,55,Platform Engineering
+INC00296,2025-05-12,TXN00097227,Application Error,High,Resolved,43,Platform Engineering
+INC00297,2025-08-01,TXN00099835,System Outage,Medium,Resolved,185,Bank Integration
+INC00298,2025-11-19,TXN00085600,Gateway Issue,Medium,Closed,27,Risk Operations
+INC00299,2025-04-10,TXN00077567,Network Issue,High,Resolved,140,Risk Operations
+INC00300,2025-10-20,TXN00012378,Bank Connectivity,Medium,Resolved,14,Platform Engineering
+INC00301,2026-10-07,TXN00052075,Gateway Issue,High,Resolved,50,Payment Operations
+INC00302,2026-03-04,TXN00044352,Bank Connectivity,Medium,Resolved,100,Platform Engineering
+INC00303,2026-10-30,TXN00014084,Bank Connectivity,Medium,Closed,32,Payment Operations
+INC00304,2026-06-06,TXN00018931,Gateway Issue,Critical,Resolved,191,Platform Engineering
+INC00305,2026-11-25,TXN00001501,System Outage,Medium,Resolved,185,Platform Engineering
+INC00306,2025-06-27,TXN00035609,Gateway Issue,Medium,Resolved,35,Platform Engineering
+INC00307,2025-10-24,TXN00006508,Application Error,Medium,Resolved,18,Bank Integration
+INC00308,2026-11-28,TXN00028973,Bank Connectivity,Low,Resolved,16,Payment Operations
+INC00309,2025-10-21,TXN00000401,Gateway Issue,Medium,Resolved,89,Bank Integration
+INC00310,2025-01-02,TXN00057931,Gateway Issue,High,Closed,83,Platform Engineering
+INC00311,2026-10-16,TXN00008181,Network Issue,Low,Resolved,98,Bank Integration
+INC00312,2026-09-16,TXN00094409,Gateway Issue,High,Resolved,102,Platform Engineering
+INC00313,2025-06-01,TXN00010825,Network Issue,Low,Resolved,100,Risk Operations
+INC00314,2025-12-23,TXN00013460,Gateway Issue,Low,Resolved,116,Risk Operations
+INC00315,2025-10-28,TXN00049001,Transaction Processing Delay,Medium,Resolved,77,Risk Operations
+INC00316,2026-08-23,TXN00028295,Transaction Processing Delay,High,Resolved,96,Platform Engineering
+INC00317,2025-02-06,TXN00060061,Transaction Processing Delay,Medium,In Progress,98,Payment Operations
+INC00318,2026-06-05,TXN00002912,System Outage,Low,Resolved,128,Platform Engineering
+INC00319,2025-04-15,TXN00029884,Gateway Issue,Low,Resolved,98,Platform Engineering
+INC00320,2026-07-23,TXN00002756,Application Error,Medium,Closed,14,Platform Engineering
+INC00321,2026-10-05,TXN00032084,Bank Connectivity,Low,Resolved,159,Bank Integration
+INC00322,2026-04-17,TXN00041548,Bank Connectivity,Medium,Resolved,22,Payment Operations
+INC00323,2025-10-12,TXN00023636,Transaction Processing Delay,Low,Closed,135,Payment Operations
+INC00324,2026-11-06,TXN00026924,Application Error,Medium,Resolved,111,Platform Engineering
+INC00325,2026-12-17,TXN00054273,Network Issue,Low,Resolved,29,Payment Operations
+INC00326,2025-04-23,TXN00044890,Application Error,Critical,Resolved,108,Platform Engineering
+INC00327,2025-05-12,TXN00052702,Transaction Processing Delay,Low,In Progress,74,Platform Engineering
+INC00328,2025-07-02,TXN00046252,Gateway Issue,Low,Closed,99,Platform Engineering
+INC00329,2025-04-16,TXN00091237,Bank Connectivity,Critical,Resolved,113,Platform Engineering
+INC00330,2025-03-21,TXN00069425,Bank Connectivity,Low,Resolved,21,Bank Integration
+INC00331,2026-11-04,TXN00089055,System Outage,Medium,Resolved,54,Payment Operations
+INC00332,2026-06-29,TXN00063428,Network Issue,Low,Resolved,103,Bank Integration
+INC00333,2026-11-07,TXN00061509,Gateway Issue,Medium,Resolved,41,Platform Engineering
+INC00334,2025-05-23,TXN00036731,Network Issue,Low,In Progress,174,Bank Integration
+INC00335,2025-03-16,TXN00079918,Transaction Processing Delay,Medium,Resolved,65,Risk Operations
+INC00336,2026-12-17,TXN00057044,Transaction Processing Delay,Medium,Resolved,116,Payment Operations
+INC00337,2026-06-08,TXN00065121,Application Error,Medium,Closed,132,Bank Integration
+INC00338,2026-06-14,TXN00066351,Gateway Issue,Low,Closed,147,Bank Integration
+INC00339,2025-05-16,TXN00037423,Bank Connectivity,Low,Resolved,51,Risk Operations
+INC00340,2025-11-15,TXN00096959,Transaction Processing Delay,High,Resolved,59,Risk Operations
+INC00341,2026-11-25,TXN00065051,Application Error,Low,Resolved,22,Risk Operations
+INC00342,2026-01-19,TXN00009622,System Outage,High,Resolved,185,Payment Operations
+INC00343,2026-02-28,TXN00086239,Network Issue,Medium,Resolved,36,Payment Operations
+INC00344,2026-10-30,TXN00057188,Transaction Processing Delay,Medium,Resolved,51,Platform Engineering
+INC00345,2026-12-10,TXN00045368,Network Issue,Low,Resolved,135,Platform Engineering
+INC00346,2025-02-25,TXN00043587,Gateway Issue,Low,In Progress,9,Platform Engineering
+INC00347,2026-10-08,TXN00057944,Gateway Issue,High,Closed,79,Platform Engineering
+INC00348,2025-03-01,TXN00020301,Gateway Issue,High,Resolved,23,Bank Integration
+INC00349,2025-11-11,TXN00015650,Gateway Issue,Low,In Progress,29,Payment Operations
+INC00350,2025-07-19,TXN00009092,Application Error,Medium,Resolved,238,Bank Integration
+INC00351,2026-01-25,TXN00073712,Bank Connectivity,Low,Closed,37,Bank Integration
+INC00352,2026-10-26,TXN00001368,Application Error,High,Resolved,23,Platform Engineering
+INC00353,2025-04-25,TXN00067000,Gateway Issue,Medium,Resolved,89,Payment Operations
+INC00354,2026-11-22,TXN00081054,Application Error,High,Resolved,37,Platform Engineering
+INC00355,2025-01-23,TXN00016792,Transaction Processing Delay,Low,Resolved,64,Bank Integration
+INC00356,2025-06-30,TXN00002153,Transaction Processing Delay,Low,Closed,33,Bank Integration
+INC00357,2026-09-05,TXN00013744,Network Issue,Low,Resolved,64,Platform Engineering
+INC00358,2025-05-24,TXN00033143,Gateway Issue,High,Resolved,32,Platform Engineering
+INC00359,2025-09-16,TXN00077997,Network Issue,Low,Resolved,215,Risk Operations
+INC00360,2025-04-09,TXN00004687,System Outage,Medium,Resolved,185,Bank Integration
+INC00361,2026-08-15,TXN00051131,Application Error,Low,Resolved,123,Risk Operations
+INC00362,2026-09-01,TXN00038412,Application Error,Medium,Resolved,66,Risk Operations
+INC00363,2026-06-12,TXN00060056,System Outage,High,Resolved,167,Payment Operations
+INC00364,2025-06-29,TXN00063698,Transaction Processing Delay,High,Resolved,33,Payment Operations
+INC00365,2026-04-05,TXN00075156,Bank Connectivity,Low,Resolved,64,Payment Operations
+INC00366,2026-05-31,TXN00085355,Transaction Processing Delay,Low,Resolved,137,Payment Operations
+INC00367,2026-12-31,TXN00024292,Application Error,High,Closed,124,Payment Operations
+INC00368,2026-08-10,TXN00007443,Network Issue,Medium,Resolved,78,Risk Operations
+INC00369,2026-02-12,TXN00014495,Gateway Issue,Low,Resolved,112,Bank Integration
+INC00370,2025-04-02,TXN00034477,Gateway Issue,Medium,Resolved,46,Bank Integration
+INC00371,2026-07-12,TXN00047841,Gateway Issue,Medium,Closed,128,Bank Integration
+INC00372,2026-03-24,TXN00067968,Application Error,Medium,Resolved,50,Risk Operations
+INC00373,2026-09-01,TXN00015709,Bank Connectivity,Low,Closed,110,Payment Operations
+INC00374,2026-08-02,TXN00063633,Bank Connectivity,Low,Resolved,83,Bank Integration
+INC00375,2025-01-15,TXN00034623,Gateway Issue,Medium,Resolved,41,Platform Engineering
+INC00376,2026-05-22,TXN00067368,Transaction Processing Delay,High,Resolved,197,Bank Integration
+INC00377,2025-01-24,TXN00061261,Network Issue,Low,Resolved,43,Risk Operations
+INC00378,2026-06-28,TXN00024121,Application Error,High,Resolved,225,Bank Integration
+INC00379,2025-01-17,TXN00009291,Transaction Processing Delay,High,Resolved,45,Risk Operations
+INC00380,2025-08-24,TXN00049211,Bank Connectivity,Low,Resolved,77,Risk Operations
+INC00381,2026-07-12,TXN00067217,Network Issue,Medium,Resolved,43,Bank Integration
+INC00382,2026-10-21,TXN00093039,Gateway Issue,Medium,Resolved,53,Bank Integration
+INC00383,2026-06-26,TXN00043171,Bank Connectivity,Low,Resolved,46,Risk Operations
+INC00384,2025-11-21,TXN00002723,Gateway Issue,Low,Resolved,132,Bank Integration
+INC00385,2025-04-12,TXN00022037,System Outage,Low,Resolved,54,Bank Integration
+INC00386,2025-02-18,TXN00086611,System Outage,Medium,Resolved,63,Bank Integration
+INC00387,2025-04-03,TXN00082302,Gateway Issue,Medium,Closed,53,Risk Operations
+INC00388,2025-11-12,TXN00018423,System Outage,High,Resolved,36,Platform Engineering
+INC00389,2025-01-09,TXN00094936,Network Issue,Low,Closed,76,Bank Integration
+INC00390,2025-11-12,TXN00012540,Gateway Issue,High,Resolved,49,Risk Operations
+INC00391,2025-07-02,TXN00091006,Bank Connectivity,Medium,Resolved,59,Risk Operations
+INC00392,2025-08-04,TXN00055886,Gateway Issue,Medium,Resolved,57,Platform Engineering
+INC00393,2025-06-03,TXN00094559,Bank Connectivity,Low,In Progress,55,Platform Engineering
+INC00394,2026-03-10,TXN00085841,Transaction Processing Delay,Critical,Resolved,24,Payment Operations
+INC00395,2026-02-04,TXN00064555,Bank Connectivity,High,Closed,146,Bank Integration
+INC00396,2025-07-29,TXN00021240,Network Issue,Low,In Progress,90,Risk Operations
+INC00397,2026-09-12,TXN00063907,Gateway Issue,Medium,Closed,56,Payment Operations
+INC00398,2026-06-26,TXN00042608,Network Issue,Medium,Resolved,54,Bank Integration
+INC00399,2025-03-18,TXN00082325,System Outage,High,Resolved,71,Risk Operations
+INC00400,2025-11-24,TXN00020482,Bank Connectivity,Low,Resolved,73,Platform Engineering
+INC00401,2026-08-02,TXN00041900,Gateway Issue,Low,Resolved,44,Risk Operations
+INC00402,2025-03-03,TXN00042875,Bank Connectivity,Medium,In Progress,124,Risk Operations
+INC00403,2025-07-22,TXN00039620,Bank Connectivity,Critical,Closed,171,Platform Engineering
+INC00404,2026-04-05,TXN00040212,Network Issue,Medium,Closed,64,Platform Engineering
+INC00405,2025-12-05,TXN00013833,Bank Connectivity,Low,Resolved,141,Payment Operations
+INC00406,2026-01-11,TXN00081542,Gateway Issue,Medium,Resolved,81,Payment Operations
+INC00407,2026-12-26,TXN00074864,Network Issue,Critical,Resolved,203,Payment Operations
+INC00408,2026-11-27,TXN00098777,Network Issue,High,Resolved,137,Platform Engineering
+INC00409,2025-06-17,TXN00059474,Gateway Issue,High,Closed,102,Platform Engineering
+INC00410,2025-12-30,TXN00034890,Network Issue,Critical,Resolved,54,Bank Integration
+INC00411,2025-11-15,TXN00013896,Bank Connectivity,Critical,Resolved,105,Payment Operations
+INC00412,2025-04-28,TXN00012181,Transaction Processing Delay,High,Resolved,56,Bank Integration
+INC00413,2026-12-09,TXN00007330,Application Error,Low,Closed,48,Payment Operations
+INC00414,2025-04-25,TXN00029298,Transaction Processing Delay,Low,Closed,32,Risk Operations
+INC00415,2025-05-05,TXN00019061,Network Issue,Low,In Progress,35,Risk Operations
+INC00416,2025-12-18,TXN00065467,Application Error,High,Closed,42,Platform Engineering
+INC00417,2026-08-16,TXN00008573,Gateway Issue,Medium,Closed,129,Platform Engineering
+INC00418,2025-07-04,TXN00087374,Gateway Issue,Medium,Resolved,146,Payment Operations
+INC00419,2026-09-28,TXN00044635,Network Issue,Medium,Resolved,116,Platform Engineering
+INC00420,2025-10-29,TXN00091245,Gateway Issue,Low,Resolved,92,Bank Integration
+INC00421,2025-01-10,TXN00000512,Network Issue,Medium,Resolved,110,Bank Integration
+INC00422,2026-01-05,TXN00047561,Transaction Processing Delay,High,Closed,163,Bank Integration
+INC00423,2026-09-30,TXN00018522,Transaction Processing Delay,Medium,Resolved,137,Risk Operations
+INC00424,2025-06-19,TXN00069941,System Outage,Low,Resolved,75,Risk Operations
+INC00425,2025-12-27,TXN00070309,Transaction Processing Delay,Medium,Resolved,74,Bank Integration
+INC00426,2025-10-19,TXN00022110,Gateway Issue,Low,In Progress,45,Payment Operations
+INC00427,2026-03-27,TXN00050780,Network Issue,Medium,Resolved,66,Payment Operations
+INC00428,2026-03-12,TXN00096275,System Outage,High,Resolved,69,Payment Operations
+INC00429,2026-10-15,TXN00013008,Network Issue,Medium,Resolved,69,Bank Integration
+INC00430,2025-02-16,TXN00022696,Application Error,Medium,Resolved,62,Payment Operations
+INC00431,2026-03-04,TXN00067513,System Outage,High,Resolved,45,Risk Operations
+INC00432,2025-09-19,TXN00037947,Transaction Processing Delay,Medium,Resolved,69,Risk Operations
+INC00433,2025-06-21,TXN00092027,Network Issue,Low,Resolved,45,Payment Operations
+INC00434,2026-05-21,TXN00027970,Application Error,Medium,Resolved,77,Platform Engineering
+INC00435,2026-05-11,TXN00028871,Transaction Processing Delay,Low,Closed,52,Bank Integration
+INC00436,2025-04-14,TXN00086385,Bank Connectivity,Low,Resolved,26,Risk Operations
+INC00437,2026-02-25,TXN00024289,Gateway Issue,Critical,Resolved,35,Bank Integration
+INC00438,2025-02-15,TXN00093080,Network Issue,High,Resolved,81,Risk Operations
+INC00439,2025-09-21,TXN00039439,Network Issue,Medium,Resolved,89,Payment Operations
+INC00440,2026-07-16,TXN00028967,Network Issue,Medium,Resolved,97,Risk Operations
+INC00441,2026-06-26,TXN00044956,Bank Connectivity,Medium,In Progress,155,Bank Integration
+INC00442,2026-06-21,TXN00063841,Gateway Issue,Medium,Resolved,82,Platform Engineering
+INC00443,2026-08-23,TXN00026606,Transaction Processing Delay,High,Resolved,104,Bank Integration
+INC00444,2025-12-26,TXN00075058,Network Issue,High,Resolved,80,Risk Operations
+INC00445,2026-07-22,TXN00097717,Gateway Issue,Low,Resolved,95,Payment Operations
+INC00446,2025-03-28,TXN00032572,Transaction Processing Delay,Low,Closed,64,Risk Operations
+INC00447,2026-12-25,TXN00065653,Network Issue,High,Resolved,89,Platform Engineering
+INC00448,2025-04-19,TXN00026461,Transaction Processing Delay,High,Resolved,84,Payment Operations
+INC00449,2025-12-23,TXN00050223,Application Error,Medium,Closed,92,Payment Operations
+INC00450,2025-09-17,TXN00029607,Gateway Issue,Low,Resolved,59,Platform Engineering
+INC00451,2025-07-27,TXN00029047,Network Issue,Medium,Resolved,24,Risk Operations
+INC00452,2026-05-15,TXN00090116,System Outage,Low,Resolved,22,Platform Engineering
+INC00453,2026-11-10,TXN00067607,Bank Connectivity,Medium,Closed,69,Bank Integration
+INC00454,2025-11-08,TXN00027822,Gateway Issue,Medium,Closed,69,Risk Operations
+INC00455,2025-11-20,TXN00051433,Gateway Issue,Medium,Resolved,91,Risk Operations
+INC00456,2025-09-04,TXN00026934,Transaction Processing Delay,High,Resolved,72,Platform Engineering
+INC00457,2025-04-27,TXN00094776,Application Error,Low,In Progress,116,Bank Integration
+INC00458,2026-10-23,TXN00081327,System Outage,Medium,Resolved,61,Payment Operations
+INC00459,2026-02-09,TXN00027566,Network Issue,Medium,Resolved,49,Payment Operations
+INC00460,2025-10-17,TXN00007310,Transaction Processing Delay,Medium,Resolved,14,Bank Integration
+INC00461,2025-02-10,TXN00052824,System Outage,High,Resolved,63,Platform Engineering
+INC00462,2026-12-12,TXN00054823,Gateway Issue,Medium,Resolved,49,Platform Engineering
+INC00463,2025-12-05,TXN00028765,Network Issue,Medium,Closed,27,Risk Operations
+INC00464,2025-01-13,TXN00030741,System Outage,Medium,In Progress,30,Payment Operations
+INC00465,2025-05-07,TXN00011878,Bank Connectivity,Medium,Resolved,42,Bank Integration
+INC00466,2026-03-07,TXN00087238,Gateway Issue,Medium,Resolved,174,Platform Engineering
+INC00467,2025-01-24,TXN00046157,Bank Connectivity,Medium,Resolved,70,Risk Operations
+INC00468,2026-03-24,TXN00033544,Network Issue,Medium,Closed,81,Platform Engineering
+INC00469,2025-10-16,TXN00006204,Bank Connectivity,Medium,Resolved,41,Platform Engineering
+INC00470,2025-12-24,TXN00018473,System Outage,Low,Resolved,118,Payment Operations
+INC00471,2025-02-27,TXN00033568,Transaction Processing Delay,Medium,Resolved,37,Bank Integration
+INC00472,2025-08-25,TXN00076333,Transaction Processing Delay,Medium,Resolved,107,Platform Engineering
+INC00473,2026-03-18,TXN00024670,Gateway Issue,High,Resolved,59,Platform Engineering
+INC00474,2025-01-02,TXN00044263,Transaction Processing Delay,Medium,Resolved,302,Payment Operations
+INC00475,2025-06-04,TXN00008595,Application Error,Low,Resolved,145,Payment Operations
+INC00476,2026-09-10,TXN00025000,Bank Connectivity,Medium,Resolved,23,Platform Engineering
+INC00477,2025-12-25,TXN00090759,Network Issue,Medium,In Progress,15,Risk Operations
+INC00478,2026-05-04,TXN00009225,Bank Connectivity,Low,In Progress,129,Bank Integration
+INC00479,2026-10-08,TXN00005172,Transaction Processing Delay,High,Resolved,199,Payment Operations
+INC00480,2026-12-07,TXN00085633,Bank Connectivity,Low,Closed,120,Risk Operations
+INC00481,2026-03-26,TXN00081364,Transaction Processing Delay,Medium,Resolved,79,Platform Engineering
+INC00482,2025-02-22,TXN00010646,System Outage,Medium,Resolved,48,Payment Operations
+INC00483,2025-05-05,TXN00040996,System Outage,Medium,In Progress,140,Platform Engineering
+INC00484,2025-01-24,TXN00043095,Gateway Issue,High,Closed,61,Risk Operations
+INC00485,2026-12-22,TXN00088662,Transaction Processing Delay,Low,Closed,13,Risk Operations
+INC00486,2026-11-05,TXN00030893,Network Issue,High,In Progress,73,Platform Engineering
+INC00487,2025-10-22,TXN00067048,Gateway Issue,Medium,Resolved,46,Bank Integration
+INC00488,2026-06-30,TXN00090378,Gateway Issue,Low,Resolved,77,Payment Operations
+INC00489,2026-07-04,TXN00042613,Transaction Processing Delay,Low,Resolved,54,Bank Integration
+INC00490,2026-08-31,TXN00083184,Application Error,Low,Resolved,54,Payment Operations
+INC00491,2026-12-12,TXN00096810,System Outage,Medium,Closed,80,Platform Engineering
+INC00492,2026-04-12,TXN00020704,Network Issue,High,Resolved,102,Risk Operations
+INC00493,2025-12-20,TXN00087480,Gateway Issue,Low,Resolved,102,Platform Engineering
+INC00494,2026-03-24,TXN00027864,Transaction Processing Delay,High,In Progress,129,Risk Operations
+INC00495,2026-10-25,TXN00057614,Network Issue,High,Resolved,26,Bank Integration
+INC00496,2025-12-10,TXN00036054,Transaction Processing Delay,Medium,Resolved,252,Risk Operations
+INC00497,2025-01-25,TXN00017661,Transaction Processing Delay,Medium,Resolved,156,Platform Engineering
+INC00498,2025-06-11,TXN00079008,Application Error,Low,Resolved,138,Payment Operations
+INC00499,2025-05-31,TXN00049711,Bank Connectivity,Medium,Resolved,45,Risk Operations
+INC00500,2025-09-02,TXN00040611,Gateway Issue,Low,Resolved,85,Payment Operations
+INC00501,2026-03-13,TXN00060309,Transaction Processing Delay,High,Resolved,63,Payment Operations
+INC00502,2025-05-16,TXN00057527,Gateway Issue,Low,In Progress,91,Risk Operations
+INC00503,2025-05-18,TXN00066503,Transaction Processing Delay,Medium,Resolved,159,Payment Operations
+INC00504,2025-09-05,TXN00058975,Gateway Issue,High,Closed,228,Payment Operations
+INC00505,2026-12-15,TXN00099162,Gateway Issue,Medium,Closed,38,Payment Operations
+INC00506,2025-04-20,TXN00090081,Bank Connectivity,Medium,Resolved,157,Payment Operations
+INC00507,2025-10-26,TXN00068715,Application Error,Medium,Resolved,81,Bank Integration
+INC00508,2026-11-25,TXN00005416,Gateway Issue,Medium,Closed,71,Platform Engineering
+INC00509,2026-02-24,TXN00043644,System Outage,Low,Closed,52,Platform Engineering
+INC00510,2026-01-07,TXN00083396,Application Error,Low,Resolved,99,Platform Engineering
+INC00511,2025-04-09,TXN00034837,Bank Connectivity,Medium,Resolved,90,Bank Integration
+INC00512,2026-10-18,TXN00087862,Bank Connectivity,High,Closed,90,Payment Operations
+INC00513,2025-09-06,TXN00045251,Gateway Issue,Medium,Resolved,137,Payment Operations
+INC00514,2025-05-16,TXN00085563,Application Error,Medium,Resolved,67,Bank Integration
+INC00515,2025-02-24,TXN00049495,Gateway Issue,Low,Resolved,126,Risk Operations
+INC00516,2026-06-17,TXN00006252,Bank Connectivity,Low,Resolved,78,Payment Operations
+INC00517,2026-10-31,TXN00085670,Network Issue,Medium,In Progress,50,Bank Integration
+INC00518,2026-07-02,TXN00017043,Network Issue,Low,Resolved,56,Platform Engineering
+INC00519,2025-05-05,TXN00095346,Application Error,High,In Progress,45,Bank Integration
+INC00520,2026-07-28,TXN00099459,Transaction Processing Delay,Medium,In Progress,47,Risk Operations
+INC00521,2025-09-13,TXN00069036,Gateway Issue,Low,Resolved,107,Platform Engineering
+INC00522,2026-11-04,TXN00058433,Gateway Issue,Medium,In Progress,69,Payment Operations
+INC00523,2026-09-10,TXN00031973,Transaction Processing Delay,Critical,Resolved,88,Platform Engineering
+INC00524,2025-12-17,TXN00018218,Application Error,High,In Progress,69,Risk Operations
+INC00525,2025-08-14,TXN00044978,Bank Connectivity,Medium,Resolved,40,Platform Engineering
+INC00526,2026-07-25,TXN00020645,Bank Connectivity,Low,In Progress,141,Platform Engineering
+INC00527,2025-04-24,TXN00056961,Gateway Issue,Critical,Resolved,61,Bank Integration
+INC00528,2025-06-16,TXN00075218,Transaction Processing Delay,Medium,Resolved,43,Payment Operations
+INC00529,2026-10-11,TXN00098492,Application Error,Medium,Resolved,26,Risk Operations
+INC00530,2025-07-31,TXN00025434,Application Error,High,Resolved,82,Risk Operations
+INC00531,2026-02-08,TXN00090411,Gateway Issue,Medium,Resolved,81,Platform Engineering
+INC00532,2026-02-25,TXN00098533,Bank Connectivity,High,Resolved,100,Payment Operations
+INC00533,2025-08-18,TXN00023283,Bank Connectivity,Low,Closed,125,Bank Integration
+INC00534,2025-10-29,TXN00042476,Network Issue,Low,Resolved,12,Payment Operations
+INC00535,2025-08-25,TXN00004373,Bank Connectivity,Medium,Resolved,36,Bank Integration
+INC00536,2026-12-13,TXN00026642,System Outage,High,Resolved,123,Platform Engineering
+INC00537,2026-11-01,TXN00048538,Transaction Processing Delay,Low,Resolved,27,Payment Operations
+INC00538,2026-10-06,TXN00032788,Gateway Issue,Medium,Closed,135,Bank Integration
+INC00539,2025-08-28,TXN00019552,System Outage,Medium,Resolved,69,Bank Integration
+INC00540,2025-11-24,TXN00053058,Gateway Issue,Medium,Resolved,153,Payment Operations
+INC00541,2025-06-15,TXN00090615,System Outage,Low,Resolved,111,Bank Integration
+INC00542,2026-05-28,TXN00099343,Application Error,High,Closed,112,Bank Integration
+INC00543,2025-11-02,TXN00006465,Network Issue,High,Resolved,84,Bank Integration
+INC00544,2025-01-06,TXN00034106,Transaction Processing Delay,Medium,Closed,41,Platform Engineering
+INC00545,2026-04-23,TXN00065778,Application Error,Low,Resolved,76,Risk Operations
+INC00546,2025-08-29,TXN00052846,Application Error,Medium,Resolved,31,Risk Operations
+INC00547,2026-07-14,TXN00062261,Network Issue,High,Resolved,47,Payment Operations
+INC00548,2026-03-22,TXN00092792,Bank Connectivity,Medium,Resolved,98,Bank Integration
+INC00549,2025-07-04,TXN00050665,Application Error,Medium,In Progress,60,Payment Operations
+INC00550,2025-07-12,TXN00070447,Bank Connectivity,Low,Resolved,86,Risk Operations
+INC00551,2026-10-25,TXN00032532,Network Issue,Low,Closed,80,Payment Operations
+INC00552,2025-10-04,TXN00000883,System Outage,Medium,Resolved,30,Risk Operations
+INC00553,2026-07-20,TXN00076670,Application Error,Medium,Resolved,79,Risk Operations
+INC00554,2026-09-21,TXN00052927,Gateway Issue,Low,Resolved,60,Risk Operations
+INC00555,2026-04-14,TXN00077928,Network Issue,Low,Resolved,106,Payment Operations
+INC00556,2025-08-03,TXN00053932,Bank Connectivity,Medium,Closed,38,Bank Integration
+INC00557,2026-08-01,TXN00058294,Transaction Processing Delay,Medium,Resolved,119,Risk Operations
+INC00558,2025-02-10,TXN00067618,Application Error,Low,Resolved,99,Bank Integration
+INC00559,2025-08-21,TXN00040510,Bank Connectivity,Critical,Resolved,103,Risk Operations
+INC00560,2026-07-18,TXN00026048,Network Issue,Low,Closed,10,Platform Engineering
+INC00561,2025-11-14,TXN00031715,Application Error,Low,Closed,22,Bank Integration
+INC00562,2025-01-03,TXN00063518,Application Error,Low,Resolved,113,Risk Operations
+INC00563,2026-10-27,TXN00096970,Gateway Issue,Low,Resolved,46,Bank Integration
+INC00564,2026-10-24,TXN00080474,Network Issue,High,Resolved,108,Platform Engineering
+INC00565,2026-06-26,TXN00091712,Gateway Issue,Low,Resolved,102,Bank Integration
+INC00566,2025-08-26,TXN00019388,Application Error,Low,Resolved,143,Payment Operations
+INC00567,2025-07-20,TXN00099648,Network Issue,Low,Closed,26,Risk Operations
+INC00568,2026-02-11,TXN00077124,Transaction Processing Delay,Medium,Resolved,14,Payment Operations
+INC00569,2025-11-19,TXN00035328,Application Error,Low,Resolved,248,Platform Engineering
+INC00570,2025-10-30,TXN00029308,Bank Connectivity,High,Resolved,39,Platform Engineering
+INC00571,2026-12-30,TXN00043102,Network Issue,Low,Resolved,110,Platform Engineering
+INC00572,2026-08-30,TXN00001828,Bank Connectivity,Critical,Resolved,74,Payment Operations
+INC00573,2026-03-15,TXN00026080,Transaction Processing Delay,Critical,Resolved,36,Bank Integration
+INC00574,2025-07-14,TXN00037701,Network Issue,Medium,In Progress,34,Platform Engineering
+INC00575,2026-08-18,TXN00084295,Transaction Processing Delay,Medium,Resolved,90,Platform Engineering
+INC00576,2026-03-22,TXN00010535,Network Issue,Medium,Closed,67,Bank Integration
+INC00577,2025-08-24,TXN00001308,Gateway Issue,Critical,Closed,29,Platform Engineering
+INC00578,2026-12-02,TXN00003903,Bank Connectivity,Critical,Resolved,144,Platform Engineering
+INC00579,2025-08-24,TXN00014179,System Outage,Medium,Resolved,45,Platform Engineering
+INC00580,2025-10-15,TXN00034205,Transaction Processing Delay,High,Resolved,16,Risk Operations
+INC00581,2026-10-11,TXN00044170,Gateway Issue,Medium,In Progress,45,Platform Engineering
+INC00582,2026-10-19,TXN00063380,Gateway Issue,Medium,Resolved,28,Payment Operations
+INC00583,2025-08-03,TXN00010154,Transaction Processing Delay,Medium,Resolved,31,Platform Engineering
+INC00584,2025-09-19,TXN00073430,Bank Connectivity,Medium,Closed,115,Payment Operations
+INC00585,2026-08-22,TXN00004401,Network Issue,Critical,Resolved,55,Bank Integration
+INC00586,2026-05-28,TXN00001831,Network Issue,Medium,Resolved,117,Payment Operations
+INC00587,2025-01-18,TXN00079726,Gateway Issue,Medium,Resolved,26,Payment Operations
+INC00588,2026-12-25,TXN00095235,Network Issue,Medium,Resolved,41,Payment Operations
+INC00589,2026-09-27,TXN00002937,Transaction Processing Delay,Medium,Resolved,43,Payment Operations
+INC00590,2026-10-18,TXN00048739,Network Issue,Medium,Resolved,137,Platform Engineering
+INC00591,2026-12-12,TXN00055174,Application Error,Medium,Closed,81,Bank Integration
+INC00592,2026-03-13,TXN00030314,Application Error,Medium,Closed,162,Platform Engineering
+INC00593,2025-01-18,TXN00084071,Transaction Processing Delay,High,Resolved,49,Bank Integration
+INC00594,2025-03-19,TXN00017540,Gateway Issue,Medium,Resolved,51,Platform Engineering
+INC00595,2026-03-25,TXN00050785,Gateway Issue,Medium,In Progress,254,Platform Engineering
+INC00596,2025-04-27,TXN00047594,Network Issue,Critical,Resolved,103,Risk Operations
+INC00597,2025-07-25,TXN00088026,Network Issue,High,Resolved,156,Platform Engineering
+INC00598,2025-11-26,TXN00072263,Bank Connectivity,Low,Resolved,49,Platform Engineering
+INC00599,2026-02-18,TXN00038756,Gateway Issue,Medium,Closed,92,Payment Operations
+INC00600,2026-05-24,TXN00029127,Network Issue,Medium,Resolved,245,Platform Engineering
+INC00601,2026-02-04,TXN00092694,Network Issue,Medium,Closed,144,Risk Operations
+INC00602,2025-02-21,TXN00059758,Gateway Issue,Low,Resolved,138,Bank Integration
+INC00603,2026-05-11,TXN00054516,Bank Connectivity,Medium,Resolved,92,Bank Integration
+INC00604,2025-02-08,TXN00049835,Network Issue,Medium,Resolved,35,Payment Operations
+INC00605,2025-07-04,TXN00032815,Transaction Processing Delay,Medium,Resolved,88,Payment Operations
+INC00606,2025-07-29,TXN00072329,Bank Connectivity,Low,Closed,18,Risk Operations
+INC00607,2026-10-23,TXN00002757,System Outage,Low,Resolved,51,Payment Operations
+INC00608,2026-12-01,TXN00070798,Application Error,Low,Resolved,167,Bank Integration
+INC00609,2026-06-21,TXN00051152,Network Issue,Low,Resolved,63,Platform Engineering
+INC00610,2025-10-10,TXN00056803,Bank Connectivity,Critical,Closed,52,Risk Operations
+INC00611,2026-05-04,TXN00092880,Network Issue,Low,Resolved,22,Payment Operations
+INC00612,2026-06-27,TXN00095017,Transaction Processing Delay,Medium,Resolved,34,Payment Operations
+INC00613,2026-06-27,TXN00063219,Transaction Processing Delay,High,Resolved,54,Payment Operations
+INC00614,2025-07-18,TXN00028660,Bank Connectivity,Medium,Resolved,17,Payment Operations
+INC00615,2026-12-12,TXN00087630,System Outage,Medium,Resolved,74,Risk Operations
+INC00616,2026-04-13,TXN00048204,System Outage,Medium,Resolved,41,Bank Integration
+INC00617,2026-01-20,TXN00084780,Bank Connectivity,Medium,Resolved,58,Platform Engineering
+INC00618,2025-04-16,TXN00043472,System Outage,Medium,Resolved,35,Payment Operations
+INC00619,2026-07-10,TXN00095894,Transaction Processing Delay,High,In Progress,23,Payment Operations
+INC00620,2026-06-19,TXN00083426,Bank Connectivity,Critical,Resolved,78,Payment Operations
+INC00621,2026-01-31,TXN00027257,Bank Connectivity,Medium,Resolved,58,Payment Operations
+INC00622,2026-01-25,TXN00030611,Transaction Processing Delay,Medium,Closed,105,Bank Integration
+INC00623,2026-01-19,TXN00024064,Gateway Issue,Low,Resolved,134,Platform Engineering
+INC00624,2026-09-05,TXN00056273,Application Error,Medium,Resolved,60,Platform Engineering
+INC00625,2026-02-09,TXN00032531,Bank Connectivity,Medium,In Progress,96,Payment Operations
+INC00626,2025-02-14,TXN00041825,Transaction Processing Delay,Medium,Resolved,110,Bank Integration
+INC00627,2026-12-22,TXN00042621,Gateway Issue,Medium,Resolved,30,Platform Engineering
+INC00628,2026-12-22,TXN00086286,Network Issue,Medium,In Progress,190,Payment Operations
+INC00629,2025-01-30,TXN00046205,Application Error,Medium,Resolved,7,Risk Operations
+INC00630,2025-05-24,TXN00036000,System Outage,Low,In Progress,12,Bank Integration
+INC00631,2025-03-18,TXN00077984,Gateway Issue,Low,Resolved,101,Bank Integration
+INC00632,2026-10-31,TXN00067948,System Outage,Medium,Resolved,204,Platform Engineering
+INC00633,2025-08-21,TXN00032189,Gateway Issue,High,Resolved,127,Bank Integration
+INC00634,2025-04-10,TXN00039151,Gateway Issue,Medium,Closed,90,Risk Operations
+INC00635,2026-08-24,TXN00078496,Gateway Issue,Medium,Resolved,114,Platform Engineering
+INC00636,2026-02-24,TXN00057150,System Outage,Medium,Resolved,166,Bank Integration
+INC00637,2026-04-27,TXN00043522,Network Issue,High,Resolved,46,Payment Operations
+INC00638,2026-05-05,TXN00090192,Network Issue,Medium,Resolved,75,Payment Operations
+INC00639,2025-12-01,TXN00039856,Gateway Issue,Medium,Resolved,159,Platform Engineering
+INC00640,2026-01-24,TXN00080222,Bank Connectivity,Low,Resolved,25,Platform Engineering
+INC00641,2026-07-16,TXN00031440,Network Issue,Medium,Resolved,131,Payment Operations
+INC00642,2026-06-26,TXN00091331,Bank Connectivity,Medium,Resolved,175,Platform Engineering
+INC00643,2025-07-14,TXN00014625,Transaction Processing Delay,Critical,Resolved,272,Platform Engineering
+INC00644,2026-10-25,TXN00061249,Bank Connectivity,Medium,Resolved,125,Risk Operations
+INC00645,2026-10-05,TXN00077589,System Outage,Medium,Resolved,163,Payment Operations
+INC00646,2025-05-28,TXN00009716,Gateway Issue,Medium,Resolved,201,Platform Engineering
+INC00647,2026-04-15,TXN00096787,Transaction Processing Delay,High,Resolved,125,Payment Operations
+INC00648,2026-06-16,TXN00041542,Gateway Issue,Low,Resolved,135,Risk Operations
+INC00649,2026-08-04,TXN00060016,System Outage,Low,Resolved,91,Risk Operations
+INC00650,2026-11-03,TXN00004741,Application Error,Low,Resolved,87,Risk Operations
+INC00651,2026-03-09,TXN00029030,Network Issue,High,Resolved,70,Risk Operations
+INC00652,2025-11-13,TXN00061123,Gateway Issue,Medium,Resolved,179,Risk Operations
+INC00653,2026-05-13,TXN00057599,Application Error,Low,Resolved,137,Bank Integration
+INC00654,2026-10-24,TXN00083044,Transaction Processing Delay,Medium,Resolved,65,Payment Operations
+INC00655,2025-01-02,TXN00032023,Network Issue,High,Closed,14,Payment Operations
+INC00656,2025-09-19,TXN00079608,Bank Connectivity,Low,In Progress,37,Bank Integration
+INC00657,2025-12-30,TXN00087561,Gateway Issue,Medium,Resolved,80,Risk Operations
+INC00658,2026-11-27,TXN00063510,Network Issue,Medium,Resolved,45,Payment Operations
+INC00659,2025-09-06,TXN00061548,System Outage,Low,In Progress,23,Risk Operations
+INC00660,2026-03-21,TXN00078032,Application Error,Low,Closed,96,Payment Operations
+INC00661,2026-11-14,TXN00095882,Network Issue,Medium,In Progress,25,Payment Operations
+INC00662,2026-07-05,TXN00088745,Network Issue,High,Resolved,155,Payment Operations
+INC00663,2026-10-29,TXN00099880,Transaction Processing Delay,Low,Closed,95,Risk Operations
+INC00664,2026-11-12,TXN00039105,Bank Connectivity,High,Resolved,10,Risk Operations
+INC00665,2025-11-29,TXN00067494,Gateway Issue,High,Resolved,40,Payment Operations
+INC00666,2026-12-26,TXN00068446,Application Error,High,Closed,55,Risk Operations
+INC00667,2026-12-12,TXN00073101,Application Error,High,Resolved,32,Risk Operations
+INC00668,2025-01-06,TXN00031840,Bank Connectivity,Low,Closed,99,Bank Integration
+INC00669,2026-03-07,TXN00064814,Bank Connectivity,High,Closed,44,Risk Operations
+INC00670,2025-09-16,TXN00034605,Network Issue,High,Resolved,29,Payment Operations
+INC00671,2025-11-04,TXN00037340,Network Issue,Low,Resolved,145,Payment Operations
+INC00672,2026-11-16,TXN00043278,System Outage,Low,Resolved,96,Bank Integration
+INC00673,2026-02-10,TXN00013080,Bank Connectivity,Low,Resolved,69,Platform Engineering
+INC00674,2026-07-05,TXN00074785,Bank Connectivity,Low,Resolved,24,Payment Operations
+INC00675,2025-07-05,TXN00032096,Network Issue,Critical,Resolved,177,Platform Engineering
+INC00676,2025-09-23,TXN00038649,Network Issue,Medium,In Progress,40,Platform Engineering
+INC00677,2026-03-31,TXN00049255,Transaction Processing Delay,High,In Progress,76,Payment Operations
+INC00678,2026-10-28,TXN00087472,Bank Connectivity,Medium,Resolved,44,Bank Integration
+INC00679,2025-07-29,TXN00091411,Transaction Processing Delay,Medium,In Progress,79,Platform Engineering
+INC00680,2026-06-09,TXN00073487,Application Error,Medium,Resolved,33,Bank Integration
+INC00681,2026-10-01,TXN00087908,Gateway Issue,Critical,Resolved,92,Platform Engineering
+INC00682,2026-05-21,TXN00025729,Gateway Issue,Medium,Resolved,118,Payment Operations
+INC00683,2025-03-21,TXN00077551,Gateway Issue,Medium,Closed,42,Bank Integration
+INC00684,2026-09-03,TXN00001245,Gateway Issue,Low,Closed,89,Bank Integration
+INC00685,2025-04-20,TXN00085843,Gateway Issue,Low,Resolved,71,Platform Engineering
+INC00686,2026-01-28,TXN00082469,Bank Connectivity,High,Resolved,42,Platform Engineering
+INC00687,2025-03-28,TXN00051222,Network Issue,Critical,Resolved,57,Payment Operations
+INC00688,2025-02-16,TXN00074578,Network Issue,Low,Resolved,185,Platform Engineering
+INC00689,2025-03-02,TXN00094699,Gateway Issue,Low,Closed,39,Bank Integration
+INC00690,2025-07-01,TXN00020515,Gateway Issue,High,Resolved,147,Risk Operations
+INC00691,2026-10-23,TXN00096494,Application Error,Low,Resolved,25,Bank Integration
+INC00692,2025-04-18,TXN00065582,Application Error,Low,Resolved,59,Payment Operations
+INC00693,2026-02-28,TXN00008277,Gateway Issue,Low,Resolved,85,Risk Operations
+INC00694,2025-01-05,TXN00024338,Gateway Issue,Medium,Closed,90,Bank Integration
+INC00695,2026-05-28,TXN00030706,Network Issue,Medium,Resolved,81,Bank Integration
+INC00696,2026-06-02,TXN00081341,Network Issue,Low,Resolved,173,Platform Engineering
+INC00697,2025-06-27,TXN00070324,Gateway Issue,Medium,Resolved,34,Bank Integration
+INC00698,2025-03-29,TXN00037604,Network Issue,Medium,Resolved,29,Risk Operations
+INC00699,2026-12-28,TXN00087966,System Outage,Medium,Resolved,77,Payment Operations
+INC00700,2025-09-27,TXN00035218,Application Error,Medium,Resolved,124,Payment Operations
+INC00701,2026-05-18,TXN00038926,Gateway Issue,Low,Resolved,197,Bank Integration
+INC00702,2026-05-29,TXN00017912,Network Issue,Low,Closed,145,Risk Operations
+INC00703,2025-09-13,TXN00040754,Gateway Issue,Low,Resolved,131,Payment Operations
+INC00704,2026-12-05,TXN00093959,Gateway Issue,Low,Closed,16,Bank Integration
+INC00705,2025-11-22,TXN00013949,Network Issue,High,Resolved,38,Bank Integration
+INC00706,2025-10-20,TXN00008967,Bank Connectivity,Low,In Progress,83,Payment Operations
+INC00707,2025-07-24,TXN00037321,System Outage,Medium,In Progress,38,Payment Operations
+INC00708,2026-10-11,TXN00066901,Application Error,Low,Closed,156,Risk Operations
+INC00709,2025-12-07,TXN00062303,Application Error,Low,Resolved,24,Bank Integration
+INC00710,2026-08-18,TXN00035322,Application Error,Medium,Resolved,78,Platform Engineering
+INC00711,2025-11-17,TXN00050664,Application Error,Critical,Closed,18,Bank Integration
+INC00712,2026-11-18,TXN00085422,Network Issue,High,Resolved,234,Platform Engineering
+INC00713,2026-02-21,TXN00037819,System Outage,Medium,Closed,40,Bank Integration
+INC00714,2026-10-28,TXN00043563,System Outage,Critical,Closed,25,Bank Integration
+INC00715,2025-03-18,TXN00005698,Transaction Processing Delay,Low,Resolved,34,Payment Operations
+INC00716,2026-02-26,TXN00090540,Network Issue,Medium,Resolved,43,Payment Operations
+INC00717,2025-07-14,TXN00031834,Gateway Issue,Medium,Resolved,15,Payment Operations
+INC00718,2026-01-31,TXN00052226,Bank Connectivity,Medium,Closed,48,Platform Engineering
+INC00719,2026-03-18,TXN00084741,Application Error,Medium,In Progress,100,Risk Operations
+INC00720,2025-05-09,TXN00027624,Transaction Processing Delay,Medium,Resolved,41,Payment Operations
+INC00721,2026-06-23,TXN00024398,Application Error,High,Resolved,172,Risk Operations
+INC00722,2026-03-15,TXN00092711,Application Error,Medium,Resolved,30,Platform Engineering
+INC00723,2025-05-23,TXN00010416,Application Error,Medium,Resolved,74,Bank Integration
+INC00724,2026-01-31,TXN00045212,System Outage,High,In Progress,177,Payment Operations
+INC00725,2026-06-11,TXN00074839,System Outage,Medium,Resolved,90,Payment Operations
+INC00726,2026-03-06,TXN00055685,Transaction Processing Delay,Medium,Resolved,68,Payment Operations
+INC00727,2025-12-03,TXN00067107,Network Issue,Medium,In Progress,72,Bank Integration
+INC00728,2026-10-11,TXN00091561,Application Error,Low,Resolved,33,Platform Engineering
+INC00729,2026-11-15,TXN00027650,Application Error,Critical,Resolved,111,Risk Operations
+INC00730,2025-01-12,TXN00061754,Gateway Issue,High,Resolved,146,Platform Engineering
+INC00731,2026-09-30,TXN00066627,Network Issue,Low,Resolved,12,Payment Operations
+INC00732,2025-01-28,TXN00025643,Transaction Processing Delay,Low,Resolved,16,Bank Integration
+INC00733,2025-08-24,TXN00075855,Bank Connectivity,Critical,Resolved,145,Payment Operations
+INC00734,2025-11-25,TXN00007073,Transaction Processing Delay,Medium,Resolved,92,Bank Integration
+INC00735,2026-09-04,TXN00086804,Bank Connectivity,Low,Resolved,156,Bank Integration
+INC00736,2026-09-28,TXN00006286,Application Error,High,Closed,101,Platform Engineering
+INC00737,2025-05-21,TXN00073982,Gateway Issue,Medium,Resolved,78,Bank Integration
+INC00738,2026-05-05,TXN00063248,Application Error,High,Resolved,105,Risk Operations
+INC00739,2025-11-09,TXN00004270,Transaction Processing Delay,High,Resolved,76,Payment Operations
+INC00740,2026-01-16,TXN00064623,Bank Connectivity,Medium,Resolved,52,Payment Operations
+INC00741,2026-02-15,TXN00022882,Bank Connectivity,Medium,Resolved,102,Payment Operations
+INC00742,2025-10-17,TXN00044602,Transaction Processing Delay,Medium,Resolved,155,Bank Integration
+INC00743,2025-11-01,TXN00046127,Bank Connectivity,High,Closed,314,Bank Integration
+INC00744,2026-02-19,TXN00031217,Application Error,Medium,Resolved,44,Risk Operations
+INC00745,2026-11-08,TXN00036311,Transaction Processing Delay,High,Resolved,67,Payment Operations
+INC00746,2026-12-13,TXN00048117,Network Issue,Low,Resolved,117,Payment Operations
+INC00747,2025-12-03,TXN00022111,Gateway Issue,High,Resolved,247,Bank Integration
+INC00748,2026-03-03,TXN00032303,Network Issue,High,Closed,61,Platform Engineering
+INC00749,2026-11-05,TXN00086647,Application Error,High,Resolved,80,Risk Operations
+INC00750,2026-10-29,TXN00074699,Gateway Issue,Medium,Resolved,49,Payment Operations
+INC00751,2025-04-25,TXN00018864,Gateway Issue,Low,Resolved,125,Risk Operations
+INC00752,2025-12-28,TXN00034929,Gateway Issue,Critical,In Progress,31,Payment Operations
+INC00753,2026-07-26,TXN00052662,System Outage,Medium,Resolved,82,Platform Engineering
+INC00754,2026-01-27,TXN00039854,Network Issue,Low,In Progress,53,Bank Integration
+INC00755,2026-05-25,TXN00075480,System Outage,Medium,Resolved,58,Bank Integration
+INC00756,2026-03-05,TXN00075731,System Outage,Medium,Resolved,93,Payment Operations
+INC00757,2026-05-18,TXN00096307,System Outage,Medium,Closed,102,Risk Operations
+INC00758,2025-03-30,TXN00045913,Transaction Processing Delay,High,Resolved,53,Platform Engineering
+INC00759,2025-12-28,TXN00018716,System Outage,Low,Resolved,27,Risk Operations
+INC00760,2025-12-07,TXN00054265,Bank Connectivity,Medium,Resolved,38,Payment Operations
+INC00761,2026-03-03,TXN00011512,System Outage,High,Resolved,54,Payment Operations
+INC00762,2026-11-07,TXN00047049,System Outage,High,Closed,89,Platform Engineering
+INC00763,2026-04-15,TXN00098278,Bank Connectivity,Low,Resolved,54,Risk Operations
+INC00764,2025-10-07,TXN00020832,Transaction Processing Delay,Medium,Resolved,110,Risk Operations
+INC00765,2026-10-18,TXN00095992,Transaction Processing Delay,High,Resolved,158,Bank Integration
+INC00766,2025-03-30,TXN00039626,Gateway Issue,Medium,Closed,74,Platform Engineering
+INC00767,2025-06-14,TXN00061686,Bank Connectivity,Low,Closed,132,Payment Operations
+INC00768,2026-12-22,TXN00002188,Application Error,Medium,Closed,22,Risk Operations
+INC00769,2025-11-16,TXN00008411,Network Issue,High,Resolved,64,Risk Operations
+INC00770,2025-04-18,TXN00022512,System Outage,Medium,Resolved,118,Platform Engineering
+INC00771,2026-12-09,TXN00092507,Gateway Issue,Low,In Progress,150,Platform Engineering
+INC00772,2026-04-27,TXN00071980,Gateway Issue,High,Resolved,47,Risk Operations
+INC00773,2026-03-31,TXN00091957,System Outage,High,Resolved,80,Payment Operations
+INC00774,2025-09-05,TXN00066084,Transaction Processing Delay,Low,Resolved,144,Platform Engineering
+INC00775,2026-05-22,TXN00000426,System Outage,Critical,Resolved,122,Risk Operations
+INC00776,2025-02-11,TXN00073461,Transaction Processing Delay,Low,Resolved,133,Platform Engineering
+INC00777,2026-10-21,TXN00010187,Bank Connectivity,Low,Resolved,41,Risk Operations
+INC00778,2025-01-20,TXN00079004,Gateway Issue,High,In Progress,91,Risk Operations
+INC00779,2025-04-16,TXN00099241,System Outage,Low,In Progress,44,Payment Operations
+INC00780,2026-12-28,TXN00058798,Bank Connectivity,High,Resolved,9,Payment Operations
+INC00781,2025-07-10,TXN00084520,Application Error,Low,Resolved,116,Risk Operations
+INC00782,2025-05-23,TXN00003113,Gateway Issue,Medium,Closed,253,Bank Integration
+INC00783,2026-08-21,TXN00042421,Network Issue,Low,Resolved,74,Payment Operations
+INC00784,2025-09-24,TXN00001634,System Outage,Low,Resolved,82,Risk Operations
+INC00785,2025-09-26,TXN00050728,Gateway Issue,High,Resolved,49,Risk Operations
+INC00786,2025-01-23,TXN00050391,Transaction Processing Delay,Medium,Resolved,35,Risk Operations
+INC00787,2026-09-05,TXN00085407,Network Issue,Medium,Resolved,42,Risk Operations
+INC00788,2026-08-20,TXN00031340,Transaction Processing Delay,Medium,Resolved,39,Platform Engineering
+INC00789,2026-06-21,TXN00084968,Network Issue,Medium,Resolved,24,Bank Integration
+INC00790,2026-05-24,TXN00032872,Network Issue,Low,In Progress,70,Platform Engineering
+INC00791,2025-05-23,TXN00060597,Network Issue,High,Resolved,65,Payment Operations
+INC00792,2026-09-22,TXN00003038,System Outage,High,Closed,114,Platform Engineering
+INC00793,2026-03-28,TXN00038462,Application Error,High,Resolved,135,Bank Integration
+INC00794,2026-06-24,TXN00034991,Gateway Issue,High,Resolved,51,Bank Integration
+INC00795,2026-10-18,TXN00013228,Gateway Issue,Low,Closed,68,Payment Operations
+INC00796,2025-12-16,TXN00070853,Bank Connectivity,Low,Resolved,93,Platform Engineering
+INC00797,2025-04-12,TXN00012264,Gateway Issue,Medium,Resolved,89,Payment Operations
+INC00798,2025-01-21,TXN00053064,Gateway Issue,Medium,Resolved,101,Platform Engineering
+INC00799,2026-10-31,TXN00018983,System Outage,Medium,Resolved,30,Risk Operations
+INC00800,2026-06-28,TXN00063743,Network Issue,High,In Progress,88,Payment Operations
+INC00801,2025-07-02,TXN00040808,Gateway Issue,Low,Resolved,35,Risk Operations
+INC00802,2026-08-14,TXN00068511,Bank Connectivity,Medium,Resolved,37,Risk Operations
+INC00803,2025-11-27,TXN00051692,Application Error,Low,In Progress,54,Risk Operations
+INC00804,2025-07-24,TXN00007560,Gateway Issue,Medium,In Progress,114,Platform Engineering
+INC00805,2026-05-26,TXN00051012,Bank Connectivity,Low,Resolved,92,Payment Operations
+INC00806,2026-06-19,TXN00094402,Application Error,Medium,Resolved,117,Platform Engineering
+INC00807,2026-12-17,TXN00074596,Network Issue,Medium,Closed,37,Risk Operations
+INC00808,2026-06-16,TXN00093987,Gateway Issue,Medium,Closed,29,Risk Operations
+INC00809,2026-11-22,TXN00059688,Network Issue,Medium,Resolved,106,Platform Engineering
+INC00810,2026-12-21,TXN00076777,Application Error,Medium,Resolved,31,Platform Engineering
+INC00811,2025-04-12,TXN00096258,Transaction Processing Delay,Medium,Resolved,53,Platform Engineering
+INC00812,2026-01-07,TXN00045874,Network Issue,Low,Resolved,98,Bank Integration
+INC00813,2026-08-18,TXN00016707,Gateway Issue,Medium,Resolved,43,Payment Operations
+INC00814,2026-06-04,TXN00099399,Gateway Issue,Low,Resolved,93,Platform Engineering
+INC00815,2025-04-11,TXN00014222,Transaction Processing Delay,Medium,Resolved,112,Bank Integration
+INC00816,2025-06-24,TXN00095124,Bank Connectivity,High,Resolved,21,Bank Integration
+INC00817,2025-01-15,TXN00010431,Gateway Issue,Medium,Closed,58,Platform Engineering
+INC00818,2025-10-21,TXN00025163,Gateway Issue,Medium,In Progress,263,Payment Operations
+INC00819,2026-03-22,TXN00096077,Bank Connectivity,High,In Progress,86,Risk Operations
+INC00820,2025-09-01,TXN00043726,Gateway Issue,Medium,Closed,221,Bank Integration
+INC00821,2025-01-08,TXN00090915,Bank Connectivity,Medium,Resolved,74,Risk Operations
+INC00822,2025-09-18,TXN00056633,Transaction Processing Delay,Medium,Resolved,15,Risk Operations
+INC00823,2025-08-16,TXN00093136,Gateway Issue,Medium,Resolved,56,Payment Operations
+INC00824,2026-04-21,TXN00062195,Transaction Processing Delay,Medium,Resolved,39,Risk Operations
+INC00825,2026-01-28,TXN00022286,Network Issue,Critical,Closed,176,Platform Engineering
+INC00826,2026-06-03,TXN00092469,System Outage,High,Resolved,199,Bank Integration
+INC00827,2025-04-14,TXN00054306,Network Issue,Medium,Resolved,184,Payment Operations
+INC00828,2025-10-25,TXN00004489,Gateway Issue,High,Resolved,307,Platform Engineering
+INC00829,2025-10-17,TXN00063158,Bank Connectivity,Low,Resolved,153,Payment Operations
+INC00830,2025-07-30,TXN00027803,Bank Connectivity,Low,Resolved,62,Risk Operations
+INC00831,2026-03-15,TXN00058462,Gateway Issue,Low,In Progress,115,Platform Engineering
+INC00832,2025-08-04,TXN00050923,Gateway Issue,Low,Resolved,255,Bank Integration
+INC00833,2025-08-18,TXN00052109,Gateway Issue,Low,Closed,128,Platform Engineering
+INC00834,2026-11-23,TXN00053496,Gateway Issue,Low,Closed,110,Bank Integration
+INC00835,2025-04-10,TXN00053709,Gateway Issue,Low,Resolved,106,Platform Engineering
+INC00836,2025-06-29,TXN00044541,Network Issue,High,Resolved,31,Risk Operations
+INC00837,2025-04-21,TXN00045549,Bank Connectivity,Medium,In Progress,41,Payment Operations
+INC00838,2025-06-24,TXN00089952,Application Error,High,Resolved,163,Risk Operations
+INC00839,2026-10-28,TXN00000823,Network Issue,Low,Resolved,95,Payment Operations
+INC00840,2025-05-26,TXN00059511,Gateway Issue,Medium,Resolved,111,Payment Operations
+INC00841,2026-01-10,TXN00078720,Gateway Issue,Medium,Resolved,29,Bank Integration
+INC00842,2026-06-22,TXN00047986,Gateway Issue,High,In Progress,56,Platform Engineering
+INC00843,2025-11-01,TXN00005769,Bank Connectivity,Medium,Resolved,26,Payment Operations
+INC00844,2025-08-07,TXN00031497,Gateway Issue,Medium,Resolved,54,Bank Integration
+INC00845,2026-08-13,TXN00034063,Transaction Processing Delay,Medium,Resolved,86,Payment Operations
+INC00846,2026-04-26,TXN00017068,Gateway Issue,High,Resolved,140,Bank Integration
+INC00847,2025-04-09,TXN00079122,Bank Connectivity,High,Resolved,112,Payment Operations
+INC00848,2025-01-05,TXN00097273,Application Error,Medium,In Progress,127,Bank Integration
+INC00849,2025-04-13,TXN00074915,Transaction Processing Delay,High,In Progress,52,Bank Integration
+INC00850,2026-10-17,TXN00025951,Bank Connectivity,Medium,Closed,46,Risk Operations
+INC00851,2026-09-29,TXN00013768,Gateway Issue,Medium,Closed,48,Risk Operations
+INC00852,2026-11-05,TXN00055843,Network Issue,Low,Resolved,44,Risk Operations
+INC00853,2025-06-23,TXN00000415,Network Issue,Medium,Resolved,42,Risk Operations
+INC00854,2026-10-04,TXN00030180,Application Error,Medium,Resolved,152,Bank Integration
+INC00855,2026-12-21,TXN00029065,System Outage,Medium,Resolved,278,Risk Operations
+INC00856,2025-01-30,TXN00010618,Application Error,Medium,Resolved,43,Bank Integration
+INC00857,2025-11-16,TXN00051362,System Outage,High,Closed,69,Platform Engineering
+INC00858,2025-03-13,TXN00075870,Gateway Issue,Low,Resolved,56,Risk Operations
+INC00859,2025-04-03,TXN00045838,Application Error,Low,Resolved,14,Risk Operations
+INC00860,2026-07-31,TXN00050752,Network Issue,Low,Resolved,96,Bank Integration
+INC00861,2025-11-25,TXN00005808,Bank Connectivity,High,Closed,148,Payment Operations
+INC00862,2026-10-31,TXN00071935,Gateway Issue,Low,Resolved,87,Risk Operations
+INC00863,2025-04-29,TXN00075733,Bank Connectivity,Low,Resolved,13,Payment Operations
+INC00864,2026-12-12,TXN00022126,Application Error,Low,Resolved,91,Payment Operations
+INC00865,2025-08-25,TXN00087320,Network Issue,Medium,Resolved,23,Bank Integration
+INC00866,2026-03-30,TXN00098116,Gateway Issue,Low,Resolved,76,Bank Integration
+INC00867,2025-08-24,TXN00095645,Gateway Issue,Medium,Resolved,125,Risk Operations
+INC00868,2026-08-02,TXN00000118,Gateway Issue,High,Closed,168,Risk Operations
+INC00869,2026-08-26,TXN00072402,Gateway Issue,Low,Resolved,47,Bank Integration
+INC00870,2026-10-27,TXN00065052,Bank Connectivity,Low,Resolved,54,Platform Engineering
+INC00871,2026-11-05,TXN00086617,Transaction Processing Delay,Medium,Resolved,20,Risk Operations
+INC00872,2025-02-17,TXN00090261,Network Issue,Low,Resolved,39,Bank Integration
+INC00873,2026-05-27,TXN00086054,Gateway Issue,Medium,Closed,52,Bank Integration
+INC00874,2026-01-14,TXN00095132,System Outage,Low,Resolved,57,Payment Operations
+INC00875,2026-10-17,TXN00043388,Transaction Processing Delay,High,Resolved,60,Bank Integration
+INC00876,2025-08-06,TXN00042246,Network Issue,Medium,Resolved,120,Bank Integration
+INC00877,2026-01-18,TXN00075504,Gateway Issue,Medium,Resolved,88,Platform Engineering
+INC00878,2025-07-06,TXN00052929,Bank Connectivity,Critical,Resolved,107,Platform Engineering
+INC00879,2026-06-27,TXN00050964,Bank Connectivity,Medium,Closed,5,Risk Operations
+INC00880,2026-06-23,TXN00061557,Network Issue,Medium,Closed,6,Payment Operations
+INC00881,2026-12-06,TXN00059970,Bank Connectivity,Medium,In Progress,19,Platform Engineering
+INC00882,2026-08-22,TXN00043952,Network Issue,High,Resolved,173,Bank Integration
+INC00883,2026-01-23,TXN00002597,Gateway Issue,Medium,Resolved,97,Platform Engineering
+INC00884,2026-04-06,TXN00011602,Bank Connectivity,High,Closed,178,Platform Engineering
+INC00885,2026-07-10,TXN00072574,Bank Connectivity,Low,Resolved,158,Risk Operations
+INC00886,2025-08-11,TXN00017700,Gateway Issue,Low,Closed,18,Payment Operations
+INC00887,2025-01-14,TXN00019656,Transaction Processing Delay,Low,In Progress,80,Platform Engineering
+INC00888,2025-10-17,TXN00007326,System Outage,High,Resolved,77,Bank Integration
+INC00889,2026-09-27,TXN00026483,Network Issue,High,In Progress,80,Bank Integration
+INC00890,2026-06-06,TXN00048475,Transaction Processing Delay,Medium,Resolved,25,Bank Integration
+INC00891,2026-09-01,TXN00096940,Gateway Issue,Medium,Resolved,38,Platform Engineering
+INC00892,2026-05-28,TXN00090165,Application Error,High,In Progress,65,Payment Operations
+INC00893,2025-04-11,TXN00032741,Application Error,Low,In Progress,84,Platform Engineering
+INC00894,2026-09-23,TXN00033216,Gateway Issue,Medium,Resolved,40,Bank Integration
+INC00895,2026-08-25,TXN00011902,Bank Connectivity,High,Closed,96,Platform Engineering
+INC00896,2026-02-10,TXN00076257,Gateway Issue,Low,Resolved,35,Bank Integration
+INC00897,2026-05-13,TXN00077215,Bank Connectivity,High,Resolved,83,Platform Engineering
+INC00898,2026-09-01,TXN00057230,Gateway Issue,Medium,In Progress,76,Platform Engineering
+INC00899,2026-04-12,TXN00013998,Gateway Issue,Medium,Resolved,54,Risk Operations
+INC00900,2026-04-21,TXN00075136,Transaction Processing Delay,High,Resolved,121,Payment Operations
+INC00901,2025-02-24,TXN00071936,Network Issue,Medium,Resolved,134,Risk Operations
+INC00902,2025-04-17,TXN00065102,Gateway Issue,Critical,Resolved,112,Bank Integration
+INC00903,2026-11-25,TXN00067831,System Outage,Low,Resolved,98,Bank Integration
+INC00904,2026-03-21,TXN00060371,Gateway Issue,High,Resolved,99,Risk Operations
+INC00905,2025-08-06,TXN00089991,Gateway Issue,High,Closed,40,Risk Operations
+INC00906,2025-06-21,TXN00072275,Bank Connectivity,High,Resolved,41,Platform Engineering
+INC00907,2025-04-27,TXN00027840,Bank Connectivity,Medium,Resolved,58,Platform Engineering
+INC00908,2025-03-18,TXN00068159,Application Error,Low,Closed,136,Bank Integration
+INC00909,2026-12-09,TXN00028779,System Outage,Medium,Closed,17,Bank Integration
+INC00910,2026-08-18,TXN00085480,Bank Connectivity,Medium,Resolved,84,Risk Operations
+INC00911,2025-02-20,TXN00021222,Gateway Issue,High,Resolved,30,Risk Operations
+INC00912,2026-10-07,TXN00064502,Bank Connectivity,Medium,Closed,64,Platform Engineering
+INC00913,2026-04-13,TXN00047763,Bank Connectivity,Low,Closed,45,Payment Operations
+INC00914,2026-05-27,TXN00019395,Transaction Processing Delay,High,Resolved,11,Payment Operations
+INC00915,2025-10-16,TXN00062861,Bank Connectivity,High,Resolved,113,Platform Engineering
+INC00916,2025-09-24,TXN00071650,Application Error,Medium,In Progress,67,Bank Integration
+INC00917,2026-11-09,TXN00040325,Network Issue,Medium,Resolved,232,Bank Integration
+INC00918,2026-03-20,TXN00004249,Gateway Issue,Low,Resolved,84,Bank Integration
+INC00919,2026-09-27,TXN00001101,Gateway Issue,Medium,Closed,18,Bank Integration
+INC00920,2026-02-10,TXN00066291,Application Error,Medium,Resolved,100,Bank Integration
+INC00921,2025-10-07,TXN00078646,Bank Connectivity,Medium,Resolved,26,Payment Operations
+INC00922,2026-03-26,TXN00077430,Network Issue,Medium,Resolved,69,Payment Operations
+INC00923,2026-02-27,TXN00091219,Network Issue,High,In Progress,37,Bank Integration
+INC00924,2026-04-19,TXN00001296,Network Issue,Low,Resolved,86,Platform Engineering
+INC00925,2026-08-04,TXN00058933,Transaction Processing Delay,Medium,In Progress,89,Payment Operations
+INC00926,2025-06-11,TXN00048789,Transaction Processing Delay,Low,Resolved,159,Platform Engineering
+INC00927,2026-05-21,TXN00012282,System Outage,Low,In Progress,95,Platform Engineering
+INC00928,2025-02-20,TXN00063416,Transaction Processing Delay,Medium,Resolved,80,Bank Integration
+INC00929,2026-05-24,TXN00061110,Gateway Issue,Medium,In Progress,45,Bank Integration
+INC00930,2025-07-03,TXN00048924,Bank Connectivity,Medium,Closed,27,Platform Engineering
+INC00931,2026-07-26,TXN00040710,Application Error,Low,Closed,75,Platform Engineering
+INC00932,2026-09-07,TXN00005264,Transaction Processing Delay,Low,Resolved,68,Payment Operations
+INC00933,2025-09-27,TXN00016133,Bank Connectivity,Critical,Resolved,83,Platform Engineering
+INC00934,2025-04-10,TXN00035880,System Outage,High,In Progress,35,Platform Engineering
+INC00935,2025-03-30,TXN00035196,Network Issue,Medium,Resolved,167,Platform Engineering
+INC00936,2025-12-27,TXN00060782,Network Issue,Medium,Resolved,40,Bank Integration
+INC00937,2025-06-25,TXN00018982,Transaction Processing Delay,High,Resolved,77,Platform Engineering
+INC00938,2026-10-09,TXN00050711,Bank Connectivity,Low,Resolved,108,Bank Integration
+INC00939,2025-03-11,TXN00081302,Bank Connectivity,High,Resolved,178,Payment Operations
+INC00940,2025-12-22,TXN00078451,Network Issue,Low,Resolved,29,Payment Operations
+INC00941,2025-12-07,TXN00015625,System Outage,Medium,In Progress,74,Payment Operations
+INC00942,2026-07-01,TXN00041960,Network Issue,Low,In Progress,268,Risk Operations
+INC00943,2025-11-17,TXN00038991,Network Issue,Medium,Resolved,49,Bank Integration
+INC00944,2025-02-24,TXN00048900,System Outage,Medium,Resolved,130,Risk Operations
+INC00945,2026-05-30,TXN00024905,System Outage,Low,Resolved,27,Bank Integration
+INC00946,2025-06-08,TXN00062149,Network Issue,Medium,Resolved,276,Risk Operations
+INC00947,2025-09-15,TXN00020318,Application Error,High,Closed,211,Bank Integration
+INC00948,2026-11-20,TXN00047436,Gateway Issue,Low,Resolved,162,Risk Operations
+INC00949,2025-04-02,TXN00087875,Gateway Issue,Low,Resolved,72,Payment Operations
+INC00950,2025-09-19,TXN00051185,Application Error,Low,Resolved,261,Risk Operations
+INC00951,2026-04-28,TXN00018861,Transaction Processing Delay,Medium,Resolved,131,Payment Operations
+INC00952,2025-12-02,TXN00030182,Gateway Issue,Low,Resolved,147,Platform Engineering
+INC00953,2026-10-13,TXN00016332,Gateway Issue,Low,Closed,77,Risk Operations
+INC00954,2026-03-21,TXN00021491,Gateway Issue,Medium,Closed,168,Payment Operations
+INC00955,2025-07-11,TXN00041023,Network Issue,Low,In Progress,75,Payment Operations
+INC00956,2025-10-02,TXN00044533,Gateway Issue,Medium,Closed,71,Payment Operations
+INC00957,2025-08-05,TXN00018815,Network Issue,High,Resolved,62,Platform Engineering
+INC00958,2026-01-16,TXN00081810,Application Error,Medium,Resolved,226,Risk Operations
+INC00959,2025-05-08,TXN00008923,Transaction Processing Delay,Medium,Resolved,132,Risk Operations
+INC00960,2025-10-25,TXN00036683,Gateway Issue,Low,Resolved,27,Platform Engineering
+INC00961,2025-07-21,TXN00092519,Bank Connectivity,Medium,Resolved,167,Platform Engineering
+INC00962,2025-12-03,TXN00071388,Transaction Processing Delay,High,Resolved,121,Bank Integration
+INC00963,2025-03-28,TXN00056113,Network Issue,Medium,Resolved,87,Payment Operations
+INC00964,2025-02-02,TXN00049883,Bank Connectivity,Medium,Closed,92,Platform Engineering
+INC00965,2026-02-06,TXN00042869,Network Issue,Low,Closed,12,Risk Operations
+INC00966,2026-04-27,TXN00047373,Transaction Processing Delay,Medium,In Progress,81,Risk Operations
+INC00967,2025-08-24,TXN00030802,Gateway Issue,Critical,Closed,64,Payment Operations
+INC00968,2026-12-01,TXN00050817,Gateway Issue,Medium,In Progress,5,Bank Integration
+INC00969,2026-01-15,TXN00012318,System Outage,Medium,Resolved,84,Payment Operations
+INC00970,2025-05-07,TXN00079190,Bank Connectivity,Low,Closed,44,Payment Operations
+INC00971,2026-09-04,TXN00018592,Transaction Processing Delay,Low,Closed,52,Platform Engineering
+INC00972,2025-10-27,TXN00016592,Bank Connectivity,Medium,In Progress,105,Risk Operations
+INC00973,2026-10-07,TXN00044300,Transaction Processing Delay,Medium,Resolved,162,Bank Integration
+INC00974,2026-07-06,TXN00002124,Application Error,Low,Closed,109,Bank Integration
+INC00975,2025-01-13,TXN00085734,Transaction Processing Delay,High,Resolved,42,Risk Operations
+INC00976,2025-12-05,TXN00016739,System Outage,Medium,Resolved,40,Payment Operations
+INC00977,2026-11-01,TXN00089725,Application Error,Medium,Resolved,92,Payment Operations
+INC00978,2025-09-07,TXN00021835,Network Issue,Medium,Closed,18,Risk Operations
+INC00979,2026-02-22,TXN00076885,Application Error,Medium,Closed,161,Platform Engineering
+INC00980,2025-08-29,TXN00096617,Network Issue,High,Resolved,77,Platform Engineering
+INC00981,2025-03-29,TXN00095307,Network Issue,Medium,Resolved,114,Bank Integration
+INC00982,2025-04-10,TXN00050411,Bank Connectivity,High,In Progress,39,Risk Operations
+INC00983,2025-11-25,TXN00024735,Gateway Issue,Low,Closed,82,Platform Engineering
+INC00984,2026-01-22,TXN00083781,Gateway Issue,Low,In Progress,359,Bank Integration
+INC00985,2026-02-08,TXN00074781,Application Error,Low,Closed,78,Bank Integration
+INC00986,2025-11-14,TXN00062805,Application Error,Low,Resolved,33,Risk Operations
+INC00987,2025-11-06,TXN00097054,System Outage,High,Resolved,119,Payment Operations
+INC00988,2026-03-01,TXN00078469,Transaction Processing Delay,Medium,Resolved,110,Payment Operations
+INC00989,2025-08-16,TXN00012904,Transaction Processing Delay,Low,Closed,314,Payment Operations
+INC00990,2026-09-01,TXN00056005,Transaction Processing Delay,Low,Resolved,105,Platform Engineering
+INC00991,2025-05-12,TXN00039950,Network Issue,High,Resolved,52,Payment Operations
+INC00992,2025-06-12,TXN00055453,Gateway Issue,Low,Resolved,63,Payment Operations
+INC00993,2026-08-25,TXN00032937,Transaction Processing Delay,Medium,Resolved,139,Bank Integration
+INC00994,2025-01-25,TXN00059898,Gateway Issue,Low,Resolved,28,Payment Operations
+INC00995,2026-09-21,TXN00039845,Application Error,Low,Resolved,193,Risk Operations
+INC00996,2026-10-20,TXN00011506,Gateway Issue,Low,Resolved,17,Payment Operations
+INC00997,2026-01-28,TXN00086853,Application Error,Medium,Resolved,38,Payment Operations
+INC00998,2026-12-05,TXN00084460,Transaction Processing Delay,Medium,Resolved,27,Bank Integration
+INC00999,2025-11-21,TXN00050940,Gateway Issue,Medium,In Progress,70,Risk Operations
+INC01000,2025-05-07,TXN00074537,Gateway Issue,High,Resolved,73,Risk Operations
+INC01001,2026-10-06,TXN00002443,System Outage,Low,Resolved,138,Bank Integration
+INC01002,2025-05-30,TXN00040546,Bank Connectivity,Medium,Resolved,50,Bank Integration
+INC01003,2025-12-07,TXN00035332,Application Error,High,Resolved,23,Platform Engineering
+INC01004,2026-05-13,TXN00010283,Application Error,Low,Resolved,179,Platform Engineering
+INC01005,2026-10-14,TXN00011996,Transaction Processing Delay,High,Closed,59,Platform Engineering
+INC01006,2026-06-15,TXN00053465,Network Issue,Medium,Resolved,144,Platform Engineering
+INC01007,2025-04-17,TXN00075281,Network Issue,Medium,Resolved,76,Bank Integration
+INC01008,2026-08-13,TXN00098335,Network Issue,Medium,Resolved,24,Risk Operations
+INC01009,2026-12-17,TXN00001738,Application Error,Medium,In Progress,95,Platform Engineering
+INC01010,2026-11-15,TXN00081676,Application Error,High,Resolved,190,Risk Operations
+INC01011,2025-06-05,TXN00090246,Application Error,Medium,Resolved,123,Risk Operations
+INC01012,2026-07-31,TXN00062326,Application Error,Medium,In Progress,67,Risk Operations
+INC01013,2026-06-27,TXN00015423,Bank Connectivity,Low,Closed,33,Platform Engineering
+INC01014,2026-02-25,TXN00079771,System Outage,Medium,Resolved,114,Bank Integration
+INC01015,2026-04-27,TXN00091170,Gateway Issue,Low,Resolved,103,Bank Integration
+INC01016,2025-09-07,TXN00020742,Gateway Issue,Low,Closed,111,Platform Engineering
+INC01017,2026-01-04,TXN00040421,Transaction Processing Delay,Medium,Resolved,197,Bank Integration
+INC01018,2026-07-12,TXN00039834,Bank Connectivity,High,Resolved,229,Bank Integration
+INC01019,2025-04-10,TXN00056478,Transaction Processing Delay,High,Resolved,33,Risk Operations
+INC01020,2026-12-02,TXN00026639,Application Error,Low,Closed,152,Risk Operations
+INC01021,2026-04-14,TXN00024725,Gateway Issue,High,Resolved,59,Risk Operations
+INC01022,2025-11-21,TXN00070465,Transaction Processing Delay,Low,In Progress,245,Risk Operations
+INC01023,2025-01-31,TXN00094091,Bank Connectivity,High,Resolved,37,Payment Operations
+INC01024,2026-03-10,TXN00093516,Transaction Processing Delay,High,Closed,19,Bank Integration
+INC01025,2026-02-15,TXN00071659,Application Error,Medium,Resolved,148,Payment Operations
+INC01026,2025-07-25,TXN00093113,Bank Connectivity,High,Resolved,117,Platform Engineering
+INC01027,2026-01-11,TXN00070848,Transaction Processing Delay,High,In Progress,111,Platform Engineering
+INC01028,2026-09-23,TXN00009964,Gateway Issue,Medium,Resolved,68,Bank Integration
+INC01029,2026-02-18,TXN00047094,Application Error,Medium,Resolved,92,Risk Operations
+INC01030,2026-06-03,TXN00067427,Transaction Processing Delay,Medium,In Progress,242,Platform Engineering
+INC01031,2025-05-04,TXN00058670,Network Issue,Low,Resolved,140,Payment Operations
+INC01032,2026-07-07,TXN00037261,System Outage,Medium,Resolved,18,Platform Engineering
+INC01033,2026-12-26,TXN00095663,System Outage,Medium,Resolved,100,Platform Engineering
+INC01034,2025-05-28,TXN00046286,Bank Connectivity,Medium,Resolved,110,Bank Integration
+INC01035,2026-03-29,TXN00099611,Bank Connectivity,High,Resolved,133,Platform Engineering
+INC01036,2025-10-16,TXN00070113,Network Issue,Low,In Progress,61,Platform Engineering
+INC01037,2025-12-11,TXN00052769,Network Issue,Low,Resolved,143,Bank Integration
+INC01038,2025-02-02,TXN00007685,Gateway Issue,Medium,Resolved,8,Payment Operations
+INC01039,2025-07-16,TXN00041768,Transaction Processing Delay,Low,Resolved,174,Bank Integration
+INC01040,2025-02-11,TXN00013111,Network Issue,Medium,Closed,391,Bank Integration
+INC01041,2026-11-12,TXN00021585,Gateway Issue,Medium,In Progress,23,Bank Integration
+INC01042,2026-05-19,TXN00017100,Network Issue,Medium,Closed,148,Payment Operations
+INC01043,2026-12-01,TXN00080177,Application Error,Medium,Resolved,154,Payment Operations
+INC01044,2026-01-09,TXN00089927,Bank Connectivity,High,Resolved,104,Payment Operations
+INC01045,2026-06-30,TXN00018232,Transaction Processing Delay,Medium,Resolved,124,Risk Operations
+INC01046,2026-11-06,TXN00046087,Bank Connectivity,High,Resolved,100,Risk Operations
+INC01047,2025-01-15,TXN00045824,Gateway Issue,Medium,Resolved,81,Platform Engineering
+INC01048,2026-04-23,TXN00088684,Bank Connectivity,Medium,Resolved,209,Risk Operations
+INC01049,2025-07-04,TXN00006348,Bank Connectivity,Medium,Closed,96,Platform Engineering
+INC01050,2026-06-25,TXN00090823,Application Error,High,Resolved,71,Risk Operations
+INC01051,2025-10-19,TXN00037765,Network Issue,Medium,Resolved,140,Platform Engineering
+INC01052,2026-05-08,TXN00048285,Gateway Issue,Medium,Resolved,63,Payment Operations
+INC01053,2026-02-13,TXN00073659,Network Issue,Medium,Resolved,219,Risk Operations
+INC01054,2025-11-15,TXN00038844,Transaction Processing Delay,Low,Closed,37,Risk Operations
+INC01055,2025-08-29,TXN00072355,Transaction Processing Delay,Medium,Closed,128,Payment Operations
+INC01056,2026-12-13,TXN00043123,Application Error,Low,Resolved,84,Risk Operations
+INC01057,2025-06-04,TXN00038452,Network Issue,High,Resolved,107,Bank Integration
+INC01058,2026-03-16,TXN00003191,Gateway Issue,High,Resolved,52,Risk Operations
+INC01059,2025-11-10,TXN00047175,Network Issue,Medium,Resolved,82,Risk Operations
+INC01060,2026-09-11,TXN00049729,Bank Connectivity,Low,Resolved,72,Bank Integration
+INC01061,2025-05-07,TXN00097349,Transaction Processing Delay,Low,Resolved,80,Platform Engineering
+INC01062,2026-07-21,TXN00009541,Gateway Issue,Medium,Resolved,128,Bank Integration
+INC01063,2026-11-16,TXN00092623,Bank Connectivity,Low,Closed,115,Risk Operations
+INC01064,2025-08-04,TXN00036178,Transaction Processing Delay,High,Closed,125,Risk Operations
+INC01065,2025-10-11,TXN00074722,Application Error,Medium,Resolved,29,Platform Engineering
+INC01066,2025-08-30,TXN00009242,Bank Connectivity,Medium,Closed,159,Platform Engineering
+INC01067,2025-02-16,TXN00088483,Gateway Issue,Medium,Closed,87,Risk Operations
+INC01068,2026-05-19,TXN00067122,Network Issue,Medium,Resolved,105,Risk Operations
+INC01069,2026-01-18,TXN00087397,Gateway Issue,High,Resolved,60,Payment Operations
+INC01070,2026-06-05,TXN00060384,Bank Connectivity,High,Resolved,58,Risk Operations
+INC01071,2026-07-13,TXN00067598,Application Error,High,Resolved,25,Platform Engineering
+INC01072,2026-02-14,TXN00083368,Transaction Processing Delay,Medium,Resolved,73,Platform Engineering
+INC01073,2026-04-04,TXN00005436,Application Error,High,Resolved,161,Platform Engineering
+INC01074,2025-06-09,TXN00061037,Transaction Processing Delay,High,Resolved,43,Bank Integration
+INC01075,2025-07-23,TXN00051862,Network Issue,Medium,In Progress,64,Risk Operations
+INC01076,2025-09-03,TXN00055038,System Outage,High,Resolved,61,Payment Operations
+INC01077,2025-07-16,TXN00004233,Transaction Processing Delay,Medium,Resolved,59,Bank Integration
+INC01078,2025-11-12,TXN00073502,Network Issue,Medium,Closed,50,Risk Operations
+INC01079,2025-11-07,TXN00013326,Application Error,Medium,Resolved,30,Risk Operations
+INC01080,2025-08-08,TXN00080186,Gateway Issue,Medium,Resolved,68,Bank Integration
+INC01081,2025-06-29,TXN00043982,Application Error,Medium,Resolved,60,Risk Operations
+INC01082,2025-11-20,TXN00012510,Network Issue,Low,Closed,87,Bank Integration
+INC01083,2025-06-25,TXN00014952,Application Error,Low,Resolved,104,Payment Operations
+INC01084,2026-03-01,TXN00012845,Bank Connectivity,Low,Resolved,15,Bank Integration
+INC01085,2026-09-16,TXN00063661,Transaction Processing Delay,Medium,Resolved,79,Platform Engineering
+INC01086,2025-03-19,TXN00033546,Transaction Processing Delay,Medium,Resolved,225,Platform Engineering
+INC01087,2025-12-04,TXN00080455,Gateway Issue,High,Resolved,72,Risk Operations
+INC01088,2026-02-03,TXN00087594,Application Error,Critical,Resolved,90,Payment Operations
+INC01089,2025-10-29,TXN00000025,Gateway Issue,Medium,Closed,181,Platform Engineering
+INC01090,2025-06-19,TXN00007586,System Outage,Medium,Resolved,77,Platform Engineering
+INC01091,2026-10-31,TXN00084130,System Outage,Medium,In Progress,15,Platform Engineering
+INC01092,2026-08-19,TXN00054894,Bank Connectivity,Low,Resolved,75,Risk Operations
+INC01093,2025-03-13,TXN00088571,Bank Connectivity,Medium,Resolved,171,Payment Operations
+INC01094,2025-08-04,TXN00001124,Gateway Issue,High,Resolved,76,Bank Integration
+INC01095,2026-11-29,TXN00007721,Network Issue,High,Closed,189,Platform Engineering
+INC01096,2025-03-21,TXN00031471,Bank Connectivity,Medium,Resolved,55,Platform Engineering
+INC01097,2026-06-02,TXN00094725,System Outage,Medium,Resolved,62,Platform Engineering
+INC01098,2026-04-02,TXN00033494,Gateway Issue,Medium,Resolved,59,Risk Operations
+INC01099,2025-07-27,TXN00093459,Application Error,High,Resolved,51,Platform Engineering
+INC01100,2025-10-27,TXN00013043,Network Issue,Low,Resolved,149,Risk Operations
+INC01101,2026-12-21,TXN00060306,System Outage,Low,Resolved,78,Bank Integration
+INC01102,2025-01-07,TXN00046300,Transaction Processing Delay,Low,Resolved,95,Bank Integration
+INC01103,2026-03-29,TXN00086076,Network Issue,Medium,Resolved,75,Platform Engineering
+INC01104,2026-06-13,TXN00078737,Gateway Issue,Medium,Resolved,66,Risk Operations
+INC01105,2026-02-14,TXN00019632,Application Error,Medium,Resolved,101,Bank Integration
+INC01106,2026-10-14,TXN00079274,Bank Connectivity,High,Resolved,192,Risk Operations
+INC01107,2025-07-04,TXN00048856,Gateway Issue,Medium,In Progress,51,Payment Operations
+INC01108,2025-03-14,TXN00064391,Bank Connectivity,Medium,Resolved,135,Risk Operations
+INC01109,2026-09-21,TXN00036156,Network Issue,Low,Resolved,128,Bank Integration
+INC01110,2026-12-28,TXN00032970,Network Issue,Low,Resolved,81,Risk Operations
+INC01111,2026-11-12,TXN00023368,Gateway Issue,High,Resolved,189,Risk Operations
+INC01112,2026-06-22,TXN00001934,Application Error,Medium,In Progress,93,Risk Operations
+INC01113,2025-05-31,TXN00094636,Network Issue,Low,Resolved,62,Payment Operations
+INC01114,2025-06-12,TXN00095014,Transaction Processing Delay,Critical,Closed,69,Payment Operations
+INC01115,2026-08-09,TXN00030076,Bank Connectivity,Low,Closed,77,Bank Integration
+INC01116,2025-11-26,TXN00010003,Gateway Issue,Low,In Progress,80,Risk Operations
+INC01117,2025-05-03,TXN00020695,Bank Connectivity,Low,Resolved,32,Bank Integration
+INC01118,2025-01-20,TXN00005951,System Outage,Low,Closed,117,Payment Operations
+INC01119,2026-09-07,TXN00074960,Network Issue,Medium,Resolved,109,Payment Operations
+INC01120,2025-12-31,TXN00011582,Gateway Issue,Low,Resolved,86,Payment Operations
+INC01121,2026-04-24,TXN00056984,Gateway Issue,High,Resolved,74,Payment Operations
+INC01122,2025-07-23,TXN00011106,System Outage,High,Closed,133,Bank Integration
+INC01123,2026-09-09,TXN00011980,System Outage,High,Resolved,66,Risk Operations
+INC01124,2026-02-08,TXN00077932,Network Issue,Low,In Progress,116,Bank Integration
+INC01125,2026-09-09,TXN00069288,Network Issue,Medium,Resolved,177,Payment Operations
+INC01126,2026-03-25,TXN00030407,Gateway Issue,High,Resolved,75,Payment Operations
+INC01127,2025-06-04,TXN00007289,Bank Connectivity,High,Resolved,58,Bank Integration
+INC01128,2026-06-08,TXN00013589,Bank Connectivity,Medium,Resolved,71,Platform Engineering
+INC01129,2026-08-11,TXN00013856,Bank Connectivity,Medium,Resolved,56,Bank Integration
+INC01130,2026-05-05,TXN00003037,Bank Connectivity,Medium,Resolved,107,Platform Engineering
+INC01131,2026-03-15,TXN00007244,Network Issue,High,Resolved,80,Payment Operations
+INC01132,2025-03-16,TXN00054475,Network Issue,Medium,In Progress,40,Payment Operations
+INC01133,2025-04-28,TXN00091188,Transaction Processing Delay,Medium,Resolved,146,Risk Operations
+INC01134,2026-01-29,TXN00016580,System Outage,Medium,Resolved,63,Risk Operations
+INC01135,2025-11-25,TXN00002533,Gateway Issue,Low,Resolved,106,Payment Operations
+INC01136,2025-08-17,TXN00036620,Bank Connectivity,Critical,Resolved,111,Bank Integration
+INC01137,2026-02-10,TXN00075422,Bank Connectivity,Low,Resolved,19,Risk Operations
+INC01138,2026-04-05,TXN00044325,Gateway Issue,High,Resolved,78,Payment Operations
+INC01139,2026-05-16,TXN00072305,Network Issue,High,Resolved,49,Platform Engineering
+INC01140,2025-11-30,TXN00048174,Bank Connectivity,Medium,Resolved,92,Platform Engineering
+INC01141,2025-01-20,TXN00027471,Application Error,Low,Resolved,72,Bank Integration
+INC01142,2025-06-04,TXN00074387,Application Error,Medium,Closed,32,Bank Integration
+INC01143,2026-12-25,TXN00041310,Application Error,High,Resolved,24,Payment Operations
+INC01144,2025-05-25,TXN00033531,Gateway Issue,Low,Resolved,134,Bank Integration
+INC01145,2025-10-13,TXN00042272,Gateway Issue,High,In Progress,141,Bank Integration
+INC01146,2025-09-29,TXN00065729,Network Issue,Medium,Resolved,83,Risk Operations
+INC01147,2025-01-02,TXN00005353,Network Issue,Low,Resolved,86,Risk Operations
+INC01148,2026-05-21,TXN00076828,Application Error,Medium,Closed,32,Payment Operations
+INC01149,2026-11-16,TXN00058368,Gateway Issue,Low,Closed,55,Bank Integration
+INC01150,2025-08-25,TXN00011674,Gateway Issue,Medium,Closed,121,Bank Integration
+INC01151,2026-07-04,TXN00029395,Transaction Processing Delay,High,Resolved,13,Payment Operations
+INC01152,2025-03-28,TXN00066673,Bank Connectivity,Medium,Resolved,43,Platform Engineering
+INC01153,2025-02-23,TXN00003843,Gateway Issue,Medium,Resolved,16,Payment Operations
+INC01154,2026-06-08,TXN00092420,Network Issue,High,Resolved,154,Platform Engineering
+INC01155,2026-02-13,TXN00004060,Bank Connectivity,Medium,Resolved,20,Risk Operations
+INC01156,2026-03-13,TXN00000085,System Outage,High,Resolved,65,Platform Engineering
+INC01157,2026-11-23,TXN00069578,System Outage,Low,Resolved,81,Payment Operations
+INC01158,2026-04-28,TXN00028895,Bank Connectivity,High,Closed,159,Bank Integration
+INC01159,2026-03-25,TXN00048089,System Outage,Medium,Resolved,187,Platform Engineering
+INC01160,2025-11-24,TXN00018171,Network Issue,Medium,Resolved,94,Payment Operations
+INC01161,2025-05-10,TXN00047960,Application Error,Low,Resolved,60,Payment Operations
+INC01162,2025-02-04,TXN00079485,Transaction Processing Delay,Medium,Resolved,87,Platform Engineering
+INC01163,2026-01-06,TXN00002031,Network Issue,Medium,Closed,84,Payment Operations
+INC01164,2025-05-09,TXN00089210,Gateway Issue,Low,Resolved,152,Risk Operations
+INC01165,2026-12-17,TXN00038749,Network Issue,Critical,In Progress,66,Platform Engineering
+INC01166,2025-06-18,TXN00047271,Application Error,High,In Progress,89,Platform Engineering
+INC01167,2025-02-16,TXN00010923,Gateway Issue,High,Resolved,176,Bank Integration
+INC01168,2026-09-30,TXN00069959,Network Issue,Low,In Progress,86,Bank Integration
+INC01169,2026-01-16,TXN00056684,Network Issue,Medium,Resolved,55,Risk Operations
+INC01170,2025-04-21,TXN00058076,Gateway Issue,Medium,Resolved,80,Risk Operations
+INC01171,2026-07-29,TXN00033703,Gateway Issue,Low,Resolved,116,Payment Operations
+INC01172,2026-07-14,TXN00061691,Network Issue,High,Resolved,115,Platform Engineering
+INC01173,2026-12-07,TXN00083142,Transaction Processing Delay,Medium,Resolved,169,Risk Operations
+INC01174,2026-02-23,TXN00030383,Gateway Issue,Low,Resolved,52,Platform Engineering
+INC01175,2026-05-22,TXN00077234,Transaction Processing Delay,Low,Resolved,97,Payment Operations
+INC01176,2025-12-02,TXN00055106,Gateway Issue,Low,Resolved,45,Bank Integration
+INC01177,2026-10-30,TXN00070010,Gateway Issue,Low,Resolved,116,Bank Integration
+INC01178,2025-03-30,TXN00014299,Application Error,Medium,Closed,69,Bank Integration
+INC01179,2025-12-12,TXN00071458,Application Error,Low,Resolved,161,Platform Engineering
+INC01180,2025-05-10,TXN00072385,Network Issue,High,Closed,94,Payment Operations
+INC01181,2025-09-04,TXN00026104,Bank Connectivity,High,Resolved,33,Bank Integration
+INC01182,2025-03-02,TXN00024609,Network Issue,Medium,Closed,107,Risk Operations
+INC01183,2026-05-01,TXN00043680,Bank Connectivity,Medium,Closed,62,Platform Engineering
+INC01184,2025-03-07,TXN00080774,Bank Connectivity,Medium,Resolved,92,Bank Integration
+INC01185,2026-02-02,TXN00060474,Bank Connectivity,High,Resolved,54,Risk Operations
+INC01186,2026-10-09,TXN00009368,Bank Connectivity,Low,Resolved,37,Platform Engineering
+INC01187,2026-04-27,TXN00007050,Application Error,High,Resolved,121,Bank Integration
+INC01188,2025-02-18,TXN00099047,Transaction Processing Delay,Medium,Closed,259,Bank Integration
+INC01189,2025-02-19,TXN00077530,Network Issue,Medium,Resolved,72,Bank Integration
+INC01190,2025-10-03,TXN00056221,Network Issue,Medium,Resolved,71,Platform Engineering
+INC01191,2025-08-30,TXN00002415,Application Error,Medium,In Progress,77,Risk Operations
+INC01192,2026-05-03,TXN00005297,System Outage,Low,Resolved,53,Bank Integration
+INC01193,2025-08-12,TXN00090565,Transaction Processing Delay,Low,Resolved,30,Payment Operations
+INC01194,2025-07-12,TXN00048380,Application Error,High,Resolved,23,Platform Engineering
+INC01195,2025-03-15,TXN00020417,Application Error,Low,Closed,138,Bank Integration
+INC01196,2026-02-23,TXN00038442,Network Issue,Medium,Resolved,110,Payment Operations
+INC01197,2025-02-09,TXN00042520,Gateway Issue,Medium,Resolved,62,Risk Operations
+INC01198,2025-09-29,TXN00018900,Bank Connectivity,Low,Closed,29,Risk Operations
+INC01199,2025-10-23,TXN00080162,Transaction Processing Delay,Medium,Resolved,52,Bank Integration
+INC01200,2025-01-26,TXN00022538,Gateway Issue,Medium,Resolved,39,Bank Integration
+INC01201,2025-03-26,TXN00061545,Gateway Issue,Low,Resolved,161,Risk Operations
+INC01202,2026-11-20,TXN00031134,Bank Connectivity,High,Resolved,60,Platform Engineering
+INC01203,2025-01-17,TXN00040568,Gateway Issue,Low,Resolved,114,Risk Operations
+INC01204,2025-08-05,TXN00028406,Bank Connectivity,Medium,Resolved,22,Payment Operations
+INC01205,2026-06-27,TXN00080935,Application Error,Low,Closed,71,Platform Engineering
+INC01206,2025-11-12,TXN00094773,Network Issue,Low,Resolved,93,Risk Operations
+INC01207,2025-12-28,TXN00006521,Gateway Issue,Medium,Resolved,97,Platform Engineering
+INC01208,2025-08-21,TXN00060363,Gateway Issue,Low,Resolved,75,Platform Engineering
+INC01209,2025-07-21,TXN00060066,Gateway Issue,Medium,Resolved,76,Bank Integration
+INC01210,2025-07-26,TXN00022370,System Outage,Medium,Closed,54,Payment Operations
+INC01211,2025-07-07,TXN00080284,Transaction Processing Delay,Medium,Closed,104,Risk Operations
+INC01212,2025-09-12,TXN00022754,Transaction Processing Delay,Medium,Resolved,113,Payment Operations
+INC01213,2026-08-18,TXN00002560,System Outage,Medium,Resolved,74,Bank Integration
+INC01214,2026-07-01,TXN00014363,System Outage,Medium,In Progress,98,Platform Engineering
+INC01215,2026-10-13,TXN00062616,Bank Connectivity,Medium,Resolved,149,Payment Operations
+INC01216,2025-08-16,TXN00010279,Application Error,Low,Resolved,15,Bank Integration
+INC01217,2026-11-20,TXN00011533,Transaction Processing Delay,Low,Resolved,113,Platform Engineering
+INC01218,2026-04-28,TXN00099891,Application Error,Medium,Closed,58,Platform Engineering
+INC01219,2025-01-08,TXN00087213,Network Issue,Medium,Closed,24,Platform Engineering
+INC01220,2026-12-20,TXN00077890,System Outage,Low,Resolved,75,Risk Operations
+INC01221,2025-04-20,TXN00018012,Network Issue,Medium,Resolved,100,Risk Operations
+INC01222,2025-03-02,TXN00070296,Network Issue,Medium,Resolved,44,Risk Operations
+INC01223,2025-09-09,TXN00085217,Network Issue,Low,Resolved,114,Platform Engineering
+INC01224,2025-07-05,TXN00075718,Transaction Processing Delay,Medium,In Progress,56,Platform Engineering
+INC01225,2026-04-07,TXN00049356,Application Error,Low,Resolved,115,Platform Engineering
+INC01226,2026-08-25,TXN00095501,Network Issue,Medium,In Progress,10,Payment Operations
+INC01227,2025-09-04,TXN00015991,Application Error,Medium,Resolved,63,Payment Operations
+INC01228,2025-12-20,TXN00079518,Gateway Issue,Low,Closed,43,Payment Operations
+INC01229,2025-04-22,TXN00060109,Gateway Issue,Critical,Resolved,162,Risk Operations
+INC01230,2026-11-30,TXN00017096,Bank Connectivity,Medium,Resolved,77,Bank Integration
+INC01231,2025-07-06,TXN00075377,Network Issue,High,Resolved,76,Payment Operations
+INC01232,2025-03-31,TXN00050496,Bank Connectivity,Medium,In Progress,111,Bank Integration
+INC01233,2026-10-01,TXN00057137,Bank Connectivity,Low,Resolved,68,Payment Operations
+INC01234,2025-05-20,TXN00089578,Gateway Issue,Low,Closed,221,Bank Integration
+INC01235,2026-11-27,TXN00056474,Gateway Issue,Medium,Closed,45,Risk Operations
+INC01236,2025-03-03,TXN00000254,Network Issue,Low,Resolved,51,Payment Operations
+INC01237,2026-04-15,TXN00081354,Bank Connectivity,Medium,Resolved,130,Risk Operations
+INC01238,2026-03-22,TXN00076710,Gateway Issue,Medium,Resolved,98,Bank Integration
+INC01239,2025-06-07,TXN00075794,Gateway Issue,Low,Resolved,21,Risk Operations
+INC01240,2025-03-13,TXN00062747,Network Issue,Low,Resolved,97,Platform Engineering
+INC01241,2025-08-08,TXN00047881,Transaction Processing Delay,High,Closed,123,Bank Integration
+INC01242,2025-06-08,TXN00087680,Gateway Issue,High,Resolved,126,Payment Operations
+INC01243,2025-08-06,TXN00032782,Network Issue,Low,Resolved,39,Platform Engineering
+INC01244,2026-05-07,TXN00017120,Transaction Processing Delay,Medium,Resolved,64,Platform Engineering
+INC01245,2025-05-28,TXN00013753,Gateway Issue,Low,Resolved,95,Risk Operations
+INC01246,2025-08-10,TXN00028212,Gateway Issue,Low,Resolved,70,Risk Operations
+INC01247,2026-07-26,TXN00024244,System Outage,Medium,Resolved,94,Bank Integration
+INC01248,2026-08-29,TXN00070558,Transaction Processing Delay,Medium,Resolved,398,Payment Operations
+INC01249,2025-08-27,TXN00070745,Network Issue,Critical,Resolved,42,Platform Engineering
+INC01250,2025-09-15,TXN00002882,Network Issue,High,Resolved,50,Risk Operations
+INC01251,2026-04-26,TXN00020688,Gateway Issue,Medium,Closed,44,Risk Operations
+INC01252,2026-12-01,TXN00039458,Network Issue,Low,Resolved,40,Bank Integration
+INC01253,2025-12-12,TXN00032218,Bank Connectivity,Low,In Progress,221,Payment Operations
+INC01254,2026-06-03,TXN00023143,Bank Connectivity,Medium,Resolved,162,Platform Engineering
+INC01255,2025-06-23,TXN00084879,System Outage,Medium,In Progress,71,Platform Engineering
+INC01256,2025-02-27,TXN00032583,Gateway Issue,Medium,Resolved,58,Bank Integration
+INC01257,2025-06-18,TXN00036146,System Outage,Medium,Resolved,139,Bank Integration
+INC01258,2025-01-05,TXN00065419,Transaction Processing Delay,High,Resolved,72,Risk Operations
+INC01259,2025-03-17,TXN00082110,Bank Connectivity,Medium,Resolved,32,Payment Operations
+INC01260,2025-03-01,TXN00002003,System Outage,High,Resolved,55,Risk Operations
+INC01261,2025-10-03,TXN00087586,Bank Connectivity,Low,In Progress,33,Bank Integration
+INC01262,2026-11-30,TXN00077359,Bank Connectivity,Medium,Closed,20,Risk Operations
+INC01263,2025-03-14,TXN00081116,Network Issue,Medium,In Progress,145,Bank Integration
+INC01264,2026-08-01,TXN00079610,Application Error,Medium,Closed,71,Bank Integration
+INC01265,2026-09-28,TXN00045631,Network Issue,Medium,Resolved,83,Bank Integration
+INC01266,2025-01-17,TXN00095327,Gateway Issue,High,Resolved,191,Bank Integration
+INC01267,2025-03-29,TXN00056441,Gateway Issue,Medium,Closed,132,Payment Operations
+INC01268,2026-05-24,TXN00058811,Application Error,Medium,Closed,83,Payment Operations
+INC01269,2026-11-19,TXN00012372,Bank Connectivity,Critical,Resolved,98,Payment Operations
+INC01270,2025-02-09,TXN00026568,Application Error,Medium,Resolved,88,Bank Integration
+INC01271,2026-05-01,TXN00019776,System Outage,Medium,Resolved,61,Bank Integration
+INC01272,2026-05-08,TXN00025387,Network Issue,Medium,Resolved,89,Bank Integration
+INC01273,2025-09-04,TXN00098203,Network Issue,Medium,Resolved,120,Bank Integration
+INC01274,2025-02-23,TXN00029219,Gateway Issue,High,Resolved,111,Platform Engineering
+INC01275,2025-02-28,TXN00018103,Bank Connectivity,Medium,Resolved,19,Bank Integration
+INC01276,2026-07-24,TXN00034541,Network Issue,High,Resolved,32,Risk Operations
+INC01277,2026-09-27,TXN00020442,Transaction Processing Delay,Medium,Resolved,127,Platform Engineering
+INC01278,2025-07-18,TXN00047002,Network Issue,Medium,Resolved,131,Platform Engineering
+INC01279,2026-10-10,TXN00093695,Bank Connectivity,Low,Resolved,143,Payment Operations
+INC01280,2026-06-19,TXN00024477,Application Error,Low,Resolved,19,Bank Integration
+INC01281,2026-11-19,TXN00001553,System Outage,Medium,Closed,86,Bank Integration
+INC01282,2026-12-10,TXN00051438,Gateway Issue,High,Closed,154,Bank Integration
+INC01283,2025-10-21,TXN00005632,Transaction Processing Delay,Medium,Resolved,149,Risk Operations
+INC01284,2026-04-29,TXN00016806,Bank Connectivity,Low,Closed,58,Payment Operations
+INC01285,2025-05-13,TXN00056514,Gateway Issue,High,Resolved,77,Risk Operations
+INC01286,2025-06-03,TXN00041301,Bank Connectivity,Low,In Progress,106,Bank Integration
+INC01287,2025-07-16,TXN00012738,Network Issue,High,Resolved,85,Risk Operations
+INC01288,2025-12-26,TXN00005565,Gateway Issue,Medium,Resolved,67,Platform Engineering
+INC01289,2025-03-04,TXN00016036,System Outage,Low,Resolved,118,Platform Engineering
+INC01290,2025-12-21,TXN00051114,Bank Connectivity,High,Resolved,35,Payment Operations
+INC01291,2026-01-01,TXN00084630,Bank Connectivity,Medium,Closed,129,Platform Engineering
+INC01292,2025-02-23,TXN00027846,Gateway Issue,Low,Resolved,9,Payment Operations
+INC01293,2026-06-08,TXN00023691,Gateway Issue,Medium,Closed,160,Payment Operations
+INC01294,2026-07-17,TXN00063801,Bank Connectivity,Medium,Resolved,107,Bank Integration
+INC01295,2025-12-05,TXN00053516,Gateway Issue,High,Closed,70,Risk Operations
+INC01296,2025-04-05,TXN00061217,Gateway Issue,Medium,Resolved,45,Bank Integration
+INC01297,2026-05-04,TXN00011297,Network Issue,Medium,In Progress,43,Bank Integration
+INC01298,2025-03-15,TXN00068302,Network Issue,Critical,In Progress,76,Risk Operations
+INC01299,2026-08-30,TXN00004437,Network Issue,High,Closed,128,Payment Operations
+INC01300,2026-05-14,TXN00047064,Gateway Issue,Low,Resolved,242,Platform Engineering
+INC01301,2026-03-16,TXN00055221,Network Issue,Low,Resolved,64,Risk Operations
+INC01302,2026-09-01,TXN00045317,Bank Connectivity,Medium,Closed,11,Platform Engineering
+INC01303,2025-01-15,TXN00094371,Application Error,High,Resolved,159,Payment Operations
+INC01304,2026-03-21,TXN00019893,Bank Connectivity,Low,Resolved,78,Risk Operations
+INC01305,2026-07-11,TXN00078172,Application Error,High,Closed,71,Payment Operations
+INC01306,2026-03-21,TXN00043972,Bank Connectivity,Low,Closed,19,Payment Operations
+INC01307,2026-08-16,TXN00024691,Network Issue,Low,Resolved,47,Payment Operations
+INC01308,2026-12-10,TXN00008481,Bank Connectivity,Medium,Resolved,55,Bank Integration
+INC01309,2025-02-15,TXN00060584,Network Issue,Medium,Resolved,49,Payment Operations
+INC01310,2026-07-18,TXN00051944,Transaction Processing Delay,Critical,Resolved,35,Platform Engineering
+INC01311,2026-10-18,TXN00079034,Application Error,High,Resolved,58,Risk Operations
+INC01312,2026-08-04,TXN00029063,Gateway Issue,High,Resolved,16,Payment Operations
+INC01313,2025-05-29,TXN00081955,Gateway Issue,High,Resolved,16,Payment Operations
+INC01314,2026-08-01,TXN00010679,System Outage,Medium,Closed,76,Platform Engineering
+INC01315,2025-01-13,TXN00046776,Bank Connectivity,Low,Resolved,75,Bank Integration
+INC01316,2025-07-08,TXN00045496,Gateway Issue,Medium,In Progress,91,Risk Operations
+INC01317,2026-03-23,TXN00099202,Application Error,High,Closed,27,Payment Operations
+INC01318,2026-02-23,TXN00032784,Bank Connectivity,Medium,Resolved,52,Payment Operations
+INC01319,2026-03-28,TXN00099698,Transaction Processing Delay,Low,Resolved,129,Platform Engineering
+INC01320,2026-06-13,TXN00086707,Gateway Issue,High,Resolved,9,Payment Operations
+INC01321,2026-12-08,TXN00091667,Bank Connectivity,Low,Resolved,365,Risk Operations
+INC01322,2025-09-26,TXN00097053,System Outage,Low,Resolved,88,Platform Engineering
+INC01323,2026-06-07,TXN00081539,Gateway Issue,Medium,Resolved,91,Risk Operations
+INC01324,2026-08-11,TXN00099990,Gateway Issue,Low,Closed,45,Risk Operations
+INC01325,2025-06-23,TXN00077943,Transaction Processing Delay,High,Resolved,106,Risk Operations
+INC01326,2026-08-30,TXN00017591,Gateway Issue,Medium,Closed,59,Risk Operations
+INC01327,2025-07-07,TXN00093604,Gateway Issue,Medium,Closed,85,Bank Integration
+INC01328,2025-10-09,TXN00030459,Network Issue,High,Resolved,107,Bank Integration
+INC01329,2026-04-21,TXN00016854,System Outage,Low,Resolved,95,Platform Engineering
+INC01330,2025-06-09,TXN00077768,Application Error,Medium,Resolved,86,Payment Operations
+INC01331,2026-08-19,TXN00093792,Gateway Issue,Medium,Resolved,239,Platform Engineering
+INC01332,2026-08-21,TXN00087606,Transaction Processing Delay,Critical,In Progress,66,Payment Operations
+INC01333,2025-11-25,TXN00047112,Network Issue,High,Closed,11,Risk Operations
+INC01334,2026-11-23,TXN00030402,Gateway Issue,Medium,In Progress,65,Bank Integration
+INC01335,2025-11-08,TXN00083205,System Outage,Medium,Resolved,84,Platform Engineering
+INC01336,2025-11-12,TXN00092515,Gateway Issue,Low,Closed,136,Platform Engineering
+INC01337,2025-02-04,TXN00052091,Gateway Issue,Medium,Closed,74,Platform Engineering
+INC01338,2026-09-15,TXN00049997,Network Issue,Medium,Resolved,94,Payment Operations
+INC01339,2025-08-08,TXN00039258,Network Issue,Medium,Resolved,31,Bank Integration
+INC01340,2026-02-03,TXN00030189,Application Error,Medium,Resolved,142,Payment Operations
+INC01341,2026-03-08,TXN00093033,System Outage,Medium,Resolved,42,Risk Operations
+INC01342,2025-06-02,TXN00073091,System Outage,Low,In Progress,46,Payment Operations
+INC01343,2025-07-24,TXN00020715,Transaction Processing Delay,Medium,Resolved,124,Bank Integration
+INC01344,2025-03-09,TXN00073992,Network Issue,Medium,Resolved,94,Bank Integration
+INC01345,2025-07-14,TXN00072811,Gateway Issue,Medium,Resolved,226,Payment Operations
+INC01346,2025-06-24,TXN00087474,Bank Connectivity,Medium,Resolved,64,Bank Integration
+INC01347,2025-10-10,TXN00087757,Transaction Processing Delay,High,Resolved,21,Platform Engineering
+INC01348,2025-04-26,TXN00081546,Network Issue,Medium,Resolved,111,Bank Integration
+INC01349,2026-02-18,TXN00081832,Bank Connectivity,High,Closed,78,Platform Engineering
+INC01350,2026-08-28,TXN00038304,Application Error,High,Resolved,51,Bank Integration
+INC01351,2025-11-24,TXN00065917,Gateway Issue,Medium,Closed,177,Platform Engineering
+INC01352,2026-12-27,TXN00093222,Bank Connectivity,Medium,Resolved,14,Risk Operations
+INC01353,2026-01-23,TXN00008363,System Outage,High,Resolved,49,Platform Engineering
+INC01354,2026-06-15,TXN00007554,Bank Connectivity,Low,Resolved,76,Bank Integration
+INC01355,2025-05-15,TXN00040561,Bank Connectivity,Low,In Progress,79,Platform Engineering
+INC01356,2025-02-16,TXN00012568,Network Issue,High,Closed,62,Risk Operations
+INC01357,2026-04-18,TXN00096831,Gateway Issue,Low,Resolved,69,Bank Integration
+INC01358,2025-06-05,TXN00058040,Application Error,Critical,In Progress,46,Risk Operations
+INC01359,2026-06-07,TXN00041771,Gateway Issue,Low,Closed,82,Platform Engineering
+INC01360,2026-11-15,TXN00047976,Network Issue,High,In Progress,89,Payment Operations
+INC01361,2025-11-23,TXN00002786,Network Issue,High,Closed,134,Payment Operations
+INC01362,2025-10-07,TXN00010865,Transaction Processing Delay,Low,Resolved,80,Risk Operations
+INC01363,2025-03-20,TXN00031016,Bank Connectivity,Medium,Closed,32,Risk Operations
+INC01364,2026-05-27,TXN00089838,Gateway Issue,Medium,Resolved,57,Bank Integration
+INC01365,2026-12-05,TXN00059629,Bank Connectivity,Critical,Resolved,71,Platform Engineering
+INC01366,2026-08-20,TXN00051162,Bank Connectivity,Low,Closed,63,Payment Operations
+INC01367,2026-06-18,TXN00011941,Network Issue,High,Resolved,229,Payment Operations
+INC01368,2025-03-28,TXN00099460,Bank Connectivity,High,Resolved,113,Bank Integration
+INC01369,2025-01-28,TXN00060310,Network Issue,Low,In Progress,152,Bank Integration
+INC01370,2026-05-16,TXN00065226,Bank Connectivity,Low,Resolved,183,Bank Integration
+INC01371,2025-10-31,TXN00002864,Bank Connectivity,Medium,In Progress,108,Bank Integration
+INC01372,2025-07-09,TXN00008104,Network Issue,Low,Resolved,15,Payment Operations
+INC01373,2025-04-23,TXN00019715,Application Error,Low,Resolved,112,Bank Integration
+INC01374,2025-05-07,TXN00090123,Application Error,Low,Resolved,35,Bank Integration
+INC01375,2026-12-23,TXN00042577,Network Issue,Low,Resolved,82,Risk Operations
+INC01376,2025-03-29,TXN00005702,Network Issue,Medium,Resolved,59,Bank Integration
+INC01377,2025-11-21,TXN00023541,Network Issue,Medium,Resolved,52,Bank Integration
+INC01378,2025-03-23,TXN00042847,Network Issue,Medium,Resolved,90,Bank Integration
+INC01379,2026-03-09,TXN00000461,System Outage,Medium,Closed,41,Bank Integration
+INC01380,2026-12-04,TXN00074958,Transaction Processing Delay,High,Resolved,59,Platform Engineering
+INC01381,2026-07-28,TXN00069840,Gateway Issue,High,Resolved,27,Risk Operations
+INC01382,2026-05-10,TXN00037856,Network Issue,Medium,Closed,63,Platform Engineering
+INC01383,2025-04-11,TXN00067319,Network Issue,High,Closed,94,Risk Operations
+INC01384,2026-11-16,TXN00050861,Network Issue,Medium,Resolved,64,Platform Engineering
+INC01385,2026-02-13,TXN00083066,Application Error,Critical,Resolved,162,Payment Operations
+INC01386,2026-12-04,TXN00074159,Gateway Issue,Low,Closed,249,Platform Engineering
+INC01387,2025-09-04,TXN00008659,Gateway Issue,Low,Resolved,24,Risk Operations
+INC01388,2025-06-05,TXN00081745,Bank Connectivity,High,Resolved,125,Risk Operations
+INC01389,2026-08-27,TXN00049331,Transaction Processing Delay,High,Resolved,32,Bank Integration
+INC01390,2025-01-13,TXN00067297,Transaction Processing Delay,Low,Resolved,89,Risk Operations
+INC01391,2026-01-17,TXN00064384,Application Error,Medium,Resolved,123,Bank Integration
+INC01392,2026-02-27,TXN00059950,Network Issue,Medium,Resolved,35,Bank Integration
+INC01393,2026-07-12,TXN00064734,Network Issue,High,Resolved,65,Platform Engineering
+INC01394,2026-01-14,TXN00022674,Application Error,Medium,Resolved,59,Risk Operations
+INC01395,2025-04-08,TXN00066819,Application Error,Medium,Resolved,84,Payment Operations
+INC01396,2026-07-14,TXN00056015,Bank Connectivity,Critical,In Progress,74,Platform Engineering
+INC01397,2026-11-16,TXN00091858,Gateway Issue,Critical,Resolved,79,Payment Operations
+INC01398,2026-07-03,TXN00000963,Bank Connectivity,Low,Resolved,70,Platform Engineering
+INC01399,2025-01-31,TXN00036903,Application Error,Medium,Resolved,78,Platform Engineering
+INC01400,2026-05-11,TXN00058396,Gateway Issue,Medium,Resolved,93,Platform Engineering
+INC01401,2026-01-10,TXN00084221,Gateway Issue,Low,Resolved,156,Bank Integration
+INC01402,2026-06-14,TXN00034217,Application Error,Medium,Resolved,48,Payment Operations
+INC01403,2025-06-25,TXN00012485,Bank Connectivity,Low,Resolved,81,Bank Integration
+INC01404,2026-07-13,TXN00006616,Bank Connectivity,Medium,Resolved,121,Platform Engineering
+INC01405,2026-06-19,TXN00059508,Bank Connectivity,High,Resolved,52,Payment Operations
+INC01406,2026-03-26,TXN00062130,Gateway Issue,High,Resolved,16,Bank Integration
+INC01407,2025-02-25,TXN00019574,Application Error,Medium,In Progress,92,Payment Operations
+INC01408,2026-11-21,TXN00087279,Application Error,Low,Resolved,56,Risk Operations
+INC01409,2026-10-17,TXN00016485,Application Error,Low,Resolved,48,Bank Integration
+INC01410,2025-05-16,TXN00033658,System Outage,Medium,Resolved,166,Payment Operations
+INC01411,2025-01-19,TXN00093158,System Outage,Medium,In Progress,195,Risk Operations
+INC01412,2026-09-30,TXN00028151,System Outage,Low,Resolved,66,Payment Operations
+INC01413,2025-01-15,TXN00016628,Transaction Processing Delay,Low,Resolved,61,Payment Operations
+INC01414,2025-08-25,TXN00060663,Bank Connectivity,Medium,Closed,29,Platform Engineering
+INC01415,2026-07-13,TXN00024514,Transaction Processing Delay,Medium,Resolved,35,Risk Operations
+INC01416,2026-08-22,TXN00015498,Gateway Issue,Medium,In Progress,118,Payment Operations
+INC01417,2025-07-15,TXN00034177,Application Error,Medium,Resolved,89,Payment Operations
+INC01418,2026-06-07,TXN00080036,System Outage,Medium,Closed,126,Bank Integration
+INC01419,2026-06-19,TXN00033916,System Outage,Low,Closed,47,Bank Integration
+INC01420,2026-04-28,TXN00013314,Transaction Processing Delay,High,In Progress,135,Risk Operations
+INC01421,2026-01-14,TXN00092683,Network Issue,Low,In Progress,123,Risk Operations
+INC01422,2026-07-31,TXN00089489,Gateway Issue,High,Resolved,66,Bank Integration
+INC01423,2025-12-30,TXN00051968,System Outage,High,Resolved,94,Platform Engineering
+INC01424,2025-04-26,TXN00027009,Transaction Processing Delay,Medium,Closed,64,Bank Integration
+INC01425,2025-05-14,TXN00049501,Application Error,Low,Closed,63,Platform Engineering
+INC01426,2026-09-23,TXN00025947,System Outage,High,Resolved,59,Risk Operations
+INC01427,2025-11-23,TXN00024695,Transaction Processing Delay,Medium,Resolved,9,Risk Operations
+INC01428,2026-04-17,TXN00095752,Transaction Processing Delay,High,Resolved,12,Risk Operations
+INC01429,2026-11-27,TXN00030032,System Outage,Low,Resolved,14,Bank Integration
+INC01430,2025-08-15,TXN00028485,Application Error,Low,In Progress,69,Platform Engineering
+INC01431,2025-01-29,TXN00053840,System Outage,Low,Resolved,25,Payment Operations
+INC01432,2025-08-15,TXN00041634,Gateway Issue,High,Resolved,118,Bank Integration
+INC01433,2025-01-04,TXN00065638,Network Issue,Low,Resolved,37,Risk Operations
+INC01434,2025-10-28,TXN00004247,Bank Connectivity,Medium,Resolved,32,Payment Operations
+INC01435,2025-09-13,TXN00094044,Transaction Processing Delay,High,Resolved,35,Payment Operations
+INC01436,2026-11-16,TXN00041266,Gateway Issue,Medium,In Progress,28,Platform Engineering
+INC01437,2025-06-02,TXN00035256,Application Error,Medium,Resolved,280,Payment Operations
+INC01438,2025-05-03,TXN00042367,Gateway Issue,Critical,Resolved,24,Risk Operations
+INC01439,2025-10-06,TXN00061371,Transaction Processing Delay,Low,Resolved,33,Risk Operations
+INC01440,2026-01-04,TXN00045097,Application Error,Low,Resolved,95,Payment Operations
+INC01441,2026-03-01,TXN00077034,Network Issue,Medium,Resolved,152,Platform Engineering
+INC01442,2025-03-03,TXN00029919,Bank Connectivity,High,Resolved,33,Payment Operations
+INC01443,2026-12-26,TXN00021630,Transaction Processing Delay,Medium,Resolved,196,Risk Operations
+INC01444,2025-02-09,TXN00048918,Bank Connectivity,High,Resolved,56,Payment Operations
+INC01445,2026-08-28,TXN00090395,Network Issue,Medium,Closed,67,Bank Integration
+INC01446,2026-09-09,TXN00050833,Transaction Processing Delay,High,Resolved,20,Bank Integration
+INC01447,2025-09-11,TXN00077171,Bank Connectivity,Medium,Resolved,85,Payment Operations
+INC01448,2025-01-22,TXN00013739,Gateway Issue,Medium,Resolved,128,Risk Operations
+INC01449,2025-06-29,TXN00038431,Network Issue,High,Closed,48,Payment Operations
+INC01450,2025-11-30,TXN00032950,System Outage,Medium,Resolved,138,Bank Integration
+INC01451,2026-11-15,TXN00009599,Gateway Issue,High,Resolved,123,Payment Operations
+INC01452,2025-11-15,TXN00013185,Bank Connectivity,Critical,Resolved,41,Bank Integration
+INC01453,2026-02-28,TXN00021716,Bank Connectivity,Medium,Resolved,70,Bank Integration
+INC01454,2025-07-01,TXN00042914,System Outage,Low,Resolved,112,Risk Operations
+INC01455,2025-12-23,TXN00098281,Application Error,High,Resolved,56,Platform Engineering
+INC01456,2025-11-28,TXN00047149,Transaction Processing Delay,Medium,Resolved,26,Payment Operations
+INC01457,2026-07-12,TXN00038955,Network Issue,Medium,Resolved,68,Bank Integration
+INC01458,2026-02-14,TXN00072988,Transaction Processing Delay,High,Resolved,55,Payment Operations
+INC01459,2026-02-15,TXN00034040,Network Issue,Medium,Resolved,63,Bank Integration
+INC01460,2026-03-02,TXN00074611,Application Error,High,Resolved,60,Bank Integration
+INC01461,2025-05-25,TXN00055384,Gateway Issue,Medium,Resolved,44,Bank Integration
+INC01462,2025-05-17,TXN00096337,Application Error,Medium,Closed,22,Platform Engineering
+INC01463,2025-11-03,TXN00042134,Network Issue,Low,Closed,164,Platform Engineering
+INC01464,2025-02-06,TXN00018433,Network Issue,Critical,Closed,50,Bank Integration
+INC01465,2026-07-07,TXN00075395,System Outage,Low,Resolved,10,Platform Engineering
+INC01466,2025-09-01,TXN00017361,System Outage,Low,Resolved,74,Risk Operations
+INC01467,2025-06-10,TXN00032157,Bank Connectivity,High,Resolved,101,Platform Engineering
+INC01468,2025-10-26,TXN00009231,Network Issue,Low,Resolved,201,Platform Engineering
+INC01469,2026-01-24,TXN00057531,Bank Connectivity,Medium,In Progress,150,Bank Integration
+INC01470,2026-06-13,TXN00022611,Transaction Processing Delay,Medium,Resolved,191,Payment Operations
+INC01471,2026-03-26,TXN00098189,Network Issue,High,Resolved,77,Platform Engineering
+INC01472,2025-05-03,TXN00093746,Bank Connectivity,Medium,Resolved,116,Payment Operations
+INC01473,2025-08-24,TXN00090711,Application Error,Medium,Resolved,90,Bank Integration
+INC01474,2026-04-25,TXN00053540,System Outage,Medium,Resolved,73,Platform Engineering
+INC01475,2026-04-07,TXN00050824,Bank Connectivity,High,Resolved,78,Bank Integration
+INC01476,2025-08-09,TXN00090087,System Outage,Low,Closed,104,Payment Operations
+INC01477,2025-09-26,TXN00058319,Transaction Processing Delay,Medium,Resolved,180,Risk Operations
+INC01478,2025-04-24,TXN00024130,Gateway Issue,Medium,Resolved,152,Bank Integration
+INC01479,2025-02-02,TXN00006125,Bank Connectivity,Low,Closed,62,Bank Integration
+INC01480,2025-07-12,TXN00036377,Bank Connectivity,Medium,Resolved,96,Bank Integration
+INC01481,2025-03-11,TXN00077930,Transaction Processing Delay,Medium,Resolved,152,Risk Operations
+INC01482,2026-04-03,TXN00040284,Gateway Issue,Low,Resolved,60,Bank Integration
+INC01483,2026-12-17,TXN00011138,Network Issue,Medium,In Progress,74,Platform Engineering
+INC01484,2026-02-24,TXN00095040,Gateway Issue,Low,Resolved,42,Risk Operations
+INC01485,2025-03-07,TXN00078448,Gateway Issue,High,Resolved,39,Bank Integration
+INC01486,2025-11-11,TXN00093448,Gateway Issue,Medium,Resolved,130,Bank Integration
+INC01487,2025-11-08,TXN00020552,Bank Connectivity,Medium,Resolved,29,Risk Operations
+INC01488,2025-06-05,TXN00019743,System Outage,Critical,Resolved,29,Payment Operations
+INC01489,2026-05-01,TXN00016324,Gateway Issue,Medium,Resolved,54,Platform Engineering
+INC01490,2025-07-28,TXN00085180,System Outage,High,In Progress,101,Payment Operations
+INC01491,2026-05-23,TXN00095550,System Outage,High,Resolved,233,Payment Operations
+INC01492,2026-07-31,TXN00089951,Network Issue,Medium,Closed,39,Risk Operations
+INC01493,2026-04-12,TXN00013096,Gateway Issue,Medium,Resolved,13,Platform Engineering
+INC01494,2026-02-11,TXN00042207,Gateway Issue,Medium,Resolved,199,Platform Engineering
+INC01495,2026-09-14,TXN00027268,Bank Connectivity,Low,Closed,106,Risk Operations
+INC01496,2026-04-30,TXN00061140,Transaction Processing Delay,High,Resolved,115,Bank Integration
+INC01497,2025-07-08,TXN00029108,Bank Connectivity,High,Resolved,129,Platform Engineering
+INC01498,2026-11-27,TXN00009202,Gateway Issue,High,Closed,93,Bank Integration
+INC01499,2025-04-25,TXN00012440,Bank Connectivity,Medium,Resolved,116,Payment Operations
+INC01500,2026-07-17,TXN00055947,System Outage,Medium,Resolved,13,Risk Operations

@@ -1,0 +1,201 @@
+Location_ID,City,State,Region,City_Tier,Latitude,Longitude
+LOC001,Mumbai,Maharashtra,West,Tier 1,19.076,72.8777
+LOC002,Pune,Maharashtra,West,Tier 1,18.5204,73.8567
+LOC003,Nagpur,Maharashtra,West,Tier 2,21.1458,79.0882
+LOC004,Nashik,Maharashtra,West,Tier 2,19.9975,73.7898
+LOC005,Ahmedabad,Gujarat,West,Tier 1,23.0225,72.5714
+LOC006,Surat,Gujarat,West,Tier 2,21.1702,72.8311
+LOC007,Bengaluru,Karnataka,South,Tier 1,12.9716,77.5946
+LOC008,Mysuru,Karnataka,South,Tier 2,12.2958,76.6394
+LOC009,Chennai,Tamil Nadu,South,Tier 1,13.0827,80.2707
+LOC010,Coimbatore,Tamil Nadu,South,Tier 2,11.0168,76.9558
+LOC011,Hyderabad,Telangana,South,Tier 1,17.385,78.4867
+LOC012,Kochi,Kerala,South,Tier 2,9.9312,76.2673
+LOC013,Delhi,Delhi,North,Tier 1,28.6139,77.209
+LOC014,Jaipur,Rajasthan,North,Tier 2,26.9124,75.7873
+LOC015,Lucknow,Uttar Pradesh,North,Tier 2,26.8467,80.9462
+LOC016,Chandigarh,Chandigarh,North,Tier 2,30.7333,76.7794
+LOC017,Kolkata,West Bengal,East,Tier 1,22.5726,88.3639
+LOC018,Bhubaneswar,Odisha,East,Tier 2,20.2961,85.8245
+LOC019,Patna,Bihar,East,Tier 2,25.5941,85.1376
+LOC020,Bhopal,Madhya Pradesh,Central,Tier 2,23.2599,77.4126
+LOC021,Indore,Madhya Pradesh,Central,Tier 2,22.7196,75.8577
+LOC022,Guwahati,Assam,Northeast,Tier 2,26.1445,91.7362
+LOC023,Mumbai 2,Maharashtra,West,Tier 1,19.11574,72.86664
+LOC024,Pune 2,Maharashtra,West,Tier 1,18.57222,73.97854
+LOC025,Nagpur 2,Maharashtra,West,Tier 2,21.12707,79.06947
+LOC026,Nashik 2,Maharashtra,West,Tier 2,20.12384,73.85119
+LOC027,Ahmedabad 2,Gujarat,West,Tier 1,22.98494,72.6148
+LOC028,Surat 2,Gujarat,West,Tier 2,21.13313,72.79384
+LOC029,Bengaluru 2,Karnataka,South,Tier 1,12.99096,77.44154
+LOC030,Mysuru 2,Karnataka,South,Tier 2,12.15781,76.59442
+LOC031,Chennai 2,Tamil Nadu,South,Tier 1,13.00167,80.29584
+LOC032,Coimbatore 2,Tamil Nadu,South,Tier 2,10.94416,76.84282
+LOC033,Hyderabad 2,Telangana,South,Tier 1,17.50225,78.46864
+LOC034,Kochi 2,Kerala,South,Tier 2,9.9366,76.15332
+LOC035,Delhi 2,Delhi,North,Tier 1,28.57035,77.21787
+LOC036,Jaipur 2,Rajasthan,North,Tier 2,26.82032,75.81736
+LOC037,Lucknow 2,Uttar Pradesh,North,Tier 2,26.79865,80.92286
+LOC038,Chandigarh 2,Chandigarh,North,Tier 2,30.68516,76.92758
+LOC039,Kolkata 2,West Bengal,East,Tier 1,22.57152,88.27928
+LOC040,Bhubaneswar 2,Odisha,East,Tier 2,20.3619,85.72683
+LOC041,Patna 2,Bihar,East,Tier 2,25.61081,84.98083
+LOC042,Bhopal 2,Madhya Pradesh,Central,Tier 2,23.15365,77.42835
+LOC043,Indore 2,Madhya Pradesh,Central,Tier 2,22.77868,75.87141
+LOC044,Guwahati 2,Assam,Northeast,Tier 2,26.13525,91.71211
+LOC045,Mumbai 3,Maharashtra,West,Tier 1,18.95772,72.82011
+LOC046,Pune 3,Maharashtra,West,Tier 1,18.48355,73.94127
+LOC047,Nagpur 3,Maharashtra,West,Tier 2,21.17329,78.94716
+LOC048,Nashik 3,Maharashtra,West,Tier 2,20.02343,73.75899
+LOC049,Ahmedabad 3,Gujarat,West,Tier 1,22.96835,72.62033
+LOC050,Surat 3,Gujarat,West,Tier 2,21.25268,72.9056
+LOC051,Bengaluru 3,Karnataka,South,Tier 1,12.90446,77.56986
+LOC052,Mysuru 3,Karnataka,South,Tier 2,12.3223,76.71744
+LOC053,Chennai 3,Tamil Nadu,South,Tier 1,13.04437,80.25585
+LOC054,Coimbatore 3,Tamil Nadu,South,Tier 2,10.92829,76.8601
+LOC055,Hyderabad 3,Telangana,South,Tier 1,17.45,78.5952
+LOC056,Kochi 3,Kerala,South,Tier 2,9.92544,76.34758
+LOC057,Delhi 3,Delhi,North,Tier 1,28.64283,77.15739
+LOC058,Jaipur 3,Rajasthan,North,Tier 2,26.94131,75.91034
+LOC059,Lucknow 3,Uttar Pradesh,North,Tier 2,26.84383,81.07137
+LOC060,Chandigarh 3,Chandigarh,North,Tier 2,30.52372,76.84515
+LOC061,Kolkata 3,West Bengal,East,Tier 1,22.57956,88.33998
+LOC062,Bhubaneswar 3,Odisha,East,Tier 2,20.30344,85.66549
+LOC063,Patna 3,Bihar,East,Tier 2,25.57653,85.16617
+LOC064,Bhopal 3,Madhya Pradesh,Central,Tier 2,23.37813,77.37114
+LOC065,Indore 3,Madhya Pradesh,Central,Tier 2,22.65492,75.81756
+LOC066,Guwahati 3,Assam,Northeast,Tier 2,26.21773,91.7625
+LOC067,Mumbai 4,Maharashtra,West,Tier 1,19.03362,72.91876
+LOC068,Pune 4,Maharashtra,West,Tier 1,18.52817,73.93419
+LOC069,Nagpur 4,Maharashtra,West,Tier 2,21.08964,79.06199
+LOC070,Nashik 4,Maharashtra,West,Tier 2,19.96613,73.67272
+LOC071,Ahmedabad 4,Gujarat,West,Tier 1,23.04619,72.59228
+LOC072,Surat 4,Gujarat,West,Tier 2,21.17061,72.81233
+LOC073,Bengaluru 4,Karnataka,South,Tier 1,12.85837,77.56095
+LOC074,Mysuru 4,Karnataka,South,Tier 2,12.26838,76.57522
+LOC075,Chennai 4,Tamil Nadu,South,Tier 1,13.0698,80.30302
+LOC076,Coimbatore 4,Tamil Nadu,South,Tier 2,11.16769,76.96977
+LOC077,Hyderabad 4,Telangana,South,Tier 1,17.4056,78.48074
+LOC078,Kochi 4,Kerala,South,Tier 2,9.7777,76.26518
+LOC079,Delhi 4,Delhi,North,Tier 1,28.61872,77.40606
+LOC080,Jaipur 4,Rajasthan,North,Tier 2,26.89701,75.81142
+LOC081,Lucknow 4,Uttar Pradesh,North,Tier 2,26.84392,80.85271
+LOC082,Chandigarh 4,Chandigarh,North,Tier 2,30.82473,76.83955
+LOC083,Kolkata 4,West Bengal,East,Tier 1,22.63588,88.29115
+LOC084,Bhubaneswar 4,Odisha,East,Tier 2,20.40832,85.71235
+LOC085,Patna 4,Bihar,East,Tier 2,25.64105,85.31284
+LOC086,Bhopal 4,Madhya Pradesh,Central,Tier 2,23.18066,77.3673
+LOC087,Indore 4,Madhya Pradesh,Central,Tier 2,22.72757,75.81742
+LOC088,Guwahati 4,Assam,Northeast,Tier 2,26.02045,91.74169
+LOC089,Mumbai 5,Maharashtra,West,Tier 1,18.99102,72.91559
+LOC090,Pune 5,Maharashtra,West,Tier 1,18.44685,73.98069
+LOC091,Nagpur 5,Maharashtra,West,Tier 2,21.08314,79.06244
+LOC092,Nashik 5,Maharashtra,West,Tier 2,20.06258,73.69133
+LOC093,Ahmedabad 5,Gujarat,West,Tier 1,23.0407,72.67597
+LOC094,Surat 5,Gujarat,West,Tier 2,21.0416,72.84587
+LOC095,Bengaluru 5,Karnataka,South,Tier 1,12.99239,77.65715
+LOC096,Mysuru 5,Karnataka,South,Tier 2,12.19684,76.53376
+LOC097,Chennai 5,Tamil Nadu,South,Tier 1,13.12446,80.29446
+LOC098,Coimbatore 5,Tamil Nadu,South,Tier 2,11.03684,76.98352
+LOC099,Hyderabad 5,Telangana,South,Tier 1,17.3306,78.50528
+LOC100,Kochi 5,Kerala,South,Tier 2,9.95465,76.21015
+LOC101,Delhi 5,Delhi,North,Tier 1,28.76316,77.24691
+LOC102,Jaipur 5,Rajasthan,North,Tier 2,26.8171,75.83982
+LOC103,Lucknow 5,Uttar Pradesh,North,Tier 2,26.76873,81.00917
+LOC104,Chandigarh 5,Chandigarh,North,Tier 2,30.82599,76.71375
+LOC105,Kolkata 5,West Bengal,East,Tier 1,22.64967,88.39692
+LOC106,Bhubaneswar 5,Odisha,East,Tier 2,20.36186,85.97624
+LOC107,Patna 5,Bihar,East,Tier 2,25.57447,85.0773
+LOC108,Bhopal 5,Madhya Pradesh,Central,Tier 2,23.18874,77.34734
+LOC109,Indore 5,Madhya Pradesh,Central,Tier 2,22.71343,75.88499
+LOC110,Guwahati 5,Assam,Northeast,Tier 2,26.16664,91.80237
+LOC111,Mumbai 6,Maharashtra,West,Tier 1,19.07704,72.99398
+LOC112,Pune 6,Maharashtra,West,Tier 1,18.49923,74.07431
+LOC113,Nagpur 6,Maharashtra,West,Tier 2,21.19585,79.01963
+LOC114,Nashik 6,Maharashtra,West,Tier 2,19.91183,73.8284
+LOC115,Ahmedabad 6,Gujarat,West,Tier 1,23.00462,72.62852
+LOC116,Surat 6,Gujarat,West,Tier 2,21.20806,72.82527
+LOC117,Bengaluru 6,Karnataka,South,Tier 1,12.90386,77.47341
+LOC118,Mysuru 6,Karnataka,South,Tier 2,12.26008,76.70791
+LOC119,Chennai 6,Tamil Nadu,South,Tier 1,13.09983,80.17104
+LOC120,Coimbatore 6,Tamil Nadu,South,Tier 2,11.03065,76.98663
+LOC121,Hyderabad 6,Telangana,South,Tier 1,17.31429,78.499
+LOC122,Kochi 6,Kerala,South,Tier 2,9.93586,76.17586
+LOC123,Delhi 6,Delhi,North,Tier 1,28.64252,77.25386
+LOC124,Jaipur 6,Rajasthan,North,Tier 2,26.99904,75.8716
+LOC125,Lucknow 6,Uttar Pradesh,North,Tier 2,26.73649,80.87117
+LOC126,Chandigarh 6,Chandigarh,North,Tier 2,30.7745,76.8205
+LOC127,Kolkata 6,West Bengal,East,Tier 1,22.6138,88.67212
+LOC128,Bhubaneswar 6,Odisha,East,Tier 2,20.34177,85.91535
+LOC129,Patna 6,Bihar,East,Tier 2,25.67042,85.18971
+LOC130,Bhopal 6,Madhya Pradesh,Central,Tier 2,23.23468,77.47332
+LOC131,Indore 6,Madhya Pradesh,Central,Tier 2,22.65777,75.83875
+LOC132,Guwahati 6,Assam,Northeast,Tier 2,26.10567,91.74275
+LOC133,Mumbai 7,Maharashtra,West,Tier 1,19.26117,72.72832
+LOC134,Pune 7,Maharashtra,West,Tier 1,18.5753,73.72768
+LOC135,Nagpur 7,Maharashtra,West,Tier 2,21.10805,79.17532
+LOC136,Nashik 7,Maharashtra,West,Tier 2,20.00264,73.70358
+LOC137,Ahmedabad 7,Gujarat,West,Tier 1,22.96528,72.62577
+LOC138,Surat 7,Gujarat,West,Tier 2,21.11177,72.84842
+LOC139,Bengaluru 7,Karnataka,South,Tier 1,12.97525,77.54247
+LOC140,Mysuru 7,Karnataka,South,Tier 2,12.46732,76.69011
+LOC141,Chennai 7,Tamil Nadu,South,Tier 1,12.92069,80.28562
+LOC142,Coimbatore 7,Tamil Nadu,South,Tier 2,10.96386,77.02399
+LOC143,Hyderabad 7,Telangana,South,Tier 1,17.3216,78.47752
+LOC144,Kochi 7,Kerala,South,Tier 2,9.9716,76.33656
+LOC145,Delhi 7,Delhi,North,Tier 1,28.51788,77.18224
+LOC146,Jaipur 7,Rajasthan,North,Tier 2,26.8744,75.73503
+LOC147,Lucknow 7,Uttar Pradesh,North,Tier 2,26.98794,80.9786
+LOC148,Chandigarh 7,Chandigarh,North,Tier 2,30.63243,76.85283
+LOC149,Kolkata 7,West Bengal,East,Tier 1,22.74237,88.4465
+LOC150,Bhubaneswar 7,Odisha,East,Tier 2,20.17455,85.78576
+LOC151,Patna 7,Bihar,East,Tier 2,25.69545,85.08099
+LOC152,Bhopal 7,Madhya Pradesh,Central,Tier 2,23.29541,77.47457
+LOC153,Indore 7,Madhya Pradesh,Central,Tier 2,22.64545,75.85294
+LOC154,Guwahati 7,Assam,Northeast,Tier 2,25.8852,91.65425
+LOC155,Mumbai 8,Maharashtra,West,Tier 1,19.05579,72.77788
+LOC156,Pune 8,Maharashtra,West,Tier 1,18.65099,73.74229
+LOC157,Nagpur 8,Maharashtra,West,Tier 2,21.1106,79.09866
+LOC158,Nashik 8,Maharashtra,West,Tier 2,20.1128,73.67493
+LOC159,Ahmedabad 8,Gujarat,West,Tier 1,23.11555,72.57222
+LOC160,Surat 8,Gujarat,West,Tier 2,21.09168,72.86807
+LOC161,Bengaluru 8,Karnataka,South,Tier 1,12.98752,77.54658
+LOC162,Mysuru 8,Karnataka,South,Tier 2,12.30138,76.60857
+LOC163,Chennai 8,Tamil Nadu,South,Tier 1,13.09178,80.32367
+LOC164,Coimbatore 8,Tamil Nadu,South,Tier 2,11.14368,76.85677
+LOC165,Hyderabad 8,Telangana,South,Tier 1,17.55564,78.33053
+LOC166,Kochi 8,Kerala,South,Tier 2,9.91906,76.31437
+LOC167,Delhi 8,Delhi,North,Tier 1,28.63638,77.15918
+LOC168,Jaipur 8,Rajasthan,North,Tier 2,26.89575,75.74786
+LOC169,Lucknow 8,Uttar Pradesh,North,Tier 2,26.79955,81.01417
+LOC170,Chandigarh 8,Chandigarh,North,Tier 2,30.76186,76.72397
+LOC171,Kolkata 8,West Bengal,East,Tier 1,22.64457,88.38848
+LOC172,Bhubaneswar 8,Odisha,East,Tier 2,20.36113,85.87487
+LOC173,Patna 8,Bihar,East,Tier 2,25.52778,85.09279
+LOC174,Bhopal 8,Madhya Pradesh,Central,Tier 2,23.31968,77.46143
+LOC175,Indore 8,Madhya Pradesh,Central,Tier 2,22.71793,75.86709
+LOC176,Guwahati 8,Assam,Northeast,Tier 2,26.24671,91.68887
+LOC177,Mumbai 9,Maharashtra,West,Tier 1,19.11977,72.86152
+LOC178,Pune 9,Maharashtra,West,Tier 1,18.50299,73.9446
+LOC179,Nagpur 9,Maharashtra,West,Tier 2,21.21183,79.15328
+LOC180,Nashik 9,Maharashtra,West,Tier 2,20.10194,73.79148
+LOC181,Ahmedabad 9,Gujarat,West,Tier 1,23.07706,72.54658
+LOC182,Surat 9,Gujarat,West,Tier 2,21.19613,72.82069
+LOC183,Bengaluru 9,Karnataka,South,Tier 1,12.97936,77.64221
+LOC184,Mysuru 9,Karnataka,South,Tier 2,12.23034,76.80679
+LOC185,Chennai 9,Tamil Nadu,South,Tier 1,13.00222,80.17356
+LOC186,Coimbatore 9,Tamil Nadu,South,Tier 2,11.10945,77.01913
+LOC187,Hyderabad 9,Telangana,South,Tier 1,17.43493,78.53697
+LOC188,Kochi 9,Kerala,South,Tier 2,9.93022,76.19552
+LOC189,Delhi 9,Delhi,North,Tier 1,28.61996,77.15483
+LOC190,Jaipur 9,Rajasthan,North,Tier 2,26.99041,75.77554
+LOC191,Lucknow 9,Uttar Pradesh,North,Tier 2,26.78066,80.92049
+LOC192,Chandigarh 9,Chandigarh,North,Tier 2,30.76633,76.7343
+LOC193,Kolkata 9,West Bengal,East,Tier 1,22.50682,88.38339
+LOC194,Bhubaneswar 9,Odisha,East,Tier 2,20.3157,85.78394
+LOC195,Patna 9,Bihar,East,Tier 2,25.55642,85.15616
+LOC196,Bhopal 9,Madhya Pradesh,Central,Tier 2,23.14405,77.3
+LOC197,Indore 9,Madhya Pradesh,Central,Tier 2,22.66212,75.84062
+LOC198,Guwahati 9,Assam,Northeast,Tier 2,26.16937,91.85423
+LOC199,Mumbai 10,Maharashtra,West,Tier 1,19.14461,72.8649
+LOC200,Pune 10,Maharashtra,West,Tier 1,18.51888,73.7765

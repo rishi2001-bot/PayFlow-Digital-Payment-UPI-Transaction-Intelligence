@@ -1,0 +1,2001 @@
+Merchant_ID,Merchant_Name,Merchant_Category,Business_Type,City,State,Merchant_Size,Registration_Date,Merchant_Status
+MER00001,Merchant 0001,Retail,Retail,Nagpur 4,Maharashtra,Medium,2025-06-24,Active
+MER00002,Merchant 0002,Entertainment,Services,Mysuru 5,Karnataka,Small,2024-06-13,Active
+MER00003,Merchant 0003,Restaurants,Retail,Kolkata 7,West Bengal,Small,2024-09-17,Active
+MER00004,Merchant 0004,Education,Services,Coimbatore 9,Tamil Nadu,Small,2023-05-14,Active
+MER00005,Merchant 0005,Education,Services,Chennai,Tamil Nadu,Small,2026-01-08,Active
+MER00006,Merchant 0006,Government Services,Services,Mumbai 10,Maharashtra,Medium,2024-04-09,Active
+MER00007,Merchant 0007,Grocery,Retail,Chandigarh 4,Chandigarh,Small,2025-02-11,Active
+MER00008,Merchant 0008,Food Delivery,Retail,Delhi 4,Delhi,Medium,2024-08-26,Active
+MER00009,Merchant 0009,Grocery,Retail,Coimbatore 9,Tamil Nadu,Small,2023-12-16,Active
+MER00010,Merchant 0010,Grocery,Retail,Guwahati 8,Assam,Medium,2026-03-14,Inactive
+MER00011,Merchant 0011,Fuel,Retail,Jaipur 4,Rajasthan,Small,2025-04-09,Active
+MER00012,Merchant 0012,Entertainment,Services,Delhi 9,Delhi,Small,2024-07-12,Active
+MER00013,Merchant 0013,Retail,Retail,Lucknow 2,Uttar Pradesh,Small,2023-10-22,Active
+MER00014,Merchant 0014,Retail,Retail,Ahmedabad 6,Gujarat,Small,2026-02-25,Active
+MER00015,Merchant 0015,Utilities,Services,Ahmedabad,Gujarat,Small,2025-04-06,Active
+MER00016,Merchant 0016,Restaurants,Retail,Bengaluru 8,Karnataka,Small,2026-04-04,Active
+MER00017,Merchant 0017,Retail,Retail,Kolkata 9,West Bengal,Enterprise,2024-11-26,Active
+MER00018,Merchant 0018,Retail,Retail,Nagpur 6,Maharashtra,Medium,2026-06-23,Active
+MER00019,Merchant 0019,Retail,Retail,Bengaluru,Karnataka,Small,2026-01-29,Active
+MER00020,Merchant 0020,Retail,Retail,Bhopal 2,Madhya Pradesh,Small,2023-06-08,Active
+MER00021,Merchant 0021,Restaurants,Retail,Chandigarh 3,Chandigarh,Large,2026-05-05,Active
+MER00022,Merchant 0022,Online Services,Services,Guwahati 6,Assam,Large,2024-10-18,Active
+MER00023,Merchant 0023,Government Services,Services,Nashik,Maharashtra,Enterprise,2025-10-24,Inactive
+MER00024,Merchant 0024,Entertainment,Services,Hyderabad 4,Telangana,Large,2024-09-10,Active
+MER00025,Merchant 0025,Education,Services,Hyderabad 5,Telangana,Small,2023-08-04,Active
+MER00026,Merchant 0026,Retail,Retail,Patna 5,Bihar,Small,2025-10-26,Active
+MER00027,Merchant 0027,Grocery,Retail,Jaipur 7,Rajasthan,Medium,2026-03-27,Active
+MER00028,Merchant 0028,Healthcare,Services,Surat 6,Gujarat,Medium,2025-06-05,Active
+MER00029,Merchant 0029,Government Services,Services,Lucknow 6,Uttar Pradesh,Small,2025-04-22,Active
+MER00030,Merchant 0030,Retail,Retail,Pune 9,Maharashtra,Small,2024-08-25,Active
+MER00031,Merchant 0031,Retail,Retail,Guwahati 5,Assam,Enterprise,2024-02-12,Active
+MER00032,Merchant 0032,Online Services,Services,Delhi,Delhi,Large,2023-01-13,Active
+MER00033,Merchant 0033,Food Delivery,Retail,Chennai 2,Tamil Nadu,Small,2025-04-02,Active
+MER00034,Merchant 0034,Retail,Retail,Bhopal 2,Madhya Pradesh,Small,2024-08-26,Active
+MER00035,Merchant 0035,Fuel,Retail,Nashik 4,Maharashtra,Large,2023-12-23,Active
+MER00036,Merchant 0036,Grocery,Retail,Nashik 6,Maharashtra,Small,2023-10-30,Active
+MER00037,Merchant 0037,,Retail,Bengaluru 7,Karnataka,Medium,2023-09-09,Inactive
+MER00038,Merchant 0038,Online Services,Services,Kolkata 7,West Bengal,Small,2024-08-05,Active
+MER00039,Merchant 0039,Travel,Services,Guwahati 7,Assam,Medium,2025-04-14,Active
+MER00040,Merchant 0040,Grocery,Retail,Lucknow,Uttar Pradesh,Small,2025-03-18,Active
+MER00041,Merchant 0041,Retail,Retail,Bhopal 7,Madhya Pradesh,Large,2023-04-04,Active
+MER00042,Merchant 0042,Healthcare,Services,Kochi 9,Kerala,Small,2023-01-31,Active
+MER00043,Merchant 0043,Restaurants,Retail,Chandigarh 4,Chandigarh,Small,2023-10-28,Inactive
+MER00044,Merchant 0044,Online Services,Services,Pune 10,Maharashtra,Small,2026-02-01,Active
+MER00045,Merchant 0045,Restaurants,Retail,Kolkata 5,West Bengal,Medium,2023-11-06,Active
+MER00046,Merchant 0046,Entertainment,Services,Chennai 8,Tamil Nadu,Small,2023-11-25,Active
+MER00047,Merchant 0047,Education,Services,Surat 2,Gujarat,Medium,2026-01-26,Active
+MER00048,Merchant 0048,Food Delivery,Retail,Nagpur 8,Maharashtra,Small,2024-02-15,Inactive
+MER00049,Merchant 0049,Entertainment,Services,Mysuru 3,Karnataka,Large,2023-02-21,Active
+MER00050,Merchant 0050,Grocery,Retail,Guwahati 5,Assam,Small,2024-07-20,Active
+MER00051,Merchant 0051,Education,Services,Jaipur 9,Rajasthan,Large,2025-11-16,Active
+MER00052,Merchant 0052,Restaurants,Retail,Kochi 3,Kerala,Medium,2025-05-14,Active
+MER00053,Merchant 0053,Entertainment,Services,Pune,Maharashtra,Small,2023-04-26,Active
+MER00054,Merchant 0054,Retail,Retail,Chandigarh 4,Chandigarh,Small,2024-11-15,Active
+MER00055,Merchant 0055,Healthcare,Services,Kolkata 9,West Bengal,Enterprise,2024-03-02,Active
+MER00056,Merchant 0056,Fuel,Retail,Patna 3,Bihar,Small,2024-07-07,Active
+MER00057,Merchant 0057,Grocery,Retail,Chandigarh 3,Chandigarh,Medium,2025-02-12,Active
+MER00058,Merchant 0058,Restaurants,Retail,Bhubaneswar 9,Odisha,Small,2023-10-31,Active
+MER00059,Merchant 0059,Entertainment,Services,Indore 5,Madhya Pradesh,Large,2026-03-29,Active
+MER00060,Merchant 0060,Retail,Retail,Indore 5,Madhya Pradesh,Medium,2023-12-08,Active
+MER00061,Merchant 0061,Healthcare,Services,Coimbatore 7,Tamil Nadu,Large,2024-11-23,Active
+MER00062,Merchant 0062,,Retail,Surat 2,Gujarat,Large,2023-10-23,Active
+MER00063,Merchant 0063,Travel,Services,Guwahati 2,Assam,Small,2023-04-04,Active
+MER00064,Merchant 0064,Utilities,Services,Hyderabad 6,Telangana,Small,2026-04-01,Active
+MER00065,Merchant 0065,Utilities,Services,Kochi 9,Kerala,Small,2024-09-21,Active
+MER00066,Merchant 0066,Food Delivery,Retail,Kolkata 7,West Bengal,Small,2025-08-15,Active
+MER00067,Merchant 0067,Food Delivery,Retail,Kochi 2,Kerala,Small,2026-06-11,Active
+MER00068,Merchant 0068,Retail,Retail,Guwahati 5,Assam,Small,2023-06-04,Active
+MER00069,Merchant 0069,,Services,Surat 9,Gujarat,Large,2023-10-05,Active
+MER00070,Merchant 0070,Utilities,Services,Delhi 8,Delhi,Small,2024-05-19,Active
+MER00071,Merchant 0071,Restaurants,Retail,Nashik,Maharashtra,Small,2024-09-14,Active
+MER00072,Merchant 0072,Fuel,Retail,Pune 8,Maharashtra,Medium,2023-05-31,Active
+MER00073,Merchant 0073,Grocery,Retail,Kolkata 2,West Bengal,Large,2023-06-30,Active
+MER00074,Merchant 0074,Restaurants,Retail,Kolkata 9,West Bengal,Small,2023-07-27,Active
+MER00075,Merchant 0075,Utilities,Services,Patna 8,Bihar,Small,2023-05-08,Active
+MER00076,Merchant 0076,Online Services,Services,Surat 4,Gujarat,Small,2023-01-23,Active
+MER00077,Merchant 0077,Retail,Retail,Kolkata 3,West Bengal,Small,2025-10-27,Active
+MER00078,Merchant 0078,Food Delivery,Retail,Chandigarh 3,Chandigarh,Medium,2024-05-02,Active
+MER00079,Merchant 0079,Fuel,Retail,Kochi 7,Kerala,Medium,2023-11-08,Active
+MER00080,Merchant 0080,Food Delivery,Retail,Bengaluru 3,Karnataka,Large,2024-10-23,Active
+MER00081,Merchant 0081,Fuel,Retail,Pune 6,Maharashtra,Large,2024-08-27,Active
+MER00082,Merchant 0082,Online Services,Services,Mumbai 3,Maharashtra,Large,2024-02-08,Active
+MER00083,Merchant 0083,Utilities,Services,Chennai 2,Tamil Nadu,Small,2025-02-12,Active
+MER00084,Merchant 0084,Government Services,Services,Nagpur 7,Maharashtra,Small,2024-04-01,Active
+MER00085,Merchant 0085,Food Delivery,Retail,Bengaluru 3,Karnataka,Small,2025-08-15,Active
+MER00086,Merchant 0086,Healthcare,Services,Mumbai 7,Maharashtra,Medium,2023-12-11,Active
+MER00087,Merchant 0087,Grocery,Retail,Bhubaneswar 9,Odisha,Large,2024-10-01,Active
+MER00088,Merchant 0088,Food Delivery,Retail,Patna 2,Bihar,Small,2023-02-11,Active
+MER00089,Merchant 0089,Retail,Retail,Bengaluru 6,Karnataka,Large,2024-09-05,Inactive
+MER00090,Merchant 0090,Food Delivery,Retail,Pune 4,Maharashtra,Small,2023-08-13,Active
+MER00091,Merchant 0091,Healthcare,Services,Coimbatore,Tamil Nadu,Small,2024-09-04,Active
+MER00092,Merchant 0092,Grocery,Retail,Hyderabad 5,Telangana,Medium,2025-07-11,Active
+MER00093,Merchant 0093,Grocery,Retail,Indore 3,Madhya Pradesh,Large,2025-04-30,Active
+MER00094,Merchant 0094,Retail,Retail,Nagpur,Maharashtra,Small,2024-08-14,Active
+MER00095,Merchant 0095,Grocery,Retail,Kolkata 8,West Bengal,Small,2023-02-16,Active
+MER00096,Merchant 0096,Utilities,Services,Patna 8,Bihar,Small,2025-02-10,Active
+MER00097,Merchant 0097,Healthcare,Services,Guwahati 7,Assam,Small,2024-02-10,Active
+MER00098,Merchant 0098,Retail,Retail,Lucknow 4,Uttar Pradesh,Small,2026-02-26,Active
+MER00099,Merchant 0099,Utilities,Services,Bhopal 2,Madhya Pradesh,Small,2026-04-17,Active
+MER00100,Merchant 0100,Restaurants,Retail,Surat 4,Gujarat,Small,2024-04-13,Active
+MER00101,Merchant 0101,Healthcare,Services,Mysuru 2,Karnataka,Small,2023-04-24,Active
+MER00102,Merchant 0102,Entertainment,Services,Surat 4,Gujarat,Small,2024-07-28,Inactive
+MER00103,Merchant 0103,Online Services,Services,Ahmedabad 6,Gujarat,Medium,2026-03-31,Active
+MER00104,Merchant 0104,Fuel,Retail,Pune 2,Maharashtra,Medium,2023-01-29,Active
+MER00105,Merchant 0105,Retail,Retail,Bengaluru 4,Karnataka,Small,2024-12-11,Active
+MER00106,Merchant 0106,Online Services,Services,Bhubaneswar 4,Odisha,Small,2025-04-04,Inactive
+MER00107,Merchant 0107,Retail,Retail,Surat 6,Gujarat,Small,2024-04-04,Inactive
+MER00108,Merchant 0108,Online Services,Services,Bhubaneswar 8,Odisha,Small,2023-10-16,Active
+MER00109,Merchant 0109,Online Services,Services,Chennai 7,Tamil Nadu,Small,2024-01-01,Active
+MER00110,Merchant 0110,Online Services,Services,Lucknow 2,Uttar Pradesh,Small,2026-01-30,Active
+MER00111,Merchant 0111,Utilities,Services,Patna,Bihar,Small,2024-12-05,Active
+MER00112,Merchant 0112,Retail,Retail,Ahmedabad,Gujarat,Medium,2023-04-29,Active
+MER00113,Merchant 0113,Grocery,Retail,Coimbatore 8,Tamil Nadu,Enterprise,2024-04-09,Active
+MER00114,Merchant 0114,Restaurants,Retail,Bengaluru 9,Karnataka,Large,2023-04-14,Active
+MER00115,Merchant 0115,Restaurants,Retail,Mysuru 3,Karnataka,Medium,2023-02-19,Active
+MER00116,Merchant 0116,Grocery,Retail,Mysuru 8,Karnataka,Medium,2025-05-03,Active
+MER00117,Merchant 0117,Grocery,Retail,Mumbai 6,Maharashtra,Large,2025-03-27,Active
+MER00118,Merchant 0118,Fuel,Retail,Nashik 7,Maharashtra,Medium,2024-04-19,Active
+MER00119,Merchant 0119,Grocery,Retail,Nashik,Maharashtra,Small,2024-12-19,Active
+MER00120,Merchant 0120,Restaurants,Retail,Jaipur 5,Rajasthan,Medium,2026-04-22,Active
+MER00121,Merchant 0121,Grocery,Retail,Pune 10,Maharashtra,Small,2025-05-04,Active
+MER00122,Merchant 0122,Healthcare,Services,Bengaluru 4,Karnataka,Small,2026-03-09,Active
+MER00123,Merchant 0123,Food Delivery,Retail,Patna 2,Bihar,Small,2023-04-23,Active
+MER00124,Merchant 0124,Food Delivery,Retail,Lucknow 8,Uttar Pradesh,Small,2025-01-23,Active
+MER00125,Merchant 0125,Online Services,Services,Chennai 2,Tamil Nadu,Medium,2023-08-20,Active
+MER00126,Merchant 0126,Utilities,Services,Bengaluru 5,Karnataka,Large,2023-05-17,Active
+MER00127,Merchant 0127,Restaurants,Retail,Chandigarh 3,Chandigarh,Enterprise,2024-09-14,Active
+MER00128,Merchant 0128,Entertainment,Services,Nagpur 9,Maharashtra,Small,2025-05-26,Active
+MER00129,Merchant 0129,Utilities,Services,Bhubaneswar 2,Odisha,Large,2025-07-13,Active
+MER00130,Merchant 0130,Retail,Retail,Mumbai 10,Maharashtra,Medium,2026-04-03,Active
+MER00131,Merchant 0131,Utilities,Services,Nagpur 2,Maharashtra,Small,2023-04-29,Inactive
+MER00132,Merchant 0132,Grocery,Retail,Indore 9,Madhya Pradesh,Medium,2023-11-28,Active
+MER00133,Merchant 0133,Retail,Retail,Kolkata 3,West Bengal,Small,2024-10-28,Active
+MER00134,Merchant 0134,Education,Services,Jaipur 7,Rajasthan,Small,2023-06-26,Active
+MER00135,Merchant 0135,Utilities,Services,Ahmedabad 4,Gujarat,Small,2024-06-29,Active
+MER00136,Merchant 0136,Grocery,Retail,Kochi 8,Kerala,Medium,2026-01-31,Active
+MER00137,Merchant 0137,Restaurants,Retail,Bhopal 3,Madhya Pradesh,Small,2026-02-21,Active
+MER00138,Merchant 0138,Retail,Retail,Surat 9,Gujarat,Large,2024-04-27,Active
+MER00139,Merchant 0139,Online Services,Services,Bhubaneswar 5,Odisha,Medium,2025-12-09,Active
+MER00140,Merchant 0140,Grocery,Retail,Delhi 4,Delhi,Small,2024-11-16,Active
+MER00141,Merchant 0141,Utilities,Services,Mumbai 9,Maharashtra,Medium,2023-09-23,Active
+MER00142,Merchant 0142,Restaurants,Retail,Mumbai 3,Maharashtra,Small,2026-01-19,Active
+MER00143,Merchant 0143,Grocery,Retail,Jaipur 9,Rajasthan,Small,2023-09-20,Active
+MER00144,Merchant 0144,Healthcare,Services,Mysuru 3,Karnataka,Large,2024-02-02,Active
+MER00145,Merchant 0145,Retail,Retail,Chennai 2,Tamil Nadu,Small,2025-01-16,Active
+MER00146,Merchant 0146,Food Delivery,Retail,Mysuru 9,Karnataka,Small,2024-02-03,Active
+MER00147,Merchant 0147,Retail,Retail,Bengaluru 6,Karnataka,Medium,2024-11-25,Active
+MER00148,Merchant 0148,Travel,Services,Bengaluru 4,Karnataka,Medium,2023-12-30,Active
+MER00149,Merchant 0149,Fuel,Retail,Lucknow 7,Uttar Pradesh,Small,2023-07-06,Active
+MER00150,Merchant 0150,Fuel,Retail,Jaipur 6,Rajasthan,Medium,2023-11-25,Active
+MER00151,Merchant 0151,Utilities,Services,Nashik 4,Maharashtra,Large,2025-10-14,Active
+MER00152,Merchant 0152,Grocery,Retail,Surat 9,Gujarat,Medium,2024-03-06,Active
+MER00153,Merchant 0153,,Retail,Kochi 5,Kerala,Large,2025-11-22,Active
+MER00154,Merchant 0154,Entertainment,Services,Pune 8,Maharashtra,Small,2024-06-28,Active
+MER00155,Merchant 0155,Online Services,Services,Hyderabad 9,Telangana,Small,2025-11-27,Active
+MER00156,Merchant 0156,Grocery,Retail,Bhubaneswar 3,Odisha,Small,2025-01-05,Active
+MER00157,Merchant 0157,Retail,Retail,Pune 9,Maharashtra,Medium,2024-06-16,Active
+MER00158,Merchant 0158,Restaurants,Retail,Kochi 8,Kerala,Large,2024-08-03,Active
+MER00159,Merchant 0159,,Retail,Coimbatore,Tamil Nadu,Large,2025-07-27,Active
+MER00160,Merchant 0160,Food Delivery,Retail,Chennai 8,Tamil Nadu,Small,2023-09-24,Active
+MER00161,Merchant 0161,Travel,Services,Pune 3,Maharashtra,Medium,2024-04-21,Active
+MER00162,Merchant 0162,Grocery,Retail,Pune 2,Maharashtra,Enterprise,2026-04-26,Active
+MER00163,Merchant 0163,Online Services,Services,Coimbatore 5,Tamil Nadu,Small,2024-11-16,Active
+MER00164,Merchant 0164,Retail,Retail,Ahmedabad 6,Gujarat,Medium,2024-03-31,Active
+MER00165,Merchant 0165,Utilities,Services,Bengaluru 4,Karnataka,Large,2024-12-31,Active
+MER00166,Merchant 0166,Education,Services,Coimbatore 5,Tamil Nadu,Large,2025-12-15,Active
+MER00167,Merchant 0167,Restaurants,Retail,Nagpur 5,Maharashtra,Small,2023-12-29,Active
+MER00168,Merchant 0168,Education,Services,Nagpur 5,Maharashtra,Small,2025-10-09,Active
+MER00169,Merchant 0169,Fuel,Retail,Kolkata 6,West Bengal,Medium,2023-10-31,Active
+MER00170,Merchant 0170,Fuel,Retail,Surat 8,Gujarat,Large,2024-10-08,Active
+MER00171,Merchant 0171,Retail,Retail,Ahmedabad 2,Gujarat,Small,2023-04-09,Active
+MER00172,Merchant 0172,Grocery,Retail,Nashik 2,Maharashtra,Small,2024-07-09,Active
+MER00173,Merchant 0173,Healthcare,Services,Bhubaneswar 8,Odisha,Large,2023-05-14,Active
+MER00174,Merchant 0174,Retail,Retail,Delhi 7,Delhi,Small,2023-05-27,Active
+MER00175,Merchant 0175,Entertainment,Services,Kochi 7,Kerala,Medium,2023-08-16,Active
+MER00176,Merchant 0176,,Retail,Guwahati 7,Assam,Small,2026-06-09,Active
+MER00177,Merchant 0177,Food Delivery,Retail,Jaipur 5,Rajasthan,Small,2024-02-04,Active
+MER00178,Merchant 0178,Government Services,Services,Kochi 3,Kerala,Small,2025-05-17,Active
+MER00179,Merchant 0179,Online Services,Services,Hyderabad 8,Telangana,Small,2024-08-26,Active
+MER00180,Merchant 0180,Utilities,Services,Chandigarh 4,Chandigarh,Large,2025-10-01,Active
+MER00181,Merchant 0181,Entertainment,Services,Kochi 7,Kerala,Small,2025-06-10,Active
+MER00182,Merchant 0182,Grocery,Retail,Pune,Maharashtra,Small,2026-01-15,Active
+MER00183,Merchant 0183,Retail,Retail,Nashik 8,Maharashtra,Medium,2024-02-23,Active
+MER00184,Merchant 0184,Retail,Retail,Bengaluru 4,Karnataka,Small,2025-12-19,Active
+MER00185,Merchant 0185,Healthcare,Services,Bengaluru 9,Karnataka,Medium,2024-05-21,Active
+MER00186,Merchant 0186,Healthcare,Services,Lucknow 9,Uttar Pradesh,Small,2024-10-18,Active
+MER00187,Merchant 0187,Retail,Retail,Ahmedabad 6,Gujarat,Small,2023-06-16,Active
+MER00188,Merchant 0188,Online Services,Services,Bhopal 3,Madhya Pradesh,Small,2023-05-12,Active
+MER00189,Merchant 0189,Fuel,Retail,Indore 3,Madhya Pradesh,Small,2026-04-14,Active
+MER00190,Merchant 0190,Healthcare,Services,Mumbai 8,Maharashtra,Large,2023-12-04,Active
+MER00191,Merchant 0191,Retail,Retail,Ahmedabad 7,Gujarat,Small,2025-05-25,Active
+MER00192,Merchant 0192,Restaurants,Retail,Nagpur 5,Maharashtra,Small,2023-03-03,Active
+MER00193,Merchant 0193,Food Delivery,Retail,Delhi 8,Delhi,Small,2026-02-24,Active
+MER00194,Merchant 0194,Retail,Retail,Chennai 8,Tamil Nadu,Medium,2023-01-23,Active
+MER00195,Merchant 0195,Healthcare,Services,Bengaluru 8,Karnataka,Small,2026-04-26,Active
+MER00196,Merchant 0196,Entertainment,Services,Chennai 7,Tamil Nadu,Medium,2026-02-02,Inactive
+MER00197,Merchant 0197,Fuel,Retail,Kochi 4,Kerala,Small,2023-10-25,Active
+MER00198,Merchant 0198,Utilities,Services,Ahmedabad 9,Gujarat,Small,2026-04-04,Active
+MER00199,Merchant 0199,Grocery,Retail,Mumbai,Maharashtra,Large,2025-04-30,Active
+MER00200,Merchant 0200,Education,Services,Pune 9,Maharashtra,Small,2025-10-06,Inactive
+MER00201,Merchant 0201,Fuel,Retail,Ahmedabad 4,Gujarat,Medium,2023-02-27,Active
+MER00202,Merchant 0202,Food Delivery,Retail,Indore 8,Madhya Pradesh,Small,2024-03-22,Active
+MER00203,Merchant 0203,Utilities,Services,Lucknow 5,Uttar Pradesh,Small,2024-03-18,Active
+MER00204,Merchant 0204,Food Delivery,Retail,Nashik 9,Maharashtra,Small,2025-10-06,Active
+MER00205,Merchant 0205,Retail,Retail,Kochi 2,Kerala,Small,2025-09-21,Active
+MER00206,Merchant 0206,Utilities,Services,Bengaluru 6,Karnataka,Small,2025-06-16,Active
+MER00207,Merchant 0207,Education,Services,Nashik 5,Maharashtra,Large,2025-01-24,Active
+MER00208,Merchant 0208,Retail,Retail,Bengaluru,Karnataka,Enterprise,2023-12-03,Inactive
+MER00209,Merchant 0209,Grocery,Retail,Bhopal 8,Madhya Pradesh,Small,2023-09-26,Active
+MER00210,Merchant 0210,Food Delivery,Retail,Surat 6,Gujarat,Small,2023-02-25,Active
+MER00211,Merchant 0211,Entertainment,Services,Delhi 4,Delhi,Medium,2025-09-27,Active
+MER00212,Merchant 0212,Food Delivery,Retail,Pune 2,Maharashtra,Small,2023-08-08,Active
+MER00213,Merchant 0213,Utilities,Services,Nagpur 5,Maharashtra,Medium,2025-11-06,Inactive
+MER00214,Merchant 0214,Fuel,Retail,Kolkata 2,West Bengal,Medium,2023-03-29,Active
+MER00215,Merchant 0215,Fuel,Retail,Jaipur 9,Rajasthan,Medium,2025-10-01,Active
+MER00216,Merchant 0216,Utilities,Services,Patna 9,Bihar,Small,2024-04-26,Inactive
+MER00217,Merchant 0217,Restaurants,Retail,Mysuru 4,Karnataka,Small,2025-11-26,Active
+MER00218,Merchant 0218,Grocery,Retail,Lucknow 8,Uttar Pradesh,Large,2024-10-15,Active
+MER00219,Merchant 0219,Grocery,Retail,Nagpur 8,Maharashtra,Small,2026-02-10,Active
+MER00220,Merchant 0220,Fuel,Retail,Pune 10,Maharashtra,Enterprise,2023-07-17,Active
+MER00221,Merchant 0221,Grocery,Retail,Kolkata,West Bengal,Small,2025-07-25,Active
+MER00222,Merchant 0222,Utilities,Services,Ahmedabad 7,Gujarat,Small,2026-04-22,Active
+MER00223,Merchant 0223,Travel,Services,Chennai 6,Tamil Nadu,Medium,2025-05-01,Active
+MER00224,Merchant 0224,Restaurants,Retail,Lucknow,Uttar Pradesh,Small,2024-02-11,Active
+MER00225,Merchant 0225,Retail,Retail,Nashik,Maharashtra,Small,2024-02-20,Active
+MER00226,Merchant 0226,Grocery,Retail,Kolkata 7,West Bengal,Large,2025-01-12,Active
+MER00227,Merchant 0227,Entertainment,Services,Ahmedabad 4,Gujarat,Small,2026-02-11,Active
+MER00228,Merchant 0228,Travel,Services,Guwahati 8,Assam,Small,2024-01-18,Inactive
+MER00229,Merchant 0229,Grocery,Retail,Nashik 7,Maharashtra,Small,2023-03-25,Active
+MER00230,Merchant 0230,Fuel,Retail,Pune 3,Maharashtra,Medium,2024-05-05,Active
+MER00231,Merchant 0231,Utilities,Services,Nagpur 7,Maharashtra,Small,2025-03-24,Active
+MER00232,Merchant 0232,Restaurants,Retail,Guwahati 5,Assam,Small,2024-07-04,Active
+MER00233,Merchant 0233,Online Services,Services,Guwahati 9,Assam,Small,2023-09-07,Active
+MER00234,Merchant 0234,Online Services,Services,Ahmedabad 7,Gujarat,Large,2024-09-10,Active
+MER00235,Merchant 0235,Utilities,Services,Guwahati 8,Assam,Large,2024-08-19,Active
+MER00236,Merchant 0236,Grocery,Retail,Kochi 5,Kerala,Large,2026-02-19,Active
+MER00237,Merchant 0237,Healthcare,Services,Mysuru 3,Karnataka,Large,2023-12-31,Active
+MER00238,Merchant 0238,Fuel,Retail,Nagpur 8,Maharashtra,Medium,2026-04-04,Active
+MER00239,Merchant 0239,Grocery,Retail,Nagpur,Maharashtra,Large,2025-07-13,Active
+MER00240,Merchant 0240,Government Services,Services,Indore 5,Madhya Pradesh,Small,2025-07-04,Inactive
+MER00241,Merchant 0241,Restaurants,Retail,Ahmedabad 8,Gujarat,Small,2025-12-01,Active
+MER00242,Merchant 0242,Fuel,Retail,Guwahati 4,Assam,Medium,2026-06-13,Active
+MER00243,Merchant 0243,Food Delivery,Retail,Patna 3,Bihar,Large,2025-06-01,Active
+MER00244,Merchant 0244,Restaurants,Retail,Bhopal 7,Madhya Pradesh,Medium,2025-04-24,Inactive
+MER00245,Merchant 0245,Education,Services,Guwahati 8,Assam,Small,2026-05-23,Active
+MER00246,Merchant 0246,Government Services,Services,Kochi 5,Kerala,Large,2023-02-28,Active
+MER00247,Merchant 0247,Restaurants,Retail,Delhi 2,Delhi,Medium,2025-01-21,Active
+MER00248,Merchant 0248,Entertainment,Services,Mysuru 6,Karnataka,Medium,2023-12-09,Active
+MER00249,Merchant 0249,Grocery,Retail,Nagpur 2,Maharashtra,Medium,2026-06-21,Active
+MER00250,Merchant 0250,Retail,Retail,Mysuru 9,Karnataka,Medium,2024-07-01,Active
+MER00251,Merchant 0251,Fuel,Retail,Lucknow 5,Uttar Pradesh,Small,2023-10-11,Active
+MER00252,Merchant 0252,Entertainment,Services,Indore,Madhya Pradesh,Small,2023-03-22,Active
+MER00253,Merchant 0253,Education,Services,Hyderabad 7,Telangana,Large,2024-08-06,Active
+MER00254,Merchant 0254,Fuel,Retail,Indore 6,Madhya Pradesh,Small,2024-05-27,Active
+MER00255,Merchant 0255,Retail,Retail,Hyderabad 6,Telangana,Medium,2024-03-11,Active
+MER00256,Merchant 0256,Grocery,Retail,Coimbatore,Tamil Nadu,Small,2025-02-09,Active
+MER00257,Merchant 0257,Food Delivery,Retail,Pune 9,Maharashtra,Large,2023-10-06,Active
+MER00258,Merchant 0258,Utilities,Services,Chandigarh 6,Chandigarh,Medium,2024-12-27,Active
+MER00259,Merchant 0259,Retail,Retail,Jaipur 4,Rajasthan,Medium,2024-08-15,Active
+MER00260,Merchant 0260,Healthcare,Services,Delhi,Delhi,Small,2025-06-11,Active
+MER00261,Merchant 0261,Online Services,Services,Guwahati 2,Assam,Small,2024-04-15,Active
+MER00262,Merchant 0262,Retail,Retail,Patna 6,Bihar,Medium,2024-03-14,Inactive
+MER00263,Merchant 0263,Fuel,Retail,Indore 8,Madhya Pradesh,Small,2025-06-10,Active
+MER00264,Merchant 0264,Utilities,Services,Hyderabad 3,Telangana,Medium,2023-05-21,Active
+MER00265,Merchant 0265,Retail,Retail,Bengaluru 8,Karnataka,Medium,2024-11-09,Active
+MER00266,Merchant 0266,Grocery,Retail,Pune 10,Maharashtra,Medium,2025-02-12,Active
+MER00267,Merchant 0267,Grocery,Retail,Chandigarh,Chandigarh,Small,2023-09-26,Active
+MER00268,Merchant 0268,Online Services,Services,Nashik 3,Maharashtra,Small,2023-02-21,Active
+MER00269,Merchant 0269,Fuel,Retail,Delhi 2,Delhi,Medium,2024-05-19,Active
+MER00270,Merchant 0270,Retail,Retail,Bengaluru 3,Karnataka,Small,2023-09-04,Active
+MER00271,Merchant 0271,Grocery,Retail,Kochi 9,Kerala,Medium,2025-05-04,Active
+MER00272,Merchant 0272,Retail,Retail,Kochi 4,Kerala,Small,2023-02-05,Active
+MER00273,Merchant 0273,Restaurants,Retail,Kolkata 5,West Bengal,Small,2023-04-17,Active
+MER00274,Merchant 0274,Grocery,Retail,Nagpur 5,Maharashtra,Small,2025-08-18,Inactive
+MER00275,Merchant 0275,Utilities,Services,Bhubaneswar 8,Odisha,Small,2026-03-10,Active
+MER00276,Merchant 0276,Utilities,Services,Guwahati 8,Assam,Large,2023-04-02,Active
+MER00277,Merchant 0277,Entertainment,Services,Patna 6,Bihar,Small,2026-04-29,Active
+MER00278,Merchant 0278,Grocery,Retail,Patna 5,Bihar,Small,2026-04-21,Active
+MER00279,Merchant 0279,Fuel,Retail,Surat 5,Gujarat,Small,2023-07-25,Active
+MER00280,Merchant 0280,Healthcare,Services,Delhi 2,Delhi,Medium,2025-05-29,Active
+MER00281,Merchant 0281,Entertainment,Services,Surat 7,Gujarat,Medium,2024-12-11,Active
+MER00282,Merchant 0282,Utilities,Services,Bengaluru 5,Karnataka,Small,2023-02-10,Active
+MER00283,Merchant 0283,Retail,Retail,Kochi,Kerala,Small,2024-12-03,Active
+MER00284,Merchant 0284,Utilities,Services,Chandigarh 5,Chandigarh,Large,2024-06-04,Active
+MER00285,Merchant 0285,Education,Services,Delhi 2,Delhi,Small,2025-01-11,Active
+MER00286,Merchant 0286,Retail,Retail,Delhi 8,Delhi,Small,2024-10-21,Active
+MER00287,Merchant 0287,Grocery,Retail,Bhubaneswar 6,Odisha,Small,2024-09-05,Active
+MER00288,Merchant 0288,Education,Services,Mysuru 5,Karnataka,Small,2023-10-13,Active
+MER00289,Merchant 0289,Education,Services,Patna 8,Bihar,Medium,2024-08-06,Active
+MER00290,Merchant 0290,Retail,Retail,Surat 2,Gujarat,Small,2023-09-13,Active
+MER00291,Merchant 0291,Healthcare,Services,Bhopal 7,Madhya Pradesh,Small,2023-04-04,Active
+MER00292,Merchant 0292,Restaurants,Retail,Chandigarh 7,Chandigarh,Small,2024-10-31,Active
+MER00293,Merchant 0293,,Retail,Hyderabad,Telangana,Small,2023-01-31,Active
+MER00294,Merchant 0294,Grocery,Retail,Surat 2,Gujarat,Medium,2024-08-30,Active
+MER00295,Merchant 0295,Entertainment,Services,Bhopal,Madhya Pradesh,Small,2024-11-11,Active
+MER00296,Merchant 0296,Retail,Retail,Indore 9,Madhya Pradesh,Enterprise,2024-07-26,Active
+MER00297,Merchant 0297,Retail,Retail,Lucknow 9,Uttar Pradesh,Medium,2025-07-13,Active
+MER00298,Merchant 0298,Retail,Retail,Surat 6,Gujarat,Medium,2025-02-11,Active
+MER00299,Merchant 0299,Healthcare,Services,Jaipur 3,Rajasthan,Small,2024-10-21,Active
+MER00300,Merchant 0300,Utilities,Services,Bhubaneswar 2,Odisha,Small,2025-08-31,Active
+MER00301,Merchant 0301,Online Services,Services,Bengaluru,Karnataka,Medium,2026-06-12,Active
+MER00302,Merchant 0302,Education,Services,Bhopal 4,Madhya Pradesh,Small,2023-10-12,Active
+MER00303,Merchant 0303,Healthcare,Services,Hyderabad 8,Telangana,Medium,2024-05-29,Active
+MER00304,Merchant 0304,Restaurants,Retail,Nagpur 8,Maharashtra,Small,2023-12-06,Active
+MER00305,Merchant 0305,Retail,Retail,Coimbatore 4,Tamil Nadu,Small,2024-06-20,Active
+MER00306,Merchant 0306,Retail,Retail,Ahmedabad 5,Gujarat,Medium,2023-08-21,Active
+MER00307,Merchant 0307,Government Services,Services,Coimbatore 8,Tamil Nadu,Medium,2023-11-21,Active
+MER00308,Merchant 0308,Retail,Retail,Delhi 2,Delhi,Medium,2025-12-14,Active
+MER00309,Merchant 0309,Fuel,Retail,Patna 5,Bihar,Medium,2025-07-13,Active
+MER00310,Merchant 0310,Retail,Retail,Bhubaneswar 7,Odisha,Small,2026-06-19,Active
+MER00311,Merchant 0311,Government Services,Services,Bhubaneswar,Odisha,Large,2024-09-28,Inactive
+MER00312,Merchant 0312,Entertainment,Services,Chennai 9,Tamil Nadu,Small,2023-05-10,Active
+MER00313,Merchant 0313,Grocery,Retail,Bhopal 4,Madhya Pradesh,Small,2023-08-16,Active
+MER00314,Merchant 0314,Healthcare,Services,Kolkata 4,West Bengal,Small,2023-07-06,Active
+MER00315,Merchant 0315,Fuel,Retail,Kochi 2,Kerala,Medium,2026-05-01,Active
+MER00316,Merchant 0316,Food Delivery,Retail,Mysuru 4,Karnataka,Small,2026-01-29,Active
+MER00317,Merchant 0317,Retail,Retail,Kolkata 4,West Bengal,Small,2025-12-05,Active
+MER00318,Merchant 0318,Food Delivery,Retail,Jaipur 5,Rajasthan,Small,2024-07-25,Active
+MER00319,Merchant 0319,Restaurants,Retail,Chennai,Tamil Nadu,Medium,2023-10-02,Active
+MER00320,Merchant 0320,Online Services,Services,Bengaluru 3,Karnataka,Medium,2025-01-04,Active
+MER00321,Merchant 0321,Grocery,Retail,Surat 2,Gujarat,Medium,2023-01-18,Active
+MER00322,Merchant 0322,Healthcare,Services,Nagpur 2,Maharashtra,Enterprise,2024-02-20,Active
+MER00323,Merchant 0323,Grocery,Retail,Nashik 9,Maharashtra,Large,2023-08-15,Active
+MER00324,Merchant 0324,Restaurants,Retail,Nashik 2,Maharashtra,Small,2026-06-01,Active
+MER00325,Merchant 0325,Online Services,Services,Lucknow 7,Uttar Pradesh,Medium,2023-11-11,Active
+MER00326,Merchant 0326,Grocery,Retail,Kochi 5,Kerala,Medium,2023-03-06,Active
+MER00327,Merchant 0327,Restaurants,Retail,Pune 4,Maharashtra,Small,2025-09-19,Active
+MER00328,Merchant 0328,Online Services,Services,Ahmedabad 3,Gujarat,Small,2025-02-18,Active
+MER00329,Merchant 0329,Entertainment,Services,Nashik 2,Maharashtra,Medium,2023-06-22,Active
+MER00330,Merchant 0330,Healthcare,Services,Mumbai 3,Maharashtra,Small,2024-03-13,Active
+MER00331,Merchant 0331,Grocery,Retail,Mumbai 4,Maharashtra,Medium,2026-01-07,Active
+MER00332,Merchant 0332,Utilities,Services,Bengaluru 6,Karnataka,Small,2023-08-12,Active
+MER00333,Merchant 0333,Travel,Services,Kochi 5,Kerala,Large,2023-01-23,Active
+MER00334,Merchant 0334,Fuel,Retail,Nagpur 7,Maharashtra,Medium,2023-12-11,Active
+MER00335,Merchant 0335,Healthcare,Services,Coimbatore,Tamil Nadu,Large,2024-12-30,Active
+MER00336,Merchant 0336,Travel,Services,Bhopal 9,Madhya Pradesh,Small,2023-10-04,Active
+MER00337,Merchant 0337,Retail,Retail,Nagpur 7,Maharashtra,Medium,2023-05-30,Active
+MER00338,Merchant 0338,Food Delivery,Retail,Bhubaneswar 7,Odisha,Medium,2024-09-25,Active
+MER00339,Merchant 0339,Utilities,Services,Chennai 3,Tamil Nadu,Small,2023-04-19,Active
+MER00340,Merchant 0340,Utilities,Services,Bengaluru 2,Karnataka,Small,2024-12-15,Active
+MER00341,Merchant 0341,Entertainment,Services,Bengaluru 7,Karnataka,Small,2023-10-13,Active
+MER00342,Merchant 0342,Utilities,Services,Kolkata 6,West Bengal,Enterprise,2025-05-26,Active
+MER00343,Merchant 0343,Retail,Retail,Lucknow 9,Uttar Pradesh,Small,2023-03-17,Active
+MER00344,Merchant 0344,Food Delivery,Retail,Delhi 9,Delhi,Small,2023-09-07,Active
+MER00345,Merchant 0345,Retail,Retail,Kochi 3,Kerala,Medium,2023-03-19,Active
+MER00346,Merchant 0346,Travel,Services,Hyderabad 6,Telangana,Medium,2025-02-05,Active
+MER00347,Merchant 0347,Entertainment,Services,Delhi 3,Delhi,Small,2025-06-03,Inactive
+MER00348,Merchant 0348,Restaurants,Retail,Pune 7,Maharashtra,Enterprise,2025-06-15,Active
+MER00349,Merchant 0349,Utilities,Services,Lucknow 2,Uttar Pradesh,Medium,2025-10-14,Inactive
+MER00350,Merchant 0350,Online Services,Services,Delhi,Delhi,Small,2026-02-06,Active
+MER00351,Merchant 0351,Fuel,Retail,Nagpur 3,Maharashtra,Medium,2025-04-19,Active
+MER00352,Merchant 0352,Retail,Retail,Pune 10,Maharashtra,Medium,2026-06-09,Active
+MER00353,Merchant 0353,Grocery,Retail,Chennai 4,Tamil Nadu,Small,2024-06-21,Active
+MER00354,Merchant 0354,Utilities,Services,Chandigarh 9,Chandigarh,Large,2024-11-19,Active
+MER00355,Merchant 0355,Retail,Retail,Chennai 5,Tamil Nadu,Medium,2024-03-03,Active
+MER00356,Merchant 0356,Retail,Retail,Bhubaneswar 8,Odisha,Medium,2024-07-08,Active
+MER00357,Merchant 0357,Restaurants,Retail,Guwahati 8,Assam,Small,2023-02-18,Active
+MER00358,Merchant 0358,Utilities,Services,Nagpur 5,Maharashtra,Small,2023-06-29,Active
+MER00359,Merchant 0359,Restaurants,Retail,Lucknow 5,Uttar Pradesh,Small,2023-11-23,Active
+MER00360,Merchant 0360,Entertainment,Services,Jaipur 7,Rajasthan,Small,2024-11-02,Active
+MER00361,Merchant 0361,Retail,Retail,Mysuru 6,Karnataka,Large,2023-04-23,Active
+MER00362,Merchant 0362,Retail,Retail,Patna 8,Bihar,Large,2026-06-27,Active
+MER00363,Merchant 0363,Grocery,Retail,Surat 8,Gujarat,Small,2024-06-13,Active
+MER00364,Merchant 0364,Utilities,Services,Pune 2,Maharashtra,Medium,2026-02-20,Active
+MER00365,Merchant 0365,Utilities,Services,Bhopal 4,Madhya Pradesh,Small,2023-07-01,Active
+MER00366,Merchant 0366,,Services,Pune 9,Maharashtra,Small,2024-05-11,Inactive
+MER00367,Merchant 0367,Healthcare,Services,Lucknow 3,Uttar Pradesh,Small,2024-08-18,Active
+MER00368,Merchant 0368,Healthcare,Services,Nagpur,Maharashtra,Small,2024-11-13,Active
+MER00369,Merchant 0369,Online Services,Services,Mumbai 4,Maharashtra,Small,2024-11-11,Active
+MER00370,Merchant 0370,Utilities,Services,Jaipur,Rajasthan,Small,2025-06-22,Active
+MER00371,Merchant 0371,Entertainment,Services,Mysuru 5,Karnataka,Medium,2025-03-21,Active
+MER00372,Merchant 0372,Online Services,Services,Chandigarh,Chandigarh,Small,2025-09-22,Active
+MER00373,Merchant 0373,,Services,Indore 9,Madhya Pradesh,Small,2025-08-04,Active
+MER00374,Merchant 0374,Retail,Retail,Jaipur 9,Rajasthan,Large,2023-05-16,Active
+MER00375,Merchant 0375,Entertainment,Services,Hyderabad 9,Telangana,Small,2024-06-28,Active
+MER00376,Merchant 0376,Government Services,Services,Bengaluru 5,Karnataka,Medium,2023-11-10,Active
+MER00377,Merchant 0377,Education,Services,Kolkata 7,West Bengal,Small,2023-03-20,Active
+MER00378,Merchant 0378,Healthcare,Services,Jaipur 8,Rajasthan,Small,2026-05-30,Active
+MER00379,Merchant 0379,Grocery,Retail,Kolkata 3,West Bengal,Small,2023-12-16,Active
+MER00380,Merchant 0380,Grocery,Retail,Bengaluru 3,Karnataka,Medium,2026-06-09,Active
+MER00381,Merchant 0381,Travel,Services,Patna 4,Bihar,Medium,2023-03-24,Active
+MER00382,Merchant 0382,Restaurants,Retail,Coimbatore,Tamil Nadu,Small,2025-05-23,Active
+MER00383,Merchant 0383,Grocery,Retail,Lucknow 8,Uttar Pradesh,Small,2024-10-12,Active
+MER00384,Merchant 0384,Online Services,Services,Kochi,Kerala,Medium,2024-04-29,Inactive
+MER00385,Merchant 0385,Online Services,Services,Chandigarh 9,Chandigarh,Small,2023-11-26,Active
+MER00386,Merchant 0386,Fuel,Retail,Bhubaneswar 6,Odisha,Small,2025-05-29,Active
+MER00387,Merchant 0387,Utilities,Services,Delhi 8,Delhi,Small,2024-10-01,Active
+MER00388,Merchant 0388,Food Delivery,Retail,Chennai 5,Tamil Nadu,Small,2024-03-20,Active
+MER00389,Merchant 0389,Education,Services,Chandigarh 9,Chandigarh,Small,2026-01-16,Active
+MER00390,Merchant 0390,Restaurants,Retail,Mumbai 10,Maharashtra,Medium,2026-03-24,Active
+MER00391,Merchant 0391,Grocery,Retail,Mumbai,Maharashtra,Small,2023-01-14,Active
+MER00392,Merchant 0392,Restaurants,Retail,Jaipur,Rajasthan,Medium,2024-05-23,Active
+MER00393,Merchant 0393,Utilities,Services,Patna 8,Bihar,Large,2024-07-02,Active
+MER00394,Merchant 0394,Healthcare,Services,Kolkata 7,West Bengal,Large,2026-05-24,Active
+MER00395,Merchant 0395,Entertainment,Services,Patna 8,Bihar,Small,2025-12-08,Active
+MER00396,Merchant 0396,Retail,Retail,Nagpur 6,Maharashtra,Medium,2025-01-31,Active
+MER00397,Merchant 0397,Healthcare,Services,Pune 10,Maharashtra,Medium,2023-01-15,Active
+MER00398,Merchant 0398,Grocery,Retail,Lucknow 4,Uttar Pradesh,Large,2024-05-31,Active
+MER00399,Merchant 0399,Fuel,Retail,Bhubaneswar 3,Odisha,Large,2025-10-02,Active
+MER00400,Merchant 0400,Food Delivery,Retail,Mumbai 3,Maharashtra,Medium,2025-01-12,Active
+MER00401,Merchant 0401,Food Delivery,Retail,Surat 9,Gujarat,Medium,2025-10-01,Inactive
+MER00402,Merchant 0402,Grocery,Retail,Kolkata 6,West Bengal,Small,2025-06-15,Active
+MER00403,Merchant 0403,Restaurants,Retail,Nagpur 6,Maharashtra,Small,2023-10-30,Active
+MER00404,Merchant 0404,Utilities,Services,Delhi 4,Delhi,Medium,2023-10-17,Active
+MER00405,Merchant 0405,Fuel,Retail,Bhopal 6,Madhya Pradesh,Small,2025-09-26,Active
+MER00406,Merchant 0406,Retail,Retail,Chennai 7,Tamil Nadu,Small,2025-10-13,Inactive
+MER00407,Merchant 0407,Retail,Retail,Nagpur 8,Maharashtra,Large,2023-05-16,Active
+MER00408,Merchant 0408,Retail,Retail,Pune 8,Maharashtra,Large,2023-08-26,Active
+MER00409,Merchant 0409,Grocery,Retail,Mysuru,Karnataka,Small,2023-03-28,Active
+MER00410,Merchant 0410,Online Services,Services,Chennai 8,Tamil Nadu,Large,2023-08-16,Active
+MER00411,Merchant 0411,Grocery,Retail,Pune 2,Maharashtra,Large,2025-08-30,Active
+MER00412,Merchant 0412,Grocery,Retail,Bengaluru,Karnataka,Small,2025-03-15,Active
+MER00413,Merchant 0413,Restaurants,Retail,Surat 2,Gujarat,Small,2024-03-05,Active
+MER00414,Merchant 0414,Government Services,Services,Pune 5,Maharashtra,Large,2025-02-01,Active
+MER00415,Merchant 0415,Grocery,Retail,Lucknow 9,Uttar Pradesh,Small,2024-08-20,Active
+MER00416,Merchant 0416,Food Delivery,Retail,Surat,Gujarat,Large,2024-05-05,Active
+MER00417,Merchant 0417,Restaurants,Retail,Kochi 6,Kerala,Small,2023-02-06,Active
+MER00418,Merchant 0418,Grocery,Retail,Coimbatore 6,Tamil Nadu,Medium,2023-07-19,Active
+MER00419,Merchant 0419,Utilities,Services,Hyderabad,Telangana,Small,2023-02-12,Active
+MER00420,Merchant 0420,Food Delivery,Retail,Chandigarh 2,Chandigarh,Small,2026-05-18,Active
+MER00421,Merchant 0421,Utilities,Services,Bhubaneswar 9,Odisha,Medium,2025-01-23,Active
+MER00422,Merchant 0422,Restaurants,Retail,Lucknow 9,Uttar Pradesh,Small,2024-04-30,Active
+MER00423,Merchant 0423,Food Delivery,Retail,Coimbatore 2,Tamil Nadu,Medium,2024-10-19,Active
+MER00424,Merchant 0424,Grocery,Retail,Nashik 2,Maharashtra,Large,2025-02-02,Active
+MER00425,Merchant 0425,Healthcare,Services,Coimbatore 2,Tamil Nadu,Large,2023-10-29,Active
+MER00426,Merchant 0426,Education,Services,Chennai 8,Tamil Nadu,Large,2024-12-15,Active
+MER00427,Merchant 0427,Grocery,Retail,Bhopal 6,Madhya Pradesh,Small,2026-04-05,Active
+MER00428,Merchant 0428,Retail,Retail,Indore 6,Madhya Pradesh,Medium,2023-11-30,Active
+MER00429,Merchant 0429,Retail,Retail,Bengaluru 8,Karnataka,Small,2026-07-01,Active
+MER00430,Merchant 0430,,Services,Bengaluru,Karnataka,Small,2025-05-03,Active
+MER00431,Merchant 0431,Retail,Retail,Guwahati 8,Assam,Small,2023-08-25,Active
+MER00432,Merchant 0432,Healthcare,Services,Mumbai 5,Maharashtra,Small,2024-11-25,Active
+MER00433,Merchant 0433,Utilities,Services,Jaipur 4,Rajasthan,Small,2023-12-01,Active
+MER00434,Merchant 0434,Fuel,Retail,Patna 7,Bihar,Small,2025-02-11,Active
+MER00435,Merchant 0435,Retail,Retail,Lucknow 4,Uttar Pradesh,Small,2023-04-23,Active
+MER00436,Merchant 0436,Grocery,Retail,Chennai 5,Tamil Nadu,Small,2024-01-24,Active
+MER00437,Merchant 0437,Fuel,Retail,Lucknow 5,Uttar Pradesh,Small,2025-06-07,Active
+MER00438,Merchant 0438,Travel,Services,Chennai,Tamil Nadu,Small,2024-11-20,Active
+MER00439,Merchant 0439,Entertainment,Services,Mumbai 4,Maharashtra,Large,2024-11-04,Active
+MER00440,Merchant 0440,Grocery,Retail,Guwahati 8,Assam,Small,2023-11-05,Active
+MER00441,Merchant 0441,Utilities,Services,Chennai 8,Tamil Nadu,Medium,2025-11-10,Active
+MER00442,Merchant 0442,Online Services,Services,Bhubaneswar 3,Odisha,Small,2025-09-18,Active
+MER00443,Merchant 0443,Fuel,Retail,Bhopal 7,Madhya Pradesh,Small,2025-10-10,Active
+MER00444,Merchant 0444,Utilities,Services,Nashik 4,Maharashtra,Medium,2024-04-16,Active
+MER00445,Merchant 0445,Restaurants,Retail,Kochi 4,Kerala,Small,2025-03-13,Active
+MER00446,Merchant 0446,Travel,Services,Nagpur,Maharashtra,Enterprise,2025-01-30,Active
+MER00447,Merchant 0447,Utilities,Services,Surat,Gujarat,Large,2023-01-14,Active
+MER00448,Merchant 0448,Healthcare,Services,Coimbatore 8,Tamil Nadu,Enterprise,2024-09-06,Active
+MER00449,Merchant 0449,Grocery,Retail,Bhopal 4,Madhya Pradesh,Small,2023-08-10,Active
+MER00450,Merchant 0450,Retail,Retail,Chennai 3,Tamil Nadu,Medium,2024-11-19,Active
+MER00451,Merchant 0451,Food Delivery,Retail,Guwahati 6,Assam,Small,2025-10-23,Active
+MER00452,Merchant 0452,Grocery,Retail,Coimbatore,Tamil Nadu,Medium,2026-02-16,Active
+MER00453,Merchant 0453,Grocery,Retail,Nagpur 6,Maharashtra,Large,2023-04-14,Active
+MER00454,Merchant 0454,Utilities,Services,Ahmedabad 3,Gujarat,Small,2025-01-01,Active
+MER00455,Merchant 0455,Fuel,Retail,Kolkata 8,West Bengal,Small,2024-10-26,Active
+MER00456,Merchant 0456,Healthcare,Services,Bhopal 9,Madhya Pradesh,Small,2025-06-01,Active
+MER00457,Merchant 0457,Grocery,Retail,Delhi,Delhi,Medium,2025-01-21,Active
+MER00458,Merchant 0458,Grocery,Retail,Kolkata 4,West Bengal,Medium,2025-11-16,Active
+MER00459,Merchant 0459,Retail,Retail,Guwahati 5,Assam,Small,2023-06-07,Inactive
+MER00460,Merchant 0460,Retail,Retail,Chennai 6,Tamil Nadu,Medium,2024-11-29,Active
+MER00461,Merchant 0461,Fuel,Retail,Kolkata 8,West Bengal,Large,2026-04-19,Active
+MER00462,Merchant 0462,Education,Services,Jaipur 5,Rajasthan,Large,2024-08-12,Active
+MER00463,Merchant 0463,Healthcare,Services,Guwahati 8,Assam,Small,2023-10-28,Active
+MER00464,Merchant 0464,Entertainment,Services,Nashik 8,Maharashtra,Small,2026-05-08,Active
+MER00465,Merchant 0465,Food Delivery,Retail,Indore 2,Madhya Pradesh,Large,2024-03-20,Active
+MER00466,Merchant 0466,Utilities,Services,Ahmedabad 8,Gujarat,Small,2023-09-24,Active
+MER00467,Merchant 0467,Grocery,Retail,Bengaluru 3,Karnataka,Small,2023-03-19,Active
+MER00468,Merchant 0468,Grocery,Retail,Chandigarh 2,Chandigarh,Large,2024-09-14,Active
+MER00469,Merchant 0469,Education,Services,Lucknow 7,Uttar Pradesh,Medium,2026-05-10,Active
+MER00470,Merchant 0470,Food Delivery,Retail,Patna 7,Bihar,Medium,2023-08-16,Active
+MER00471,Merchant 0471,Restaurants,Retail,Pune 9,Maharashtra,Small,2025-11-13,Active
+MER00472,Merchant 0472,Food Delivery,Retail,Bhopal 8,Madhya Pradesh,Large,2024-06-28,Active
+MER00473,Merchant 0473,Grocery,Retail,Patna 2,Bihar,Small,2024-02-10,Active
+MER00474,Merchant 0474,Grocery,Retail,Delhi 4,Delhi,Small,2025-10-31,Active
+MER00475,Merchant 0475,Online Services,Services,Nashik 6,Maharashtra,Large,2026-02-12,Active
+MER00476,Merchant 0476,Restaurants,Retail,Delhi 7,Delhi,Small,2025-03-13,Active
+MER00477,Merchant 0477,Education,Services,Nashik 9,Maharashtra,Medium,2025-12-24,Active
+MER00478,Merchant 0478,Fuel,Retail,Delhi,Delhi,Small,2026-05-14,Active
+MER00479,Merchant 0479,Restaurants,Retail,Bhopal 7,Madhya Pradesh,Small,2025-12-25,Active
+MER00480,Merchant 0480,Retail,Retail,Jaipur 4,Rajasthan,Medium,2024-03-05,Active
+MER00481,Merchant 0481,Online Services,Services,Jaipur 5,Rajasthan,Medium,2024-10-06,Active
+MER00482,Merchant 0482,Retail,Retail,Nashik 8,Maharashtra,Small,2024-11-09,Active
+MER00483,Merchant 0483,Healthcare,Services,Indore 5,Madhya Pradesh,Medium,2023-03-20,Active
+MER00484,Merchant 0484,Entertainment,Services,Kochi 6,Kerala,Small,2025-09-07,Active
+MER00485,Merchant 0485,Restaurants,Retail,Guwahati 2,Assam,Small,2025-01-02,Active
+MER00486,Merchant 0486,Retail,Retail,Chennai 6,Tamil Nadu,Medium,2024-02-09,Active
+MER00487,Merchant 0487,Education,Services,Lucknow,Uttar Pradesh,Medium,2026-04-04,Active
+MER00488,Merchant 0488,Healthcare,Services,Nashik,Maharashtra,Large,2024-05-14,Active
+MER00489,Merchant 0489,Utilities,Services,Mysuru 3,Karnataka,Small,2024-02-21,Active
+MER00490,Merchant 0490,Grocery,Retail,Chandigarh 5,Chandigarh,Small,2024-06-18,Active
+MER00491,Merchant 0491,Retail,Retail,Pune 3,Maharashtra,Small,2023-03-13,Active
+MER00492,Merchant 0492,Food Delivery,Retail,Lucknow 3,Uttar Pradesh,Medium,2026-05-20,Active
+MER00493,Merchant 0493,Restaurants,Retail,Bhopal 8,Madhya Pradesh,Small,2023-06-15,Active
+MER00494,Merchant 0494,Fuel,Retail,Coimbatore 2,Tamil Nadu,Small,2024-03-06,Active
+MER00495,Merchant 0495,Retail,Retail,Kolkata 7,West Bengal,Small,2025-02-07,Active
+MER00496,Merchant 0496,Utilities,Services,Bengaluru 2,Karnataka,Enterprise,2025-03-20,Inactive
+MER00497,Merchant 0497,Fuel,Retail,Nashik 8,Maharashtra,Medium,2023-11-20,Active
+MER00498,Merchant 0498,Healthcare,Services,Hyderabad 6,Telangana,Small,2026-05-22,Active
+MER00499,Merchant 0499,Utilities,Services,Bengaluru,Karnataka,Medium,2024-12-16,Active
+MER00500,Merchant 0500,Fuel,Retail,Bhopal 2,Madhya Pradesh,Medium,2024-01-03,Active
+MER00501,Merchant 0501,Retail,Retail,Mysuru 4,Karnataka,Enterprise,2023-07-04,Active
+MER00502,Merchant 0502,Restaurants,Retail,Pune 9,Maharashtra,Medium,2023-06-29,Inactive
+MER00503,Merchant 0503,Healthcare,Services,Bhopal 4,Madhya Pradesh,Small,2025-06-21,Active
+MER00504,Merchant 0504,Entertainment,Services,Kolkata,West Bengal,Enterprise,2025-08-09,Active
+MER00505,Merchant 0505,Education,Services,Jaipur 7,Rajasthan,Small,2025-08-23,Active
+MER00506,Merchant 0506,Grocery,Retail,Mumbai 7,Maharashtra,Medium,2023-03-24,Active
+MER00507,Merchant 0507,Healthcare,Services,Delhi 9,Delhi,Medium,2025-01-20,Active
+MER00508,Merchant 0508,Fuel,Retail,Delhi 8,Delhi,Small,2026-03-20,Active
+MER00509,Merchant 0509,Grocery,Retail,Coimbatore 5,Tamil Nadu,Large,2023-04-28,Active
+MER00510,Merchant 0510,Grocery,Retail,Bhopal 9,Madhya Pradesh,Small,2024-10-11,Active
+MER00511,Merchant 0511,Grocery,Retail,Lucknow 8,Uttar Pradesh,Small,2025-05-25,Active
+MER00512,Merchant 0512,Online Services,Services,Surat 4,Gujarat,Small,2024-11-06,Active
+MER00513,Merchant 0513,Utilities,Services,Nashik 2,Maharashtra,Large,2024-10-04,Active
+MER00514,Merchant 0514,Online Services,Services,Mumbai 5,Maharashtra,Small,2025-12-31,Active
+MER00515,Merchant 0515,Grocery,Retail,Kolkata 2,West Bengal,Small,2023-11-29,Active
+MER00516,Merchant 0516,Retail,Retail,Mumbai 4,Maharashtra,Small,2024-02-01,Active
+MER00517,Merchant 0517,Grocery,Retail,Guwahati 2,Assam,Small,2025-09-12,Active
+MER00518,Merchant 0518,Grocery,Retail,Chandigarh 5,Chandigarh,Small,2026-04-14,Active
+MER00519,Merchant 0519,Education,Services,Bhopal 3,Madhya Pradesh,Small,2024-09-15,Active
+MER00520,Merchant 0520,Retail,Retail,Delhi 8,Delhi,Small,2024-10-04,Active
+MER00521,Merchant 0521,Grocery,Retail,Mysuru 9,Karnataka,Small,2025-11-04,Active
+MER00522,Merchant 0522,Healthcare,Services,Bhopal 4,Madhya Pradesh,Medium,2026-03-14,Active
+MER00523,Merchant 0523,Grocery,Retail,Chennai 7,Tamil Nadu,Small,2025-02-17,Active
+MER00524,Merchant 0524,Healthcare,Services,Guwahati 6,Assam,Medium,2025-04-17,Active
+MER00525,Merchant 0525,Education,Services,Surat 2,Gujarat,Small,2025-04-14,Active
+MER00526,Merchant 0526,Fuel,Retail,Kolkata 4,West Bengal,Large,2024-08-30,Active
+MER00527,Merchant 0527,Retail,Retail,Nagpur,Maharashtra,Small,2025-01-20,Active
+MER00528,Merchant 0528,Retail,Retail,Ahmedabad 2,Gujarat,Medium,2024-06-24,Active
+MER00529,Merchant 0529,Fuel,Retail,Delhi 9,Delhi,Medium,2023-05-25,Active
+MER00530,Merchant 0530,Healthcare,Services,Chennai 4,Tamil Nadu,Enterprise,2025-09-17,Active
+MER00531,Merchant 0531,Education,Services,Pune 7,Maharashtra,Medium,2024-11-05,Active
+MER00532,Merchant 0532,Healthcare,Services,Nashik 3,Maharashtra,Small,2025-10-17,Active
+MER00533,Merchant 0533,Utilities,Services,Kochi 3,Kerala,Small,2026-01-15,Active
+MER00534,Merchant 0534,Grocery,Retail,Bengaluru 2,Karnataka,Small,2023-10-31,Active
+MER00535,Merchant 0535,Food Delivery,Retail,Pune 10,Maharashtra,Large,2025-10-13,Active
+MER00536,Merchant 0536,Fuel,Retail,Chennai 4,Tamil Nadu,Small,2025-08-18,Active
+MER00537,Merchant 0537,Entertainment,Services,Coimbatore 6,Tamil Nadu,Medium,2024-09-20,Active
+MER00538,Merchant 0538,Food Delivery,Retail,Chennai 2,Tamil Nadu,Small,2026-05-11,Inactive
+MER00539,Merchant 0539,Food Delivery,Retail,Indore 3,Madhya Pradesh,Large,2026-06-10,Active
+MER00540,Merchant 0540,Education,Services,Ahmedabad 4,Gujarat,Medium,2024-08-11,Active
+MER00541,Merchant 0541,Restaurants,Retail,Mysuru 4,Karnataka,Small,2024-01-09,Active
+MER00542,Merchant 0542,Retail,Retail,Ahmedabad 7,Gujarat,Medium,2026-01-26,Active
+MER00543,Merchant 0543,Restaurants,Retail,Patna 3,Bihar,Small,2024-09-02,Active
+MER00544,Merchant 0544,Utilities,Services,Hyderabad 4,Telangana,Medium,2023-03-25,Active
+MER00545,Merchant 0545,Entertainment,Services,Ahmedabad 2,Gujarat,Large,2023-06-15,Active
+MER00546,Merchant 0546,Utilities,Services,Bhubaneswar,Odisha,Large,2023-06-07,Active
+MER00547,Merchant 0547,Education,Services,Kochi 7,Kerala,Small,2024-05-13,Active
+MER00548,Merchant 0548,Retail,Retail,Guwahati 6,Assam,Small,2026-01-25,Active
+MER00549,Merchant 0549,Grocery,Retail,Kochi 8,Kerala,Medium,2023-11-06,Active
+MER00550,Merchant 0550,Entertainment,Services,Chandigarh 7,Chandigarh,Medium,2023-10-10,Active
+MER00551,Merchant 0551,Travel,Services,Lucknow 8,Uttar Pradesh,Small,2024-09-03,Active
+MER00552,Merchant 0552,Travel,Services,Coimbatore 9,Tamil Nadu,Medium,2025-12-05,Active
+MER00553,Merchant 0553,Food Delivery,Retail,Coimbatore 4,Tamil Nadu,Small,2024-01-20,Active
+MER00554,Merchant 0554,Utilities,Services,Surat 2,Gujarat,Medium,2024-05-16,Active
+MER00555,Merchant 0555,Retail,Retail,Guwahati 2,Assam,Large,2023-11-09,Active
+MER00556,Merchant 0556,Healthcare,Services,Indore 3,Madhya Pradesh,Medium,2023-11-22,Active
+MER00557,Merchant 0557,Education,Services,Ahmedabad 7,Gujarat,Small,2025-08-11,Active
+MER00558,Merchant 0558,Healthcare,Services,Bhubaneswar 5,Odisha,Enterprise,2024-05-30,Active
+MER00559,Merchant 0559,Restaurants,Retail,Nagpur 6,Maharashtra,Small,2025-10-30,Active
+MER00560,Merchant 0560,Retail,Retail,Bengaluru 8,Karnataka,Small,2025-02-13,Active
+MER00561,Merchant 0561,Entertainment,Services,Kolkata 9,West Bengal,Small,2025-09-13,Active
+MER00562,Merchant 0562,Government Services,Services,Bhubaneswar 5,Odisha,Small,2023-11-09,Inactive
+MER00563,Merchant 0563,Education,Services,Chennai,Tamil Nadu,Small,2025-06-20,Active
+MER00564,Merchant 0564,Government Services,Services,Bhubaneswar 3,Odisha,Medium,2024-02-24,Active
+MER00565,Merchant 0565,Restaurants,Retail,Nagpur 4,Maharashtra,Medium,2023-04-01,Active
+MER00566,Merchant 0566,Retail,Retail,Mysuru 6,Karnataka,Medium,2025-11-02,Active
+MER00567,Merchant 0567,Government Services,Services,Bhopal 6,Madhya Pradesh,Large,2026-01-03,Active
+MER00568,Merchant 0568,Retail,Retail,Bengaluru 2,Karnataka,Enterprise,2025-10-30,Active
+MER00569,Merchant 0569,Education,Services,Nashik 3,Maharashtra,Small,2024-03-25,Active
+MER00570,Merchant 0570,Travel,Services,Bengaluru 4,Karnataka,Small,2024-10-25,Active
+MER00571,Merchant 0571,Food Delivery,Retail,Bengaluru 3,Karnataka,Medium,2023-12-21,Active
+MER00572,Merchant 0572,Online Services,Services,Coimbatore 2,Tamil Nadu,Medium,2025-07-18,Active
+MER00573,Merchant 0573,Education,Services,Bengaluru 6,Karnataka,Small,2024-03-09,Active
+MER00574,Merchant 0574,Utilities,Services,Bhopal 7,Madhya Pradesh,Medium,2024-10-02,Active
+MER00575,Merchant 0575,Online Services,Services,Bengaluru 6,Karnataka,Medium,2024-02-15,Active
+MER00576,Merchant 0576,Fuel,Retail,Coimbatore 9,Tamil Nadu,Enterprise,2023-01-07,Active
+MER00577,Merchant 0577,Travel,Services,Chandigarh 7,Chandigarh,Medium,2026-06-19,Active
+MER00578,Merchant 0578,Government Services,Services,Bhubaneswar 4,Odisha,Medium,2026-01-29,Active
+MER00579,Merchant 0579,Healthcare,Services,Bengaluru 6,Karnataka,Medium,2024-05-14,Active
+MER00580,Merchant 0580,Retail,Retail,Kolkata 8,West Bengal,Small,2023-08-18,Active
+MER00581,Merchant 0581,Retail,Retail,Surat 6,Gujarat,Medium,2023-10-15,Active
+MER00582,Merchant 0582,Restaurants,Retail,Mumbai 7,Maharashtra,Small,2024-10-18,Active
+MER00583,Merchant 0583,Utilities,Services,Lucknow 7,Uttar Pradesh,Small,2023-10-01,Active
+MER00584,Merchant 0584,Healthcare,Services,Coimbatore 4,Tamil Nadu,Medium,2024-08-02,Active
+MER00585,Merchant 0585,Travel,Services,Lucknow 4,Uttar Pradesh,Small,2025-12-28,Active
+MER00586,Merchant 0586,Retail,Retail,Coimbatore 5,Tamil Nadu,Small,2025-07-10,Active
+MER00587,Merchant 0587,Healthcare,Services,Mumbai 8,Maharashtra,Small,2026-01-15,Active
+MER00588,Merchant 0588,Fuel,Retail,Patna 2,Bihar,Small,2025-06-23,Active
+MER00589,Merchant 0589,Retail,Retail,Jaipur 6,Rajasthan,Small,2026-01-05,Active
+MER00590,Merchant 0590,Healthcare,Services,Kochi 2,Kerala,Small,2023-03-14,Active
+MER00591,Merchant 0591,Education,Services,Indore,Madhya Pradesh,Small,2025-12-27,Active
+MER00592,Merchant 0592,Grocery,Retail,Chandigarh 8,Chandigarh,Small,2023-08-06,Active
+MER00593,Merchant 0593,Food Delivery,Retail,Kolkata 5,West Bengal,Small,2023-09-03,Active
+MER00594,Merchant 0594,Healthcare,Services,Mumbai 4,Maharashtra,Large,2023-04-05,Active
+MER00595,Merchant 0595,Grocery,Retail,Kochi 5,Kerala,Large,2024-11-20,Active
+MER00596,Merchant 0596,Utilities,Services,Kolkata 4,West Bengal,Small,2025-03-29,Active
+MER00597,Merchant 0597,Grocery,Retail,Indore,Madhya Pradesh,Small,2023-01-02,Active
+MER00598,Merchant 0598,Retail,Retail,Indore 8,Madhya Pradesh,Medium,2024-05-08,Active
+MER00599,Merchant 0599,Entertainment,Services,Pune 8,Maharashtra,Small,2025-04-11,Active
+MER00600,Merchant 0600,Restaurants,Retail,Lucknow 9,Uttar Pradesh,Enterprise,2024-11-14,Active
+MER00601,Merchant 0601,Grocery,Retail,Chandigarh 9,Chandigarh,Medium,2024-07-17,Active
+MER00602,Merchant 0602,Grocery,Retail,Hyderabad 3,Telangana,Small,2024-07-02,Active
+MER00603,Merchant 0603,Government Services,Services,Kochi,Kerala,Small,2023-03-07,Active
+MER00604,Merchant 0604,Utilities,Services,Bhopal 6,Madhya Pradesh,Medium,2026-01-20,Active
+MER00605,Merchant 0605,Fuel,Retail,Hyderabad 9,Telangana,Small,2026-04-22,Active
+MER00606,Merchant 0606,Fuel,Retail,Mysuru 2,Karnataka,Small,2023-07-18,Active
+MER00607,Merchant 0607,Retail,Retail,Kochi,Kerala,Medium,2025-01-13,Active
+MER00608,Merchant 0608,Education,Services,Delhi 8,Delhi,Small,2024-01-07,Active
+MER00609,Merchant 0609,Fuel,Retail,Bhubaneswar,Odisha,Medium,2023-03-27,Active
+MER00610,Merchant 0610,Grocery,Retail,Kochi 6,Kerala,Large,2023-11-08,Active
+MER00611,Merchant 0611,Utilities,Services,Chandigarh 6,Chandigarh,Small,2024-02-24,Inactive
+MER00612,Merchant 0612,Food Delivery,Retail,Pune 2,Maharashtra,Small,2025-06-15,Active
+MER00613,Merchant 0613,Restaurants,Retail,Mysuru 7,Karnataka,Large,2023-04-09,Active
+MER00614,Merchant 0614,Grocery,Retail,Chandigarh 4,Chandigarh,Small,2023-06-08,Active
+MER00615,Merchant 0615,Grocery,Retail,Pune 7,Maharashtra,Small,2024-02-21,Active
+MER00616,Merchant 0616,Healthcare,Services,Mysuru,Karnataka,Large,2025-10-17,Active
+MER00617,Merchant 0617,Fuel,Retail,Delhi 3,Delhi,Small,2024-03-02,Active
+MER00618,Merchant 0618,Grocery,Retail,Ahmedabad 3,Gujarat,Small,2026-06-12,Active
+MER00619,Merchant 0619,Education,Services,Hyderabad 7,Telangana,Small,2024-01-30,Active
+MER00620,Merchant 0620,Restaurants,Retail,Bengaluru,Karnataka,Large,2025-11-21,Active
+MER00621,Merchant 0621,Grocery,Retail,Jaipur 3,Rajasthan,Medium,2025-12-02,Active
+MER00622,Merchant 0622,Retail,Retail,Chennai 3,Tamil Nadu,Medium,2024-08-26,Active
+MER00623,Merchant 0623,Retail,Retail,Indore 7,Madhya Pradesh,Small,2026-05-17,Active
+MER00624,Merchant 0624,Food Delivery,Retail,Delhi 9,Delhi,Small,2025-05-31,Active
+MER00625,Merchant 0625,Fuel,Retail,Mysuru 7,Karnataka,Large,2025-02-17,Active
+MER00626,Merchant 0626,Grocery,Retail,Pune 6,Maharashtra,Medium,2023-10-10,Active
+MER00627,Merchant 0627,Healthcare,Services,Nagpur 2,Maharashtra,Small,2026-01-04,Active
+MER00628,Merchant 0628,Utilities,Services,Lucknow 7,Uttar Pradesh,Large,2025-11-02,Active
+MER00629,Merchant 0629,Restaurants,Retail,Bhopal 2,Madhya Pradesh,Large,2023-12-17,Active
+MER00630,Merchant 0630,Restaurants,Retail,Jaipur 4,Rajasthan,Medium,2024-06-30,Active
+MER00631,Merchant 0631,Restaurants,Retail,Kochi,Kerala,Enterprise,2024-06-20,Active
+MER00632,Merchant 0632,Government Services,Services,Kochi 9,Kerala,Small,2025-03-14,Active
+MER00633,Merchant 0633,Online Services,Services,Jaipur 2,Rajasthan,Medium,2024-10-22,Active
+MER00634,Merchant 0634,Retail,Retail,Bhopal 7,Madhya Pradesh,Small,2026-02-09,Active
+MER00635,Merchant 0635,Restaurants,Retail,Hyderabad 2,Telangana,Medium,2023-11-07,Active
+MER00636,Merchant 0636,Utilities,Services,Coimbatore 8,Tamil Nadu,Large,2023-02-05,Active
+MER00637,Merchant 0637,Retail,Retail,Guwahati 6,Assam,Small,2026-03-24,Active
+MER00638,Merchant 0638,Utilities,Services,Pune 9,Maharashtra,Medium,2026-05-10,Active
+MER00639,Merchant 0639,,Retail,Kochi 3,Kerala,Small,2024-06-21,Inactive
+MER00640,Merchant 0640,Fuel,Retail,Mysuru 6,Karnataka,Medium,2026-04-11,Active
+MER00641,Merchant 0641,Online Services,Services,Nashik 6,Maharashtra,Small,2025-09-11,Active
+MER00642,Merchant 0642,Online Services,Services,Mysuru,Karnataka,Small,2025-04-22,Active
+MER00643,Merchant 0643,Retail,Retail,Delhi 9,Delhi,Medium,2023-08-27,Inactive
+MER00644,Merchant 0644,Entertainment,Services,Mysuru,Karnataka,Medium,2026-05-13,Active
+MER00645,Merchant 0645,Healthcare,Services,Nagpur 7,Maharashtra,Small,2024-08-17,Active
+MER00646,Merchant 0646,Retail,Retail,Chandigarh 5,Chandigarh,Small,2024-05-23,Active
+MER00647,Merchant 0647,Retail,Retail,Indore 7,Madhya Pradesh,Medium,2023-03-15,Active
+MER00648,Merchant 0648,Fuel,Retail,Guwahati 8,Assam,Medium,2025-03-06,Active
+MER00649,Merchant 0649,Fuel,Retail,Delhi 2,Delhi,Small,2024-04-29,Active
+MER00650,Merchant 0650,Retail,Retail,Delhi 4,Delhi,Medium,2026-03-22,Inactive
+MER00651,Merchant 0651,Online Services,Services,Jaipur 7,Rajasthan,Medium,2024-11-05,Active
+MER00652,Merchant 0652,Restaurants,Retail,Hyderabad,Telangana,Medium,2025-11-26,Active
+MER00653,Merchant 0653,Healthcare,Services,Nagpur 8,Maharashtra,Large,2024-10-28,Active
+MER00654,Merchant 0654,Utilities,Services,Indore 4,Madhya Pradesh,Medium,2025-02-11,Active
+MER00655,Merchant 0655,Grocery,Retail,Coimbatore 5,Tamil Nadu,Large,2024-12-06,Active
+MER00656,Merchant 0656,Government Services,Services,Chandigarh,Chandigarh,Enterprise,2025-05-30,Active
+MER00657,Merchant 0657,Retail,Retail,Surat,Gujarat,Medium,2025-01-26,Active
+MER00658,Merchant 0658,Online Services,Services,Lucknow,Uttar Pradesh,Small,2025-09-21,Active
+MER00659,Merchant 0659,Food Delivery,Retail,Bengaluru 4,Karnataka,Small,2025-10-16,Active
+MER00660,Merchant 0660,Utilities,Services,Bengaluru 2,Karnataka,Medium,2024-04-25,Active
+MER00661,Merchant 0661,Grocery,Retail,Chandigarh 9,Chandigarh,Small,2025-06-04,Active
+MER00662,Merchant 0662,Healthcare,Services,Guwahati 3,Assam,Small,2025-04-07,Active
+MER00663,Merchant 0663,Restaurants,Retail,Mumbai 6,Maharashtra,Large,2024-02-04,Active
+MER00664,Merchant 0664,Food Delivery,Retail,Chennai 5,Tamil Nadu,Medium,2023-12-31,Active
+MER00665,Merchant 0665,Entertainment,Services,Coimbatore 6,Tamil Nadu,Small,2023-10-27,Active
+MER00666,Merchant 0666,Grocery,Retail,Chennai 7,Tamil Nadu,Enterprise,2026-05-23,Active
+MER00667,Merchant 0667,Healthcare,Services,Ahmedabad 4,Gujarat,Medium,2023-12-12,Active
+MER00668,Merchant 0668,Grocery,Retail,Delhi 3,Delhi,Small,2023-05-02,Active
+MER00669,Merchant 0669,Utilities,Services,Nagpur 9,Maharashtra,Small,2023-11-23,Active
+MER00670,Merchant 0670,Healthcare,Services,Surat 2,Gujarat,Medium,2024-11-04,Active
+MER00671,Merchant 0671,Restaurants,Retail,Surat 5,Gujarat,Medium,2023-08-30,Active
+MER00672,Merchant 0672,Travel,Services,Patna 7,Bihar,Medium,2025-08-27,Active
+MER00673,Merchant 0673,Grocery,Retail,Lucknow 6,Uttar Pradesh,Small,2024-09-23,Active
+MER00674,Merchant 0674,Restaurants,Retail,Patna 4,Bihar,Medium,2023-10-04,Active
+MER00675,Merchant 0675,Restaurants,Retail,Nagpur 6,Maharashtra,Medium,2025-07-03,Active
+MER00676,Merchant 0676,Online Services,Services,Mumbai,Maharashtra,Large,2024-07-17,Active
+MER00677,Merchant 0677,Healthcare,Services,Mysuru 5,Karnataka,Medium,2026-02-17,Active
+MER00678,Merchant 0678,Retail,Retail,Guwahati 4,Assam,Small,2025-11-28,Active
+MER00679,Merchant 0679,Travel,Services,Mumbai 10,Maharashtra,Small,2025-06-27,Active
+MER00680,Merchant 0680,Retail,Retail,Chennai 8,Tamil Nadu,Medium,2024-11-13,Active
+MER00681,Merchant 0681,Fuel,Retail,Jaipur 2,Rajasthan,Medium,2024-01-09,Active
+MER00682,Merchant 0682,Grocery,Retail,Jaipur,Rajasthan,Small,2026-05-02,Active
+MER00683,Merchant 0683,Grocery,Retail,Mysuru 9,Karnataka,Small,2026-02-05,Active
+MER00684,Merchant 0684,Restaurants,Retail,Bhubaneswar 3,Odisha,Small,2025-01-25,Active
+MER00685,Merchant 0685,Travel,Services,Mysuru 7,Karnataka,Small,2026-02-08,Active
+MER00686,Merchant 0686,Restaurants,Retail,Lucknow 5,Uttar Pradesh,Small,2023-12-09,Active
+MER00687,Merchant 0687,Education,Services,Indore 4,Madhya Pradesh,Large,2023-01-17,Active
+MER00688,Merchant 0688,Grocery,Retail,Coimbatore 7,Tamil Nadu,Medium,2024-11-05,Active
+MER00689,Merchant 0689,Retail,Retail,Jaipur 9,Rajasthan,Enterprise,2024-06-03,Active
+MER00690,Merchant 0690,Food Delivery,Retail,Mysuru 6,Karnataka,Large,2024-07-21,Active
+MER00691,Merchant 0691,Grocery,Retail,Guwahati,Assam,Medium,2026-04-21,Active
+MER00692,Merchant 0692,Restaurants,Retail,Nagpur 6,Maharashtra,Small,2023-09-20,Active
+MER00693,Merchant 0693,Fuel,Retail,Delhi 5,Delhi,Large,2025-12-24,Active
+MER00694,Merchant 0694,Fuel,Retail,Bengaluru 2,Karnataka,Small,2023-10-08,Active
+MER00695,Merchant 0695,Grocery,Retail,Pune 10,Maharashtra,Small,2024-05-13,Active
+MER00696,Merchant 0696,Grocery,Retail,Chennai 4,Tamil Nadu,Small,2023-04-07,Active
+MER00697,Merchant 0697,Online Services,Services,Surat 5,Gujarat,Small,2024-07-30,Active
+MER00698,Merchant 0698,Entertainment,Services,Hyderabad 9,Telangana,Small,2024-10-09,Active
+MER00699,Merchant 0699,Online Services,Services,Bhopal 4,Madhya Pradesh,Small,2023-06-22,Active
+MER00700,Merchant 0700,Education,Services,Lucknow,Uttar Pradesh,Small,2024-02-17,Active
+MER00701,Merchant 0701,Food Delivery,Retail,Kolkata 7,West Bengal,Medium,2023-01-31,Active
+MER00702,Merchant 0702,Food Delivery,Retail,Mumbai 6,Maharashtra,Medium,2024-04-27,Active
+MER00703,Merchant 0703,Food Delivery,Retail,Mumbai 5,Maharashtra,Small,2023-05-15,Active
+MER00704,Merchant 0704,Grocery,Retail,Hyderabad 4,Telangana,Small,2023-06-08,Active
+MER00705,Merchant 0705,Retail,Retail,Ahmedabad 4,Gujarat,Small,2024-09-12,Active
+MER00706,Merchant 0706,Retail,Retail,Nagpur 6,Maharashtra,Small,2023-08-30,Active
+MER00707,Merchant 0707,Retail,Retail,Mysuru 7,Karnataka,Medium,2026-04-26,Active
+MER00708,Merchant 0708,Travel,Services,Kolkata 3,West Bengal,Medium,2026-04-22,Active
+MER00709,Merchant 0709,Utilities,Services,Nagpur 3,Maharashtra,Small,2024-08-28,Active
+MER00710,Merchant 0710,Online Services,Services,Nashik 2,Maharashtra,Small,2023-07-08,Active
+MER00711,Merchant 0711,Food Delivery,Retail,Nagpur 4,Maharashtra,Small,2024-03-23,Active
+MER00712,Merchant 0712,Food Delivery,Retail,Pune 10,Maharashtra,Small,2023-09-23,Active
+MER00713,Merchant 0713,Travel,Services,Coimbatore 8,Tamil Nadu,Small,2025-12-28,Inactive
+MER00714,Merchant 0714,Entertainment,Services,Bengaluru 9,Karnataka,Small,2024-08-21,Active
+MER00715,Merchant 0715,Healthcare,Services,Nagpur 4,Maharashtra,Small,2026-01-25,Inactive
+MER00716,Merchant 0716,Healthcare,Services,Bhopal 4,Madhya Pradesh,Enterprise,2023-09-11,Active
+MER00717,Merchant 0717,Online Services,Services,Surat 4,Gujarat,Large,2025-03-15,Active
+MER00718,Merchant 0718,Online Services,Services,Lucknow 7,Uttar Pradesh,Medium,2025-07-14,Active
+MER00719,Merchant 0719,Entertainment,Services,Mysuru 8,Karnataka,Medium,2023-07-15,Active
+MER00720,Merchant 0720,Food Delivery,Retail,Guwahati 9,Assam,Small,2025-09-12,Active
+MER00721,Merchant 0721,Healthcare,Services,Lucknow 9,Uttar Pradesh,Small,2025-07-19,Active
+MER00722,Merchant 0722,Education,Services,Chandigarh 6,Chandigarh,Small,2024-10-11,Active
+MER00723,Merchant 0723,Food Delivery,Retail,Pune 9,Maharashtra,Medium,2024-04-13,Active
+MER00724,Merchant 0724,Healthcare,Services,Kolkata,West Bengal,Large,2025-12-24,Active
+MER00725,Merchant 0725,Grocery,Retail,Hyderabad 6,Telangana,Small,2025-01-30,Active
+MER00726,Merchant 0726,Healthcare,Services,Lucknow 4,Uttar Pradesh,Small,2025-06-16,Active
+MER00727,Merchant 0727,Healthcare,Services,Delhi 4,Delhi,Large,2024-08-15,Active
+MER00728,Merchant 0728,Restaurants,Retail,Kolkata 2,West Bengal,Small,2023-12-02,Active
+MER00729,Merchant 0729,Healthcare,Services,Delhi 5,Delhi,Medium,2025-01-01,Active
+MER00730,Merchant 0730,Online Services,Services,Ahmedabad 8,Gujarat,Small,2026-06-20,Active
+MER00731,Merchant 0731,Food Delivery,Retail,Bhubaneswar 7,Odisha,Small,2024-10-14,Active
+MER00732,Merchant 0732,Education,Services,Jaipur 3,Rajasthan,Medium,2023-09-19,Active
+MER00733,Merchant 0733,Entertainment,Services,Nagpur 2,Maharashtra,Small,2026-04-25,Active
+MER00734,Merchant 0734,Restaurants,Retail,Patna,Bihar,Small,2025-01-12,Active
+MER00735,Merchant 0735,Utilities,Services,Coimbatore 3,Tamil Nadu,Large,2025-07-30,Active
+MER00736,Merchant 0736,Education,Services,Mumbai 10,Maharashtra,Small,2023-09-03,Active
+MER00737,Merchant 0737,Entertainment,Services,Pune,Maharashtra,Small,2025-06-29,Active
+MER00738,Merchant 0738,Retail,Retail,Delhi 4,Delhi,Small,2023-02-11,Active
+MER00739,Merchant 0739,Restaurants,Retail,Guwahati,Assam,Small,2024-10-18,Active
+MER00740,Merchant 0740,Food Delivery,Retail,Kochi 8,Kerala,Small,2024-01-18,Active
+MER00741,Merchant 0741,Retail,Retail,Bengaluru 6,Karnataka,Small,2025-11-12,Active
+MER00742,Merchant 0742,Utilities,Services,Bengaluru,Karnataka,Small,2024-07-30,Active
+MER00743,Merchant 0743,Grocery,Retail,Kolkata 5,West Bengal,Small,2025-04-27,Inactive
+MER00744,Merchant 0744,Retail,Retail,Indore 4,Madhya Pradesh,Large,2026-05-25,Active
+MER00745,Merchant 0745,Fuel,Retail,Guwahati 3,Assam,Small,2024-09-15,Active
+MER00746,Merchant 0746,Food Delivery,Retail,Surat 6,Gujarat,Medium,2025-10-02,Active
+MER00747,Merchant 0747,Online Services,Services,Hyderabad 2,Telangana,Small,2025-01-31,Active
+MER00748,Merchant 0748,Grocery,Retail,Chandigarh 4,Chandigarh,Small,2026-01-15,Active
+MER00749,Merchant 0749,Entertainment,Services,Hyderabad 6,Telangana,Small,2025-09-19,Active
+MER00750,Merchant 0750,Grocery,Retail,Bhopal 5,Madhya Pradesh,Large,2023-10-17,Active
+MER00751,Merchant 0751,Food Delivery,Retail,Nagpur 7,Maharashtra,Small,2025-06-30,Active
+MER00752,Merchant 0752,Grocery,Retail,Lucknow 3,Uttar Pradesh,Small,2024-03-21,Active
+MER00753,Merchant 0753,Restaurants,Retail,Hyderabad,Telangana,Small,2025-08-22,Active
+MER00754,Merchant 0754,Restaurants,Retail,Mysuru 7,Karnataka,Medium,2024-08-06,Active
+MER00755,Merchant 0755,Entertainment,Services,Jaipur 7,Rajasthan,Large,2026-02-25,Active
+MER00756,Merchant 0756,Fuel,Retail,Patna 6,Bihar,Small,2023-03-21,Active
+MER00757,Merchant 0757,Retail,Retail,Delhi 9,Delhi,Medium,2023-03-25,Active
+MER00758,Merchant 0758,Retail,Retail,Hyderabad 6,Telangana,Small,2024-06-23,Active
+MER00759,Merchant 0759,Healthcare,Services,Mumbai,Maharashtra,Enterprise,2024-02-05,Active
+MER00760,Merchant 0760,Retail,Retail,Ahmedabad 2,Gujarat,Medium,2024-10-11,Active
+MER00761,Merchant 0761,Grocery,Retail,Bengaluru 4,Karnataka,Small,2025-09-10,Active
+MER00762,Merchant 0762,Food Delivery,Retail,Kolkata 9,West Bengal,Small,2024-05-17,Active
+MER00763,Merchant 0763,Restaurants,Retail,Coimbatore 4,Tamil Nadu,Small,2023-12-17,Active
+MER00764,Merchant 0764,Food Delivery,Retail,Bhopal 3,Madhya Pradesh,Medium,2024-06-06,Active
+MER00765,Merchant 0765,Travel,Services,Ahmedabad 3,Gujarat,Small,2024-10-09,Active
+MER00766,Merchant 0766,Retail,Retail,Nagpur 6,Maharashtra,Medium,2025-11-20,Active
+MER00767,Merchant 0767,Restaurants,Retail,Mumbai 10,Maharashtra,Medium,2023-12-23,Active
+MER00768,Merchant 0768,Restaurants,Retail,Chennai 8,Tamil Nadu,Small,2023-06-10,Active
+MER00769,Merchant 0769,Travel,Services,Chennai 9,Tamil Nadu,Medium,2024-10-10,Inactive
+MER00770,Merchant 0770,Fuel,Retail,Lucknow 8,Uttar Pradesh,Large,2024-11-16,Active
+MER00771,Merchant 0771,Education,Services,Patna 7,Bihar,Small,2025-10-15,Active
+MER00772,Merchant 0772,Education,Services,Delhi 2,Delhi,Medium,2023-09-26,Active
+MER00773,Merchant 0773,Fuel,Retail,Jaipur 4,Rajasthan,Small,2026-06-21,Active
+MER00774,Merchant 0774,Fuel,Retail,Nashik 3,Maharashtra,Small,2024-07-17,Active
+MER00775,Merchant 0775,Government Services,Services,Chandigarh 8,Chandigarh,Large,2026-04-27,Active
+MER00776,Merchant 0776,Retail,Retail,Pune 10,Maharashtra,Medium,2023-01-10,Active
+MER00777,Merchant 0777,Food Delivery,Retail,Jaipur 4,Rajasthan,Medium,2024-11-12,Active
+MER00778,Merchant 0778,Grocery,Retail,Surat,Gujarat,Small,2023-06-14,Active
+MER00779,Merchant 0779,Grocery,Retail,Kochi 5,Kerala,Small,2024-06-10,Active
+MER00780,Merchant 0780,Travel,Services,Coimbatore 6,Tamil Nadu,Small,2023-12-28,Active
+MER00781,Merchant 0781,Food Delivery,Retail,Bengaluru 5,Karnataka,Medium,2024-11-07,Active
+MER00782,Merchant 0782,Retail,Retail,Mumbai 6,Maharashtra,Medium,2023-07-12,Active
+MER00783,Merchant 0783,Retail,Retail,Nashik 5,Maharashtra,Small,2025-04-06,Active
+MER00784,Merchant 0784,Grocery,Retail,Delhi 2,Delhi,Small,2025-12-15,Active
+MER00785,Merchant 0785,Government Services,Services,Kolkata,West Bengal,Medium,2024-05-02,Inactive
+MER00786,Merchant 0786,Travel,Services,Indore 8,Madhya Pradesh,Large,2023-10-13,Active
+MER00787,Merchant 0787,Grocery,Retail,Mysuru 2,Karnataka,Small,2026-06-21,Active
+MER00788,Merchant 0788,Healthcare,Services,Chennai,Tamil Nadu,Medium,2025-12-23,Active
+MER00789,Merchant 0789,Grocery,Retail,Mumbai 2,Maharashtra,Medium,2025-04-14,Active
+MER00790,Merchant 0790,Healthcare,Services,Mumbai 3,Maharashtra,Small,2026-06-23,Active
+MER00791,Merchant 0791,Entertainment,Services,Indore 3,Madhya Pradesh,Small,2026-01-27,Active
+MER00792,Merchant 0792,Fuel,Retail,Mysuru 7,Karnataka,Medium,2025-05-29,Active
+MER00793,Merchant 0793,Fuel,Retail,Lucknow 4,Uttar Pradesh,Medium,2026-03-09,Active
+MER00794,Merchant 0794,Travel,Services,Bhopal 8,Madhya Pradesh,Medium,2023-04-19,Inactive
+MER00795,Merchant 0795,Travel,Services,Bengaluru 8,Karnataka,Small,2023-08-31,Active
+MER00796,Merchant 0796,Education,Services,Bhubaneswar 6,Odisha,Small,2025-11-30,Active
+MER00797,Merchant 0797,,Services,Guwahati,Assam,Small,2026-06-01,Active
+MER00798,Merchant 0798,Grocery,Retail,Coimbatore,Tamil Nadu,Small,2023-02-20,Active
+MER00799,Merchant 0799,Education,Services,Pune 5,Maharashtra,Small,2023-03-21,Active
+MER00800,Merchant 0800,Government Services,Services,Coimbatore 7,Tamil Nadu,Small,2023-12-13,Active
+MER00801,Merchant 0801,Utilities,Services,Bengaluru 7,Karnataka,Medium,2023-02-20,Active
+MER00802,Merchant 0802,Fuel,Retail,Lucknow 7,Uttar Pradesh,Small,2024-08-22,Active
+MER00803,Merchant 0803,Retail,Retail,Bengaluru 3,Karnataka,Small,2025-06-14,Active
+MER00804,Merchant 0804,Fuel,Retail,Surat 2,Gujarat,Medium,2026-03-28,Active
+MER00805,Merchant 0805,Restaurants,Retail,Ahmedabad 2,Gujarat,Medium,2024-10-10,Active
+MER00806,Merchant 0806,Utilities,Services,Bengaluru 7,Karnataka,Small,2026-02-06,Active
+MER00807,Merchant 0807,Restaurants,Retail,Bhubaneswar 7,Odisha,Enterprise,2024-03-29,Active
+MER00808,Merchant 0808,Food Delivery,Retail,Indore 7,Madhya Pradesh,Small,2023-03-31,Active
+MER00809,Merchant 0809,Healthcare,Services,Patna,Bihar,Small,2024-03-31,Active
+MER00810,Merchant 0810,Utilities,Services,Chandigarh 9,Chandigarh,Small,2025-08-12,Active
+MER00811,Merchant 0811,,Retail,Delhi 8,Delhi,Large,2026-03-08,Active
+MER00812,Merchant 0812,Retail,Retail,Bengaluru,Karnataka,Medium,2026-06-02,Active
+MER00813,Merchant 0813,Restaurants,Retail,Pune 7,Maharashtra,Medium,2025-11-09,Active
+MER00814,Merchant 0814,Grocery,Retail,Ahmedabad 7,Gujarat,Small,2024-11-04,Active
+MER00815,Merchant 0815,Food Delivery,Retail,Mysuru 6,Karnataka,Medium,2024-03-20,Active
+MER00816,Merchant 0816,Food Delivery,Retail,Jaipur 7,Rajasthan,Small,2024-03-08,Active
+MER00817,Merchant 0817,Food Delivery,Retail,Ahmedabad 8,Gujarat,Large,2023-02-14,Active
+MER00818,Merchant 0818,Grocery,Retail,Guwahati 9,Assam,Small,2023-08-10,Active
+MER00819,Merchant 0819,Utilities,Services,Bhubaneswar 3,Odisha,Small,2026-04-29,Active
+MER00820,Merchant 0820,Food Delivery,Retail,Kolkata 3,West Bengal,Enterprise,2024-12-03,Active
+MER00821,Merchant 0821,Fuel,Retail,Bhopal 8,Madhya Pradesh,Small,2023-11-08,Active
+MER00822,Merchant 0822,Education,Services,Bhopal 4,Madhya Pradesh,Small,2023-11-29,Active
+MER00823,Merchant 0823,Healthcare,Services,Chennai,Tamil Nadu,Small,2023-07-18,Active
+MER00824,Merchant 0824,Education,Services,Guwahati,Assam,Large,2024-05-25,Active
+MER00825,Merchant 0825,Food Delivery,Retail,Chennai 3,Tamil Nadu,Small,2023-05-08,Active
+MER00826,Merchant 0826,Healthcare,Services,Indore,Madhya Pradesh,Small,2026-02-10,Active
+MER00827,Merchant 0827,Fuel,Retail,Chennai 8,Tamil Nadu,Small,2025-12-01,Active
+MER00828,Merchant 0828,Grocery,Retail,Nagpur 8,Maharashtra,Small,2024-05-27,Active
+MER00829,Merchant 0829,Retail,Retail,Patna 4,Bihar,Large,2025-12-23,Active
+MER00830,Merchant 0830,Grocery,Retail,Chennai 3,Tamil Nadu,Large,2026-05-28,Active
+MER00831,Merchant 0831,Grocery,Retail,Bhubaneswar 3,Odisha,Enterprise,2024-08-06,Active
+MER00832,Merchant 0832,Entertainment,Services,Coimbatore 9,Tamil Nadu,Small,2025-04-16,Active
+MER00833,Merchant 0833,Entertainment,Services,Kolkata 3,West Bengal,Medium,2024-02-10,Active
+MER00834,Merchant 0834,Restaurants,Retail,Chennai 8,Tamil Nadu,Medium,2025-08-21,Active
+MER00835,Merchant 0835,Online Services,Services,Indore 4,Madhya Pradesh,Small,2024-05-20,Active
+MER00836,Merchant 0836,Utilities,Services,Jaipur 8,Rajasthan,Medium,2026-01-17,Active
+MER00837,Merchant 0837,Entertainment,Services,Chandigarh 4,Chandigarh,Large,2023-06-17,Active
+MER00838,Merchant 0838,Utilities,Services,Lucknow 3,Uttar Pradesh,Small,2024-03-05,Active
+MER00839,Merchant 0839,Healthcare,Services,Indore 4,Madhya Pradesh,Large,2024-07-28,Active
+MER00840,Merchant 0840,Education,Services,Mumbai,Maharashtra,Medium,2023-08-04,Active
+MER00841,Merchant 0841,Food Delivery,Retail,Bhubaneswar 8,Odisha,Medium,2024-05-04,Active
+MER00842,Merchant 0842,Grocery,Retail,Jaipur 3,Rajasthan,Large,2025-05-14,Inactive
+MER00843,Merchant 0843,Utilities,Services,Surat 9,Gujarat,Small,2026-04-04,Active
+MER00844,Merchant 0844,Education,Services,Ahmedabad 7,Gujarat,Medium,2025-05-21,Active
+MER00845,Merchant 0845,Education,Services,Nagpur 2,Maharashtra,Medium,2023-05-16,Active
+MER00846,Merchant 0846,Fuel,Retail,Kochi 8,Kerala,Small,2024-11-20,Active
+MER00847,Merchant 0847,Retail,Retail,Indore 7,Madhya Pradesh,Small,2025-06-04,Active
+MER00848,Merchant 0848,Retail,Retail,Bengaluru,Karnataka,Large,2024-08-12,Inactive
+MER00849,Merchant 0849,Restaurants,Retail,Bhopal 8,Madhya Pradesh,Large,2026-03-10,Active
+MER00850,Merchant 0850,Retail,Retail,Jaipur 4,Rajasthan,Enterprise,2025-03-28,Active
+MER00851,Merchant 0851,Education,Services,Mysuru 6,Karnataka,Small,2026-01-24,Active
+MER00852,Merchant 0852,Utilities,Services,Delhi 2,Delhi,Small,2025-04-25,Active
+MER00853,Merchant 0853,Retail,Retail,Bengaluru 5,Karnataka,Medium,2023-06-12,Active
+MER00854,Merchant 0854,Education,Services,Delhi 9,Delhi,Large,2023-01-25,Active
+MER00855,Merchant 0855,Travel,Services,Mumbai,Maharashtra,Medium,2024-03-20,Active
+MER00856,Merchant 0856,Travel,Services,Chandigarh 7,Chandigarh,Small,2023-01-31,Active
+MER00857,Merchant 0857,Online Services,Services,Coimbatore 9,Tamil Nadu,Medium,2024-07-14,Inactive
+MER00858,Merchant 0858,Fuel,Retail,Kolkata 9,West Bengal,Small,2024-11-13,Active
+MER00859,Merchant 0859,Grocery,Retail,Lucknow 2,Uttar Pradesh,Medium,2023-10-28,Active
+MER00860,Merchant 0860,Retail,Retail,Bhopal 7,Madhya Pradesh,Small,2024-09-19,Active
+MER00861,Merchant 0861,Retail,Retail,Nagpur 6,Maharashtra,Small,2023-07-31,Active
+MER00862,Merchant 0862,Online Services,Services,Mumbai 7,Maharashtra,Medium,2025-10-27,Active
+MER00863,Merchant 0863,Grocery,Retail,Bengaluru 7,Karnataka,Small,2026-05-10,Active
+MER00864,Merchant 0864,Travel,Services,Coimbatore 6,Tamil Nadu,Small,2024-10-07,Active
+MER00865,Merchant 0865,Restaurants,Retail,Chennai 8,Tamil Nadu,Small,2026-05-25,Active
+MER00866,Merchant 0866,Education,Services,Bengaluru 2,Karnataka,Small,2024-03-29,Active
+MER00867,Merchant 0867,Utilities,Services,Mysuru 6,Karnataka,Small,2023-10-28,Active
+MER00868,Merchant 0868,Food Delivery,Retail,Patna 7,Bihar,Small,2024-11-24,Active
+MER00869,Merchant 0869,Food Delivery,Retail,Bhopal 7,Madhya Pradesh,Small,2024-09-27,Active
+MER00870,Merchant 0870,Retail,Retail,Kochi 4,Kerala,Small,2026-03-14,Active
+MER00871,Merchant 0871,Retail,Retail,Ahmedabad 6,Gujarat,Small,2023-12-09,Active
+MER00872,Merchant 0872,Retail,Retail,Lucknow 6,Uttar Pradesh,Small,2024-02-17,Active
+MER00873,Merchant 0873,Retail,Retail,Chennai 4,Tamil Nadu,Small,2024-12-04,Active
+MER00874,Merchant 0874,Food Delivery,Retail,Indore 3,Madhya Pradesh,Small,2024-09-02,Active
+MER00875,Merchant 0875,Restaurants,Retail,Bhubaneswar 8,Odisha,Large,2024-09-23,Active
+MER00876,Merchant 0876,Education,Services,Guwahati 7,Assam,Medium,2025-05-20,Active
+MER00877,Merchant 0877,Retail,Retail,Mysuru 9,Karnataka,Medium,2023-04-26,Inactive
+MER00878,Merchant 0878,Utilities,Services,Bhopal,Madhya Pradesh,Small,2025-03-04,Active
+MER00879,Merchant 0879,Utilities,Services,Guwahati 3,Assam,Small,2024-04-21,Active
+MER00880,Merchant 0880,Grocery,Retail,Hyderabad 2,Telangana,Small,2024-01-18,Active
+MER00881,Merchant 0881,Restaurants,Retail,Indore 8,Madhya Pradesh,Medium,2026-03-31,Active
+MER00882,Merchant 0882,Online Services,Services,Mumbai 3,Maharashtra,Small,2024-05-31,Active
+MER00883,Merchant 0883,Healthcare,Services,Patna 8,Bihar,Medium,2026-05-13,Active
+MER00884,Merchant 0884,Grocery,Retail,Guwahati 9,Assam,Medium,2024-01-25,Inactive
+MER00885,Merchant 0885,Restaurants,Retail,Kochi,Kerala,Large,2024-04-24,Active
+MER00886,Merchant 0886,Online Services,Services,Kochi 3,Kerala,Large,2023-10-16,Active
+MER00887,Merchant 0887,Fuel,Retail,Mumbai 4,Maharashtra,Large,2024-11-13,Active
+MER00888,Merchant 0888,Retail,Retail,Bhubaneswar 7,Odisha,Small,2025-08-12,Active
+MER00889,Merchant 0889,Entertainment,Services,Kochi 8,Kerala,Enterprise,2026-05-19,Active
+MER00890,Merchant 0890,Retail,Retail,Patna 4,Bihar,Medium,2026-04-27,Active
+MER00891,Merchant 0891,Healthcare,Services,Bhopal 5,Madhya Pradesh,Medium,2026-03-15,Active
+MER00892,Merchant 0892,Education,Services,Indore 2,Madhya Pradesh,Small,2023-05-22,Active
+MER00893,Merchant 0893,Food Delivery,Retail,Nagpur 5,Maharashtra,Small,2025-07-23,Active
+MER00894,Merchant 0894,Retail,Retail,Pune 7,Maharashtra,Medium,2026-03-28,Active
+MER00895,Merchant 0895,Grocery,Retail,Bengaluru 7,Karnataka,Small,2023-03-22,Active
+MER00896,Merchant 0896,Restaurants,Retail,Kolkata,West Bengal,Small,2026-03-04,Active
+MER00897,Merchant 0897,Fuel,Retail,Patna 5,Bihar,Small,2025-12-30,Active
+MER00898,Merchant 0898,Healthcare,Services,Chennai 7,Tamil Nadu,Small,2023-12-08,Active
+MER00899,Merchant 0899,Retail,Retail,Guwahati 8,Assam,Small,2023-10-05,Active
+MER00900,Merchant 0900,Healthcare,Services,Kochi 8,Kerala,Small,2026-01-15,Active
+MER00901,Merchant 0901,Food Delivery,Retail,Bhubaneswar 4,Odisha,Small,2023-04-02,Active
+MER00902,Merchant 0902,Education,Services,Chandigarh 2,Chandigarh,Small,2023-07-10,Active
+MER00903,Merchant 0903,Travel,Services,Ahmedabad 3,Gujarat,Small,2026-06-09,Active
+MER00904,Merchant 0904,Education,Services,Hyderabad 5,Telangana,Enterprise,2024-07-22,Active
+MER00905,Merchant 0905,Fuel,Retail,Indore 3,Madhya Pradesh,Small,2025-01-03,Active
+MER00906,Merchant 0906,Entertainment,Services,Bhopal 5,Madhya Pradesh,Medium,2023-06-22,Active
+MER00907,Merchant 0907,Restaurants,Retail,Surat 3,Gujarat,Small,2025-10-01,Active
+MER00908,Merchant 0908,Entertainment,Services,Delhi,Delhi,Small,2024-04-08,Active
+MER00909,Merchant 0909,Travel,Services,Nagpur 5,Maharashtra,Small,2024-04-13,Active
+MER00910,Merchant 0910,Grocery,Retail,Indore 6,Madhya Pradesh,Enterprise,2025-08-21,Active
+MER00911,Merchant 0911,Grocery,Retail,Surat 2,Gujarat,Small,2025-09-12,Active
+MER00912,Merchant 0912,Restaurants,Retail,Nashik 4,Maharashtra,Small,2026-03-11,Active
+MER00913,Merchant 0913,Utilities,Services,Bhopal 8,Madhya Pradesh,Medium,2023-10-20,Active
+MER00914,Merchant 0914,Healthcare,Services,Pune 3,Maharashtra,Medium,2023-12-13,Active
+MER00915,Merchant 0915,Utilities,Services,Ahmedabad 7,Gujarat,Medium,2024-03-25,Active
+MER00916,Merchant 0916,Travel,Services,Jaipur 9,Rajasthan,Small,2024-12-06,Active
+MER00917,Merchant 0917,Grocery,Retail,Mumbai 3,Maharashtra,Medium,2024-11-03,Active
+MER00918,Merchant 0918,Food Delivery,Retail,Bengaluru 8,Karnataka,Enterprise,2025-06-16,Active
+MER00919,Merchant 0919,Online Services,Services,Nashik,Maharashtra,Large,2025-09-20,Active
+MER00920,Merchant 0920,Grocery,Retail,Chennai 7,Tamil Nadu,Small,2023-02-24,Active
+MER00921,Merchant 0921,Restaurants,Retail,Mysuru 3,Karnataka,Small,2023-06-22,Active
+MER00922,Merchant 0922,Entertainment,Services,Kochi 8,Kerala,Small,2026-03-24,Active
+MER00923,Merchant 0923,Government Services,Services,Indore 3,Madhya Pradesh,Medium,2024-12-30,Active
+MER00924,Merchant 0924,Food Delivery,Retail,Pune 3,Maharashtra,Small,2026-04-18,Active
+MER00925,Merchant 0925,Grocery,Retail,Patna 6,Bihar,Small,2025-10-03,Inactive
+MER00926,Merchant 0926,Retail,Retail,Surat 8,Gujarat,Small,2025-05-03,Active
+MER00927,Merchant 0927,Retail,Retail,Bhubaneswar 5,Odisha,Small,2024-09-30,Active
+MER00928,Merchant 0928,Retail,Retail,Mumbai 9,Maharashtra,Small,2025-10-18,Active
+MER00929,Merchant 0929,Retail,Retail,Patna,Bihar,Small,2025-12-17,Active
+MER00930,Merchant 0930,Fuel,Retail,Lucknow 4,Uttar Pradesh,Enterprise,2024-10-08,Active
+MER00931,Merchant 0931,Retail,Retail,Nashik 9,Maharashtra,Medium,2026-03-10,Active
+MER00932,Merchant 0932,Entertainment,Services,Delhi 8,Delhi,Small,2023-02-17,Active
+MER00933,Merchant 0933,Retail,Retail,Jaipur 9,Rajasthan,Small,2024-10-29,Active
+MER00934,Merchant 0934,Travel,Services,Patna 2,Bihar,Small,2024-03-04,Active
+MER00935,Merchant 0935,Restaurants,Retail,Coimbatore 4,Tamil Nadu,Medium,2023-08-04,Active
+MER00936,Merchant 0936,Retail,Retail,Chandigarh 7,Chandigarh,Small,2024-11-05,Active
+MER00937,Merchant 0937,Grocery,Retail,Guwahati,Assam,Enterprise,2026-02-22,Active
+MER00938,Merchant 0938,Grocery,Retail,Ahmedabad 8,Gujarat,Medium,2024-05-25,Active
+MER00939,Merchant 0939,Utilities,Services,Coimbatore 5,Tamil Nadu,Enterprise,2025-07-21,Active
+MER00940,Merchant 0940,Retail,Retail,Indore 4,Madhya Pradesh,Small,2026-03-06,Active
+MER00941,Merchant 0941,Retail,Retail,Bhopal 5,Madhya Pradesh,Medium,2025-05-31,Active
+MER00942,Merchant 0942,Online Services,Services,Kochi 3,Kerala,Small,2026-02-13,Active
+MER00943,Merchant 0943,Healthcare,Services,Patna,Bihar,Small,2026-02-27,Active
+MER00944,Merchant 0944,Healthcare,Services,Nagpur 6,Maharashtra,Large,2024-03-17,Active
+MER00945,Merchant 0945,Healthcare,Services,Guwahati 3,Assam,Small,2023-10-05,Active
+MER00946,Merchant 0946,Education,Services,Guwahati 3,Assam,Small,2024-05-24,Active
+MER00947,Merchant 0947,Travel,Services,Chandigarh 2,Chandigarh,Small,2026-05-21,Inactive
+MER00948,Merchant 0948,Utilities,Services,Kolkata 2,West Bengal,Small,2024-04-29,Active
+MER00949,Merchant 0949,Restaurants,Retail,Surat 2,Gujarat,Medium,2023-10-07,Active
+MER00950,Merchant 0950,Education,Services,Hyderabad,Telangana,Medium,2026-05-14,Active
+MER00951,Merchant 0951,Travel,Services,Nagpur 6,Maharashtra,Medium,2025-01-06,Active
+MER00952,Merchant 0952,Restaurants,Retail,Ahmedabad 5,Gujarat,Enterprise,2025-07-01,Active
+MER00953,Merchant 0953,Entertainment,Services,Indore,Madhya Pradesh,Small,2023-07-05,Active
+MER00954,Merchant 0954,Grocery,Retail,Nagpur 8,Maharashtra,Small,2025-12-22,Active
+MER00955,Merchant 0955,Retail,Retail,Ahmedabad 5,Gujarat,Small,2023-07-10,Active
+MER00956,Merchant 0956,Restaurants,Retail,Bhopal 2,Madhya Pradesh,Small,2026-01-03,Active
+MER00957,Merchant 0957,Grocery,Retail,Mysuru 7,Karnataka,Medium,2024-12-06,Active
+MER00958,Merchant 0958,Fuel,Retail,Pune,Maharashtra,Medium,2023-08-17,Active
+MER00959,Merchant 0959,Education,Services,Bhubaneswar 2,Odisha,Small,2023-12-14,Active
+MER00960,Merchant 0960,Food Delivery,Retail,Jaipur 5,Rajasthan,Large,2026-05-03,Active
+MER00961,Merchant 0961,Healthcare,Services,Patna 3,Bihar,Medium,2024-04-07,Active
+MER00962,Merchant 0962,Online Services,Services,Bengaluru 8,Karnataka,Small,2026-03-21,Inactive
+MER00963,Merchant 0963,Food Delivery,Retail,Indore 5,Madhya Pradesh,Small,2025-04-19,Active
+MER00964,Merchant 0964,Restaurants,Retail,Bhopal 8,Madhya Pradesh,Large,2024-12-10,Active
+MER00965,Merchant 0965,Restaurants,Retail,Coimbatore,Tamil Nadu,Small,2025-09-18,Active
+MER00966,Merchant 0966,Restaurants,Retail,Bengaluru 7,Karnataka,Enterprise,2025-09-27,Active
+MER00967,Merchant 0967,Healthcare,Services,Chandigarh,Chandigarh,Small,2024-03-10,Active
+MER00968,Merchant 0968,Retail,Retail,Mysuru,Karnataka,Small,2023-04-30,Active
+MER00969,Merchant 0969,Grocery,Retail,Nagpur 3,Maharashtra,Medium,2023-09-11,Active
+MER00970,Merchant 0970,Retail,Retail,Bengaluru 6,Karnataka,Small,2026-05-13,Active
+MER00971,Merchant 0971,Retail,Retail,Bhopal 8,Madhya Pradesh,Medium,2025-09-14,Active
+MER00972,Merchant 0972,Retail,Retail,Nashik,Maharashtra,Medium,2023-12-28,Active
+MER00973,Merchant 0973,Retail,Retail,Bhubaneswar 8,Odisha,Enterprise,2026-07-01,Active
+MER00974,Merchant 0974,Food Delivery,Retail,Nashik 5,Maharashtra,Medium,2025-08-18,Active
+MER00975,Merchant 0975,Retail,Retail,Kolkata,West Bengal,Small,2023-10-13,Active
+MER00976,Merchant 0976,Online Services,Services,Chandigarh 4,Chandigarh,Small,2026-06-15,Active
+MER00977,Merchant 0977,Entertainment,Services,Ahmedabad,Gujarat,Small,2024-09-20,Active
+MER00978,Merchant 0978,Education,Services,Surat 4,Gujarat,Large,2024-07-09,Inactive
+MER00979,Merchant 0979,Restaurants,Retail,Chandigarh 6,Chandigarh,Small,2025-01-01,Active
+MER00980,Merchant 0980,Grocery,Retail,Ahmedabad 9,Gujarat,Medium,2024-11-04,Inactive
+MER00981,Merchant 0981,Grocery,Retail,Ahmedabad,Gujarat,Small,2023-06-16,Inactive
+MER00982,Merchant 0982,Restaurants,Retail,Delhi 2,Delhi,Small,2024-10-05,Active
+MER00983,Merchant 0983,Restaurants,Retail,Mumbai 2,Maharashtra,Small,2026-05-24,Active
+MER00984,Merchant 0984,Utilities,Services,Bhubaneswar 7,Odisha,Medium,2023-10-25,Active
+MER00985,Merchant 0985,Healthcare,Services,Pune 6,Maharashtra,Small,2026-03-08,Active
+MER00986,Merchant 0986,Fuel,Retail,Bengaluru 6,Karnataka,Small,2025-06-04,Active
+MER00987,Merchant 0987,Grocery,Retail,Hyderabad 9,Telangana,Small,2025-05-04,Active
+MER00988,Merchant 0988,Retail,Retail,Guwahati 3,Assam,Medium,2026-02-20,Active
+MER00989,Merchant 0989,Retail,Retail,Coimbatore 8,Tamil Nadu,Small,2024-07-18,Active
+MER00990,Merchant 0990,Food Delivery,Retail,Mumbai 4,Maharashtra,Small,2025-11-22,Active
+MER00991,Merchant 0991,Travel,Services,Surat 2,Gujarat,Small,2024-08-12,Active
+MER00992,Merchant 0992,Grocery,Retail,Patna 7,Bihar,Medium,2025-06-11,Active
+MER00993,Merchant 0993,Grocery,Retail,Chennai 7,Tamil Nadu,Small,2025-04-24,Active
+MER00994,Merchant 0994,Fuel,Retail,Nagpur 4,Maharashtra,Large,2024-03-29,Active
+MER00995,Merchant 0995,Grocery,Retail,Mysuru 2,Karnataka,Small,2024-08-17,Active
+MER00996,Merchant 0996,Utilities,Services,Mysuru 9,Karnataka,Medium,2023-07-09,Active
+MER00997,Merchant 0997,Grocery,Retail,Chandigarh 3,Chandigarh,Large,2025-09-21,Active
+MER00998,Merchant 0998,Restaurants,Retail,Indore 4,Madhya Pradesh,Small,2025-06-01,Active
+MER00999,Merchant 0999,Retail,Retail,Chennai 5,Tamil Nadu,Small,2024-07-13,Active
+MER01000,Merchant 1000,Restaurants,Retail,Kolkata 7,West Bengal,Large,2023-12-12,Active
+MER01001,Merchant 1001,Online Services,Services,Pune 6,Maharashtra,Small,2024-08-02,Active
+MER01002,Merchant 1002,Food Delivery,Retail,Hyderabad 4,Telangana,Small,2025-05-09,Active
+MER01003,Merchant 1003,Utilities,Services,Bhopal 2,Madhya Pradesh,Small,2025-06-01,Active
+MER01004,Merchant 1004,Healthcare,Services,Kolkata 5,West Bengal,Small,2026-04-10,Active
+MER01005,Merchant 1005,,Retail,Nashik 3,Maharashtra,Medium,2023-11-23,Active
+MER01006,Merchant 1006,Fuel,Retail,Kolkata 5,West Bengal,Small,2023-12-20,Active
+MER01007,Merchant 1007,Healthcare,Services,Bhubaneswar 7,Odisha,Small,2025-10-11,Active
+MER01008,Merchant 1008,Grocery,Retail,Bhopal 9,Madhya Pradesh,Medium,2023-09-21,Active
+MER01009,Merchant 1009,Grocery,Retail,Bengaluru 4,Karnataka,Medium,2024-11-26,Active
+MER01010,Merchant 1010,Retail,Retail,Bengaluru 5,Karnataka,Small,2024-06-05,Active
+MER01011,Merchant 1011,Restaurants,Retail,Surat 3,Gujarat,Large,2024-12-05,Active
+MER01012,Merchant 1012,Retail,Retail,Lucknow 9,Uttar Pradesh,Small,2025-08-25,Active
+MER01013,Merchant 1013,Retail,Retail,Guwahati 8,Assam,Medium,2023-09-13,Active
+MER01014,Merchant 1014,Online Services,Services,Guwahati 3,Assam,Small,2025-12-04,Active
+MER01015,Merchant 1015,Utilities,Services,Guwahati 5,Assam,Small,2025-02-23,Inactive
+MER01016,Merchant 1016,Restaurants,Retail,Bengaluru 9,Karnataka,Medium,2023-03-23,Active
+MER01017,Merchant 1017,Retail,Retail,Jaipur 2,Rajasthan,Medium,2026-06-03,Active
+MER01018,Merchant 1018,Retail,Retail,Bengaluru 2,Karnataka,Large,2025-09-21,Active
+MER01019,Merchant 1019,Food Delivery,Retail,Coimbatore 5,Tamil Nadu,Medium,2023-05-08,Active
+MER01020,Merchant 1020,Retail,Retail,Indore 8,Madhya Pradesh,Small,2025-04-23,Active
+MER01021,Merchant 1021,Restaurants,Retail,Hyderabad 6,Telangana,Medium,2026-04-28,Active
+MER01022,Merchant 1022,Restaurants,Retail,Surat 3,Gujarat,Small,2024-11-06,Active
+MER01023,Merchant 1023,Retail,Retail,Chennai,Tamil Nadu,Small,2025-10-29,Active
+MER01024,Merchant 1024,Online Services,Services,Coimbatore 4,Tamil Nadu,Small,2023-06-12,Active
+MER01025,Merchant 1025,Online Services,Services,Patna 4,Bihar,Large,2025-08-20,Active
+MER01026,Merchant 1026,Healthcare,Services,Jaipur 9,Rajasthan,Small,2024-12-29,Active
+MER01027,Merchant 1027,Food Delivery,Retail,Ahmedabad,Gujarat,Medium,2025-12-11,Active
+MER01028,Merchant 1028,Travel,Services,Bengaluru,Karnataka,Small,2023-04-28,Active
+MER01029,Merchant 1029,Education,Services,Bhubaneswar 8,Odisha,Medium,2023-04-11,Active
+MER01030,Merchant 1030,Healthcare,Services,Lucknow 2,Uttar Pradesh,Medium,2024-09-15,Active
+MER01031,Merchant 1031,Retail,Retail,Lucknow 6,Uttar Pradesh,Small,2025-05-08,Active
+MER01032,Merchant 1032,Retail,Retail,Nagpur,Maharashtra,Medium,2024-02-16,Active
+MER01033,Merchant 1033,Healthcare,Services,Hyderabad 7,Telangana,Small,2024-04-11,Active
+MER01034,Merchant 1034,Utilities,Services,Kolkata 4,West Bengal,Medium,2024-07-24,Active
+MER01035,Merchant 1035,Healthcare,Services,Nagpur 6,Maharashtra,Large,2025-11-26,Active
+MER01036,Merchant 1036,Retail,Retail,Nagpur,Maharashtra,Enterprise,2026-02-01,Active
+MER01037,Merchant 1037,Healthcare,Services,Bhubaneswar 4,Odisha,Small,2025-07-09,Active
+MER01038,Merchant 1038,Grocery,Retail,Delhi 4,Delhi,Small,2025-09-20,Active
+MER01039,Merchant 1039,Restaurants,Retail,Jaipur 5,Rajasthan,Small,2023-01-15,Active
+MER01040,Merchant 1040,Retail,Retail,Coimbatore 7,Tamil Nadu,Medium,2026-03-13,Active
+MER01041,Merchant 1041,Food Delivery,Retail,Nashik,Maharashtra,Medium,2025-04-02,Active
+MER01042,Merchant 1042,Education,Services,Chennai 8,Tamil Nadu,Small,2023-09-07,Active
+MER01043,Merchant 1043,Fuel,Retail,Nashik 7,Maharashtra,Small,2024-01-23,Active
+MER01044,Merchant 1044,,Retail,Chennai 8,Tamil Nadu,Medium,2023-10-09,Active
+MER01045,Merchant 1045,Retail,Retail,Pune 4,Maharashtra,Small,2025-01-20,Active
+MER01046,Merchant 1046,Education,Services,Jaipur 2,Rajasthan,Small,2024-01-19,Active
+MER01047,Merchant 1047,Grocery,Retail,Kochi 4,Kerala,Small,2023-02-16,Active
+MER01048,Merchant 1048,Utilities,Services,Bhubaneswar 8,Odisha,Large,2025-08-01,Active
+MER01049,Merchant 1049,Restaurants,Retail,Bhopal 3,Madhya Pradesh,Small,2024-08-26,Active
+MER01050,Merchant 1050,Retail,Retail,Patna 9,Bihar,Medium,2026-04-03,Inactive
+MER01051,Merchant 1051,Healthcare,Services,Bhopal,Madhya Pradesh,Large,2025-11-27,Active
+MER01052,Merchant 1052,Retail,Retail,Surat 4,Gujarat,Small,2024-09-03,Active
+MER01053,Merchant 1053,Food Delivery,Retail,Chennai 9,Tamil Nadu,Medium,2025-12-21,Active
+MER01054,Merchant 1054,Restaurants,Retail,Hyderabad 3,Telangana,Large,2024-07-26,Active
+MER01055,Merchant 1055,Utilities,Services,Jaipur,Rajasthan,Small,2024-12-14,Active
+MER01056,Merchant 1056,Grocery,Retail,Patna 6,Bihar,Enterprise,2023-04-28,Active
+MER01057,Merchant 1057,Online Services,Services,Delhi 3,Delhi,Small,2024-04-25,Active
+MER01058,Merchant 1058,Restaurants,Retail,Bhubaneswar 4,Odisha,Small,2025-10-28,Active
+MER01059,Merchant 1059,Utilities,Services,Jaipur,Rajasthan,Large,2026-02-03,Active
+MER01060,Merchant 1060,Grocery,Retail,Bengaluru 3,Karnataka,Small,2023-10-19,Active
+MER01061,Merchant 1061,Fuel,Retail,Nashik 5,Maharashtra,Medium,2024-07-21,Active
+MER01062,Merchant 1062,Retail,Retail,Lucknow 5,Uttar Pradesh,Small,2024-06-15,Active
+MER01063,Merchant 1063,Retail,Retail,Jaipur 3,Rajasthan,Medium,2023-07-02,Active
+MER01064,Merchant 1064,Entertainment,Services,Hyderabad 6,Telangana,Small,2025-07-18,Active
+MER01065,Merchant 1065,Healthcare,Services,Chennai 6,Tamil Nadu,Small,2023-12-14,Active
+MER01066,Merchant 1066,Retail,Retail,Delhi 6,Delhi,Medium,2023-10-15,Active
+MER01067,Merchant 1067,Education,Services,Chennai,Tamil Nadu,Small,2023-07-23,Active
+MER01068,Merchant 1068,Retail,Retail,Indore 4,Madhya Pradesh,Medium,2025-12-02,Active
+MER01069,Merchant 1069,Retail,Retail,Nashik 3,Maharashtra,Enterprise,2023-12-01,Active
+MER01070,Merchant 1070,Restaurants,Retail,Mumbai 8,Maharashtra,Small,2025-10-22,Active
+MER01071,Merchant 1071,Food Delivery,Retail,Chandigarh 5,Chandigarh,Large,2025-08-14,Active
+MER01072,Merchant 1072,Food Delivery,Retail,Pune 10,Maharashtra,Small,2026-05-20,Active
+MER01073,Merchant 1073,Restaurants,Retail,Pune 8,Maharashtra,Large,2024-11-12,Active
+MER01074,Merchant 1074,Healthcare,Services,Mysuru 9,Karnataka,Large,2023-05-23,Active
+MER01075,Merchant 1075,Education,Services,Mysuru 8,Karnataka,Medium,2023-04-03,Active
+MER01076,Merchant 1076,Retail,Retail,Pune,Maharashtra,Small,2023-05-02,Active
+MER01077,Merchant 1077,Grocery,Retail,Pune 2,Maharashtra,Medium,2024-12-25,Active
+MER01078,Merchant 1078,Utilities,Services,Mysuru 4,Karnataka,Large,2024-01-29,Active
+MER01079,Merchant 1079,Food Delivery,Retail,Ahmedabad 3,Gujarat,Small,2025-06-03,Active
+MER01080,Merchant 1080,Restaurants,Retail,Bhubaneswar 2,Odisha,Small,2023-09-07,Active
+MER01081,Merchant 1081,Online Services,Services,Mysuru,Karnataka,Small,2025-04-05,Active
+MER01082,Merchant 1082,Food Delivery,Retail,Nagpur 4,Maharashtra,Large,2026-06-07,Active
+MER01083,Merchant 1083,Retail,Retail,Mumbai 4,Maharashtra,Small,2024-04-13,Active
+MER01084,Merchant 1084,Fuel,Retail,Nashik 8,Maharashtra,Medium,2024-05-06,Active
+MER01085,Merchant 1085,Restaurants,Retail,Mysuru 3,Karnataka,Small,2024-04-09,Active
+MER01086,Merchant 1086,Travel,Services,Kolkata 2,West Bengal,Large,2023-04-18,Active
+MER01087,Merchant 1087,Travel,Services,Ahmedabad 4,Gujarat,Small,2025-12-21,Active
+MER01088,Merchant 1088,Retail,Retail,Patna 4,Bihar,Enterprise,2023-02-26,Active
+MER01089,Merchant 1089,Utilities,Services,Delhi,Delhi,Small,2025-02-01,Active
+MER01090,Merchant 1090,Online Services,Services,Mumbai 5,Maharashtra,Small,2025-08-16,Active
+MER01091,Merchant 1091,Utilities,Services,Chennai 6,Tamil Nadu,Small,2023-05-12,Active
+MER01092,Merchant 1092,Online Services,Services,Bhopal 6,Madhya Pradesh,Small,2026-01-06,Active
+MER01093,Merchant 1093,Travel,Services,Bhubaneswar 9,Odisha,Medium,2025-05-21,Active
+MER01094,Merchant 1094,Grocery,Retail,Bhubaneswar 9,Odisha,Medium,2025-04-25,Active
+MER01095,Merchant 1095,Grocery,Retail,Lucknow,Uttar Pradesh,Medium,2025-09-22,Active
+MER01096,Merchant 1096,Fuel,Retail,Hyderabad 9,Telangana,Enterprise,2026-03-31,Active
+MER01097,Merchant 1097,Retail,Retail,Bhubaneswar,Odisha,Small,2025-08-23,Active
+MER01098,Merchant 1098,Fuel,Retail,Nagpur 4,Maharashtra,Enterprise,2024-06-30,Active
+MER01099,Merchant 1099,Restaurants,Retail,Pune 5,Maharashtra,Small,2024-06-10,Active
+MER01100,Merchant 1100,Food Delivery,Retail,Mysuru 2,Karnataka,Large,2025-03-29,Active
+MER01101,Merchant 1101,Government Services,Services,Kochi 4,Kerala,Small,2025-11-09,Active
+MER01102,Merchant 1102,Grocery,Retail,Mumbai 7,Maharashtra,Small,2024-04-20,Active
+MER01103,Merchant 1103,Grocery,Retail,Jaipur 8,Rajasthan,Small,2025-10-07,Active
+MER01104,Merchant 1104,Travel,Services,Kolkata 7,West Bengal,Large,2025-11-27,Active
+MER01105,Merchant 1105,Fuel,Retail,Chandigarh 9,Chandigarh,Medium,2026-05-24,Inactive
+MER01106,Merchant 1106,Utilities,Services,Patna 5,Bihar,Small,2023-01-10,Active
+MER01107,Merchant 1107,Retail,Retail,Mysuru,Karnataka,Large,2023-04-10,Active
+MER01108,Merchant 1108,Grocery,Retail,Surat,Gujarat,Large,2024-12-26,Active
+MER01109,Merchant 1109,Retail,Retail,Pune 5,Maharashtra,Small,2023-04-11,Active
+MER01110,Merchant 1110,Fuel,Retail,Bhopal 9,Madhya Pradesh,Large,2025-10-24,Active
+MER01111,Merchant 1111,Online Services,Services,Jaipur 3,Rajasthan,Small,2023-05-31,Active
+MER01112,Merchant 1112,Education,Services,Nashik 9,Maharashtra,Large,2023-02-11,Active
+MER01113,Merchant 1113,Online Services,Services,Nashik 8,Maharashtra,Small,2025-08-19,Active
+MER01114,Merchant 1114,Grocery,Retail,Chennai 9,Tamil Nadu,Small,2023-01-19,Active
+MER01115,Merchant 1115,Grocery,Retail,Ahmedabad 2,Gujarat,Medium,2025-07-04,Active
+MER01116,Merchant 1116,Healthcare,Services,Nagpur 5,Maharashtra,Small,2026-06-13,Active
+MER01117,Merchant 1117,Food Delivery,Retail,Bhubaneswar 8,Odisha,Medium,2024-05-19,Active
+MER01118,Merchant 1118,Retail,Retail,Patna 5,Bihar,Medium,2025-10-27,Active
+MER01119,Merchant 1119,Food Delivery,Retail,Nagpur 4,Maharashtra,Medium,2023-05-04,Active
+MER01120,Merchant 1120,Fuel,Retail,Chandigarh 5,Chandigarh,Medium,2024-05-27,Active
+MER01121,Merchant 1121,Grocery,Retail,Bengaluru 7,Karnataka,Medium,2024-11-30,Active
+MER01122,Merchant 1122,Restaurants,Retail,Indore 2,Madhya Pradesh,Small,2024-11-01,Active
+MER01123,Merchant 1123,Retail,Retail,Chandigarh 6,Chandigarh,Small,2025-11-19,Inactive
+MER01124,Merchant 1124,Food Delivery,Retail,Delhi 2,Delhi,Large,2023-03-18,Active
+MER01125,Merchant 1125,Education,Services,Bengaluru 7,Karnataka,Large,2025-07-08,Active
+MER01126,Merchant 1126,Restaurants,Retail,Coimbatore 3,Tamil Nadu,Small,2024-06-13,Active
+MER01127,Merchant 1127,Retail,Retail,Surat 3,Gujarat,Large,2023-07-05,Active
+MER01128,Merchant 1128,Restaurants,Retail,Delhi 9,Delhi,Small,2024-05-17,Active
+MER01129,Merchant 1129,Retail,Retail,Mumbai 7,Maharashtra,Small,2025-02-23,Active
+MER01130,Merchant 1130,Grocery,Retail,Ahmedabad 6,Gujarat,Small,2023-10-29,Active
+MER01131,Merchant 1131,Food Delivery,Retail,Delhi 5,Delhi,Medium,2023-04-22,Active
+MER01132,Merchant 1132,Utilities,Services,Guwahati 7,Assam,Small,2023-01-19,Active
+MER01133,Merchant 1133,Retail,Retail,Chennai 5,Tamil Nadu,Medium,2025-11-01,Active
+MER01134,Merchant 1134,Grocery,Retail,Bengaluru 8,Karnataka,Large,2026-05-26,Active
+MER01135,Merchant 1135,Fuel,Retail,Patna 7,Bihar,Large,2023-11-02,Active
+MER01136,Merchant 1136,Grocery,Retail,Coimbatore 9,Tamil Nadu,Small,2025-09-28,Active
+MER01137,Merchant 1137,Travel,Services,Mumbai 10,Maharashtra,Large,2025-08-19,Active
+MER01138,Merchant 1138,Grocery,Retail,Ahmedabad 7,Gujarat,Medium,2024-02-08,Inactive
+MER01139,Merchant 1139,Food Delivery,Retail,Chandigarh,Chandigarh,Medium,2024-06-01,Active
+MER01140,Merchant 1140,Food Delivery,Retail,Bhubaneswar 8,Odisha,Large,2023-12-18,Active
+MER01141,Merchant 1141,Restaurants,Retail,Surat 2,Gujarat,Medium,2023-11-07,Active
+MER01142,Merchant 1142,Entertainment,Services,Patna 7,Bihar,Small,2024-04-25,Active
+MER01143,Merchant 1143,Entertainment,Services,Mysuru 7,Karnataka,Small,2026-02-21,Active
+MER01144,Merchant 1144,Healthcare,Services,Bhopal 2,Madhya Pradesh,Medium,2025-05-26,Active
+MER01145,Merchant 1145,Restaurants,Retail,Chennai,Tamil Nadu,Large,2025-05-22,Active
+MER01146,Merchant 1146,Grocery,Retail,Jaipur 3,Rajasthan,Large,2024-06-10,Active
+MER01147,Merchant 1147,Utilities,Services,Indore 5,Madhya Pradesh,Medium,2025-05-12,Active
+MER01148,Merchant 1148,Restaurants,Retail,Coimbatore 4,Tamil Nadu,Small,2023-10-12,Active
+MER01149,Merchant 1149,Retail,Retail,Lucknow 7,Uttar Pradesh,Small,2023-07-18,Active
+MER01150,Merchant 1150,Food Delivery,Retail,Coimbatore 8,Tamil Nadu,Small,2023-04-03,Active
+MER01151,Merchant 1151,Retail,Retail,Hyderabad 4,Telangana,Small,2024-07-02,Active
+MER01152,Merchant 1152,Government Services,Services,Guwahati 3,Assam,Medium,2023-04-05,Active
+MER01153,Merchant 1153,Retail,Retail,Chandigarh 5,Chandigarh,Large,2024-02-07,Active
+MER01154,Merchant 1154,Fuel,Retail,Delhi 3,Delhi,Small,2023-03-12,Active
+MER01155,Merchant 1155,Food Delivery,Retail,Delhi 3,Delhi,Large,2025-01-28,Active
+MER01156,Merchant 1156,Fuel,Retail,Bhopal 5,Madhya Pradesh,Medium,2023-12-21,Active
+MER01157,Merchant 1157,Government Services,Services,Nagpur 2,Maharashtra,Small,2025-09-15,Active
+MER01158,Merchant 1158,Education,Services,Chennai 7,Tamil Nadu,Medium,2024-07-20,Active
+MER01159,Merchant 1159,Online Services,Services,Hyderabad 9,Telangana,Medium,2025-08-30,Active
+MER01160,Merchant 1160,Restaurants,Retail,Delhi,Delhi,Medium,2025-03-17,Active
+MER01161,Merchant 1161,Grocery,Retail,Mumbai 8,Maharashtra,Small,2023-04-08,Active
+MER01162,Merchant 1162,Restaurants,Retail,Jaipur 8,Rajasthan,Small,2026-01-11,Active
+MER01163,Merchant 1163,Grocery,Retail,Kolkata 4,West Bengal,Small,2023-09-17,Active
+MER01164,Merchant 1164,Utilities,Services,Bhopal 4,Madhya Pradesh,Large,2026-05-24,Active
+MER01165,Merchant 1165,Fuel,Retail,Nashik 9,Maharashtra,Small,2023-08-23,Active
+MER01166,Merchant 1166,,Retail,Delhi 7,Delhi,Medium,2023-11-18,Active
+MER01167,Merchant 1167,Retail,Retail,Nagpur 9,Maharashtra,Large,2025-06-16,Active
+MER01168,Merchant 1168,Entertainment,Services,Pune,Maharashtra,Medium,2024-02-02,Active
+MER01169,Merchant 1169,Food Delivery,Retail,Mysuru 7,Karnataka,Small,2024-11-20,Active
+MER01170,Merchant 1170,Restaurants,Retail,Pune 8,Maharashtra,Medium,2026-06-24,Active
+MER01171,Merchant 1171,Grocery,Retail,Indore 7,Madhya Pradesh,Medium,2023-08-08,Active
+MER01172,Merchant 1172,Grocery,Retail,Ahmedabad 8,Gujarat,Small,2025-07-23,Active
+MER01173,Merchant 1173,Grocery,Retail,Mumbai 8,Maharashtra,Medium,2024-10-23,Active
+MER01174,Merchant 1174,Healthcare,Services,Bhopal 5,Madhya Pradesh,Medium,2025-03-20,Active
+MER01175,Merchant 1175,Online Services,Services,Hyderabad 9,Telangana,Small,2025-01-11,Active
+MER01176,Merchant 1176,Healthcare,Services,Mumbai,Maharashtra,Large,2026-06-21,Active
+MER01177,Merchant 1177,Education,Services,Delhi 2,Delhi,Small,2025-09-17,Active
+MER01178,Merchant 1178,Food Delivery,Retail,Chennai 5,Tamil Nadu,Small,2024-03-16,Active
+MER01179,Merchant 1179,Online Services,Services,Mumbai,Maharashtra,Small,2024-12-18,Active
+MER01180,Merchant 1180,Government Services,Services,Chennai,Tamil Nadu,Medium,2025-05-05,Active
+MER01181,Merchant 1181,Food Delivery,Retail,Bengaluru 8,Karnataka,Small,2023-01-29,Inactive
+MER01182,Merchant 1182,Travel,Services,Guwahati 2,Assam,Small,2025-08-22,Active
+MER01183,Merchant 1183,Restaurants,Retail,Chennai 3,Tamil Nadu,Small,2024-03-01,Active
+MER01184,Merchant 1184,Retail,Retail,Indore 8,Madhya Pradesh,Medium,2025-04-07,Active
+MER01185,Merchant 1185,Restaurants,Retail,Nagpur 6,Maharashtra,Small,2024-02-27,Active
+MER01186,Merchant 1186,Grocery,Retail,Patna 4,Bihar,Medium,2024-03-31,Active
+MER01187,Merchant 1187,Online Services,Services,Pune 3,Maharashtra,Medium,2024-10-09,Active
+MER01188,Merchant 1188,Travel,Services,Bhubaneswar,Odisha,Small,2023-04-16,Active
+MER01189,Merchant 1189,Travel,Services,Kochi 7,Kerala,Medium,2023-05-29,Active
+MER01190,Merchant 1190,Retail,Retail,Hyderabad 9,Telangana,Small,2024-11-26,Active
+MER01191,Merchant 1191,Education,Services,Jaipur 6,Rajasthan,Medium,2025-02-15,Active
+MER01192,Merchant 1192,Education,Services,Delhi 4,Delhi,Large,2023-03-19,Active
+MER01193,Merchant 1193,Online Services,Services,Mysuru 3,Karnataka,Small,2025-06-15,Active
+MER01194,Merchant 1194,Food Delivery,Retail,Ahmedabad 9,Gujarat,Medium,2025-04-02,Active
+MER01195,Merchant 1195,Restaurants,Retail,Kochi 9,Kerala,Large,2025-09-25,Active
+MER01196,Merchant 1196,Fuel,Retail,Mumbai 6,Maharashtra,Small,2023-04-01,Active
+MER01197,Merchant 1197,Retail,Retail,Chennai,Tamil Nadu,Medium,2024-01-30,Active
+MER01198,Merchant 1198,Retail,Retail,Surat 2,Gujarat,Medium,2023-11-18,Active
+MER01199,Merchant 1199,Utilities,Services,Guwahati 3,Assam,Small,2024-03-19,Active
+MER01200,Merchant 1200,Entertainment,Services,Chennai 4,Tamil Nadu,Small,2023-01-31,Active
+MER01201,Merchant 1201,Entertainment,Services,Mysuru 5,Karnataka,Small,2026-04-16,Active
+MER01202,Merchant 1202,Food Delivery,Retail,Guwahati,Assam,Medium,2025-09-10,Active
+MER01203,Merchant 1203,Utilities,Services,Delhi 2,Delhi,Small,2025-06-17,Active
+MER01204,Merchant 1204,Restaurants,Retail,Bhubaneswar 5,Odisha,Small,2025-08-11,Active
+MER01205,Merchant 1205,Food Delivery,Retail,Lucknow 8,Uttar Pradesh,Large,2025-12-27,Active
+MER01206,Merchant 1206,Fuel,Retail,Ahmedabad 8,Gujarat,Small,2024-06-25,Active
+MER01207,Merchant 1207,Online Services,Services,Lucknow 9,Uttar Pradesh,Small,2025-12-26,Active
+MER01208,Merchant 1208,Food Delivery,Retail,Lucknow 3,Uttar Pradesh,Small,2023-07-05,Active
+MER01209,Merchant 1209,Grocery,Retail,Surat 7,Gujarat,Small,2023-03-18,Active
+MER01210,Merchant 1210,Utilities,Services,Chandigarh 5,Chandigarh,Medium,2023-06-30,Active
+MER01211,Merchant 1211,Travel,Services,Jaipur 2,Rajasthan,Small,2024-06-09,Active
+MER01212,Merchant 1212,Government Services,Services,Surat 4,Gujarat,Small,2023-05-18,Active
+MER01213,Merchant 1213,Education,Services,Nagpur 3,Maharashtra,Small,2024-12-03,Active
+MER01214,Merchant 1214,Grocery,Retail,Coimbatore 9,Tamil Nadu,Small,2024-07-26,Active
+MER01215,Merchant 1215,Fuel,Retail,Nagpur 3,Maharashtra,Small,2023-06-23,Active
+MER01216,Merchant 1216,Education,Services,Chennai 5,Tamil Nadu,Small,2023-10-20,Active
+MER01217,Merchant 1217,Retail,Retail,Guwahati,Assam,Medium,2025-02-27,Active
+MER01218,Merchant 1218,Restaurants,Retail,Nashik 8,Maharashtra,Small,2023-07-26,Active
+MER01219,Merchant 1219,Travel,Services,Patna 7,Bihar,Small,2023-09-11,Active
+MER01220,Merchant 1220,Travel,Services,Surat 6,Gujarat,Large,2025-03-02,Active
+MER01221,Merchant 1221,Food Delivery,Retail,Nagpur 3,Maharashtra,Small,2025-08-26,Inactive
+MER01222,Merchant 1222,Fuel,Retail,Jaipur 6,Rajasthan,Small,2024-02-28,Active
+MER01223,Merchant 1223,Education,Services,Surat 9,Gujarat,Medium,2026-03-04,Active
+MER01224,Merchant 1224,Healthcare,Services,Kochi 7,Kerala,Small,2024-07-11,Active
+MER01225,Merchant 1225,Retail,Retail,Coimbatore,Tamil Nadu,Small,2024-01-05,Active
+MER01226,Merchant 1226,Food Delivery,Retail,Coimbatore 8,Tamil Nadu,Medium,2023-05-06,Active
+MER01227,Merchant 1227,Retail,Retail,Surat 2,Gujarat,Small,2024-12-25,Active
+MER01228,Merchant 1228,Education,Services,Chandigarh 8,Chandigarh,Small,2026-01-02,Active
+MER01229,Merchant 1229,Retail,Retail,Bengaluru 5,Karnataka,Small,2023-03-28,Active
+MER01230,Merchant 1230,Fuel,Retail,Delhi 7,Delhi,Small,2023-08-29,Active
+MER01231,Merchant 1231,Restaurants,Retail,Nashik 3,Maharashtra,Enterprise,2026-06-27,Active
+MER01232,Merchant 1232,Fuel,Retail,Mysuru 3,Karnataka,Small,2024-12-10,Active
+MER01233,Merchant 1233,Education,Services,Mysuru 5,Karnataka,Small,2023-01-22,Inactive
+MER01234,Merchant 1234,Education,Services,Kochi 9,Kerala,Small,2023-01-28,Inactive
+MER01235,Merchant 1235,Utilities,Services,Delhi 8,Delhi,Medium,2023-01-19,Active
+MER01236,Merchant 1236,Online Services,Services,Bengaluru 3,Karnataka,Small,2026-02-10,Active
+MER01237,Merchant 1237,Healthcare,Services,Bengaluru 3,Karnataka,Medium,2026-04-14,Active
+MER01238,Merchant 1238,Grocery,Retail,Mumbai 7,Maharashtra,Large,2023-07-26,Active
+MER01239,Merchant 1239,Grocery,Retail,Bhubaneswar 5,Odisha,Small,2025-07-16,Active
+MER01240,Merchant 1240,Grocery,Retail,Chennai 6,Tamil Nadu,Small,2024-10-23,Active
+MER01241,Merchant 1241,Online Services,Services,Bhopal 3,Madhya Pradesh,Enterprise,2023-10-29,Active
+MER01242,Merchant 1242,Government Services,Services,Coimbatore 8,Tamil Nadu,Large,2025-05-02,Active
+MER01243,Merchant 1243,Grocery,Retail,Delhi 8,Delhi,Small,2024-12-23,Active
+MER01244,Merchant 1244,Healthcare,Services,Nashik 6,Maharashtra,Large,2024-05-25,Active
+MER01245,Merchant 1245,Retail,Retail,Hyderabad,Telangana,Medium,2024-10-14,Active
+MER01246,Merchant 1246,Restaurants,Retail,Coimbatore 3,Tamil Nadu,Small,2023-10-05,Active
+MER01247,Merchant 1247,Retail,Retail,Nashik,Maharashtra,Large,2023-05-18,Active
+MER01248,Merchant 1248,Food Delivery,Retail,Nashik 3,Maharashtra,Medium,2024-01-01,Active
+MER01249,Merchant 1249,Food Delivery,Retail,Hyderabad 3,Telangana,Medium,2024-05-19,Active
+MER01250,Merchant 1250,Entertainment,Services,Hyderabad 2,Telangana,Small,2025-12-03,Active
+MER01251,Merchant 1251,Grocery,Retail,Patna 6,Bihar,Medium,2023-10-07,Active
+MER01252,Merchant 1252,Healthcare,Services,Mysuru 8,Karnataka,Small,2024-03-21,Active
+MER01253,Merchant 1253,Online Services,Services,Bengaluru 2,Karnataka,Medium,2025-12-31,Active
+MER01254,Merchant 1254,Restaurants,Retail,Patna 9,Bihar,Small,2024-03-31,Inactive
+MER01255,Merchant 1255,Education,Services,Nagpur 6,Maharashtra,Small,2023-04-23,Active
+MER01256,Merchant 1256,Fuel,Retail,Bhopal 7,Madhya Pradesh,Medium,2024-03-08,Active
+MER01257,Merchant 1257,Restaurants,Retail,Guwahati 3,Assam,Small,2023-08-19,Active
+MER01258,Merchant 1258,Fuel,Retail,Bengaluru 5,Karnataka,Large,2024-07-15,Active
+MER01259,Merchant 1259,Restaurants,Retail,Kolkata 6,West Bengal,Small,2025-07-03,Active
+MER01260,Merchant 1260,Food Delivery,Retail,Ahmedabad 4,Gujarat,Medium,2023-08-22,Active
+MER01261,Merchant 1261,Restaurants,Retail,Ahmedabad 5,Gujarat,Small,2024-07-23,Active
+MER01262,Merchant 1262,Retail,Retail,Kolkata 3,West Bengal,Medium,2025-01-10,Inactive
+MER01263,Merchant 1263,Online Services,Services,Kolkata 8,West Bengal,Medium,2023-03-13,Active
+MER01264,Merchant 1264,Online Services,Services,Bengaluru 6,Karnataka,Large,2025-05-13,Active
+MER01265,Merchant 1265,Retail,Retail,Mumbai 5,Maharashtra,Large,2025-06-26,Active
+MER01266,Merchant 1266,Fuel,Retail,Chennai 4,Tamil Nadu,Small,2026-01-14,Active
+MER01267,Merchant 1267,Restaurants,Retail,Mumbai 3,Maharashtra,Medium,2026-04-11,Active
+MER01268,Merchant 1268,Utilities,Services,Delhi 2,Delhi,Medium,2023-01-26,Active
+MER01269,Merchant 1269,Government Services,Services,Hyderabad 2,Telangana,Medium,2024-08-15,Active
+MER01270,Merchant 1270,Grocery,Retail,Nagpur 4,Maharashtra,Large,2025-05-23,Active
+MER01271,Merchant 1271,Utilities,Services,Patna 9,Bihar,Large,2023-03-23,Inactive
+MER01272,Merchant 1272,Grocery,Retail,Mysuru 7,Karnataka,Medium,2025-05-01,Active
+MER01273,Merchant 1273,Fuel,Retail,Pune 4,Maharashtra,Medium,2024-01-07,Active
+MER01274,Merchant 1274,Retail,Retail,Surat 8,Gujarat,Medium,2025-07-05,Active
+MER01275,Merchant 1275,Fuel,Retail,Nashik 6,Maharashtra,Large,2026-06-23,Active
+MER01276,Merchant 1276,Retail,Retail,Pune 2,Maharashtra,Small,2023-11-14,Inactive
+MER01277,Merchant 1277,Healthcare,Services,Bengaluru 3,Karnataka,Medium,2025-01-16,Active
+MER01278,Merchant 1278,Restaurants,Retail,Bhubaneswar 9,Odisha,Large,2023-01-30,Active
+MER01279,Merchant 1279,Retail,Retail,Indore 9,Madhya Pradesh,Small,2023-03-02,Inactive
+MER01280,Merchant 1280,Grocery,Retail,Kochi,Kerala,Small,2024-07-20,Active
+MER01281,Merchant 1281,Utilities,Services,Indore 7,Madhya Pradesh,Small,2023-09-17,Active
+MER01282,Merchant 1282,Travel,Services,Kolkata 5,West Bengal,Small,2025-02-21,Active
+MER01283,Merchant 1283,Online Services,Services,Bhopal 7,Madhya Pradesh,Large,2024-09-15,Active
+MER01284,Merchant 1284,Grocery,Retail,Hyderabad 6,Telangana,Small,2026-05-07,Active
+MER01285,Merchant 1285,Utilities,Services,Bhubaneswar 6,Odisha,Medium,2023-04-06,Active
+MER01286,Merchant 1286,Fuel,Retail,Bhubaneswar 8,Odisha,Large,2023-11-15,Inactive
+MER01287,Merchant 1287,Healthcare,Services,Mumbai 3,Maharashtra,Large,2025-04-24,Active
+MER01288,Merchant 1288,Healthcare,Services,Chennai 9,Tamil Nadu,Small,2026-03-14,Active
+MER01289,Merchant 1289,Healthcare,Services,Mumbai 3,Maharashtra,Small,2025-03-31,Active
+MER01290,Merchant 1290,Education,Services,Kochi 6,Kerala,Small,2026-04-06,Active
+MER01291,Merchant 1291,Grocery,Retail,Bhubaneswar,Odisha,Small,2025-01-11,Active
+MER01292,Merchant 1292,Food Delivery,Retail,Bengaluru 3,Karnataka,Small,2023-03-11,Active
+MER01293,Merchant 1293,Food Delivery,Retail,Chandigarh 7,Chandigarh,Small,2026-02-24,Active
+MER01294,Merchant 1294,Grocery,Retail,Chennai 5,Tamil Nadu,Small,2024-05-21,Active
+MER01295,Merchant 1295,Utilities,Services,Ahmedabad 5,Gujarat,Small,2025-12-09,Active
+MER01296,Merchant 1296,Grocery,Retail,Bengaluru 2,Karnataka,Small,2025-04-15,Active
+MER01297,Merchant 1297,Utilities,Services,Bhopal 4,Madhya Pradesh,Large,2025-12-31,Active
+MER01298,Merchant 1298,Retail,Retail,Coimbatore 4,Tamil Nadu,Medium,2025-01-27,Active
+MER01299,Merchant 1299,Fuel,Retail,Lucknow 9,Uttar Pradesh,Medium,2026-06-20,Active
+MER01300,Merchant 1300,Retail,Retail,Mysuru 8,Karnataka,Medium,2025-08-26,Active
+MER01301,Merchant 1301,Travel,Services,Pune 4,Maharashtra,Small,2026-02-05,Active
+MER01302,Merchant 1302,Retail,Retail,Ahmedabad,Gujarat,Medium,2024-06-03,Active
+MER01303,Merchant 1303,Education,Services,Surat 6,Gujarat,Small,2024-03-16,Active
+MER01304,Merchant 1304,Utilities,Services,Kochi 6,Kerala,Small,2026-05-13,Active
+MER01305,Merchant 1305,Grocery,Retail,Mysuru 4,Karnataka,Small,2023-10-08,Active
+MER01306,Merchant 1306,Healthcare,Services,Bhubaneswar 7,Odisha,Small,2025-11-07,Active
+MER01307,Merchant 1307,Retail,Retail,Hyderabad 6,Telangana,Small,2026-01-01,Active
+MER01308,Merchant 1308,Retail,Retail,Indore 7,Madhya Pradesh,Large,2026-05-06,Active
+MER01309,Merchant 1309,Restaurants,Retail,Jaipur 9,Rajasthan,Medium,2026-01-31,Active
+MER01310,Merchant 1310,Grocery,Retail,Patna 6,Bihar,Small,2023-08-06,Active
+MER01311,Merchant 1311,Grocery,Retail,Delhi 4,Delhi,Medium,2025-11-25,Active
+MER01312,Merchant 1312,Healthcare,Services,Jaipur 8,Rajasthan,Medium,2026-05-11,Active
+MER01313,Merchant 1313,Fuel,Retail,Chennai 2,Tamil Nadu,Small,2024-10-19,Active
+MER01314,Merchant 1314,Retail,Retail,Bengaluru 6,Karnataka,Medium,2023-01-15,Active
+MER01315,Merchant 1315,,Services,Ahmedabad,Gujarat,Large,2025-02-06,Active
+MER01316,Merchant 1316,Healthcare,Services,Guwahati 8,Assam,Medium,2025-09-16,Active
+MER01317,Merchant 1317,Food Delivery,Retail,Ahmedabad 6,Gujarat,Medium,2025-09-27,Active
+MER01318,Merchant 1318,Retail,Retail,Bengaluru 4,Karnataka,Large,2023-12-11,Active
+MER01319,Merchant 1319,Retail,Retail,Bengaluru 3,Karnataka,Medium,2023-09-29,Active
+MER01320,Merchant 1320,Healthcare,Services,Lucknow 4,Uttar Pradesh,Enterprise,2023-03-17,Active
+MER01321,Merchant 1321,Utilities,Services,Nagpur 8,Maharashtra,Small,2023-01-14,Active
+MER01322,Merchant 1322,Restaurants,Retail,Nagpur 9,Maharashtra,Large,2023-02-27,Active
+MER01323,Merchant 1323,Healthcare,Services,Hyderabad 3,Telangana,Medium,2024-12-17,Active
+MER01324,Merchant 1324,Grocery,Retail,Chandigarh 8,Chandigarh,Small,2025-10-18,Active
+MER01325,Merchant 1325,Grocery,Retail,Lucknow 4,Uttar Pradesh,Large,2026-06-08,Active
+MER01326,Merchant 1326,Grocery,Retail,Guwahati 5,Assam,Enterprise,2024-04-28,Active
+MER01327,Merchant 1327,Education,Services,Kochi 4,Kerala,Small,2026-02-26,Active
+MER01328,Merchant 1328,Entertainment,Services,Chandigarh 7,Chandigarh,Large,2024-11-11,Active
+MER01329,Merchant 1329,Fuel,Retail,Mumbai 6,Maharashtra,Small,2025-03-05,Active
+MER01330,Merchant 1330,Grocery,Retail,Nagpur 5,Maharashtra,Small,2023-07-24,Active
+MER01331,Merchant 1331,Entertainment,Services,Kochi 9,Kerala,Small,2023-03-03,Active
+MER01332,Merchant 1332,Restaurants,Retail,Ahmedabad 6,Gujarat,Large,2025-09-03,Active
+MER01333,Merchant 1333,Entertainment,Services,Kolkata 2,West Bengal,Medium,2025-07-12,Active
+MER01334,Merchant 1334,Grocery,Retail,Delhi 9,Delhi,Small,2024-02-08,Active
+MER01335,Merchant 1335,Fuel,Retail,Chandigarh 9,Chandigarh,Medium,2023-02-24,Active
+MER01336,Merchant 1336,Retail,Retail,Patna 7,Bihar,Small,2023-11-03,Inactive
+MER01337,Merchant 1337,Food Delivery,Retail,Chennai,Tamil Nadu,Medium,2024-09-20,Active
+MER01338,Merchant 1338,Utilities,Services,Kochi 6,Kerala,Small,2025-12-28,Active
+MER01339,Merchant 1339,Education,Services,Ahmedabad 9,Gujarat,Small,2023-07-20,Active
+MER01340,Merchant 1340,Entertainment,Services,Nagpur 9,Maharashtra,Medium,2023-04-07,Active
+MER01341,Merchant 1341,Retail,Retail,Kolkata 4,West Bengal,Medium,2024-02-22,Active
+MER01342,Merchant 1342,Food Delivery,Retail,Surat 8,Gujarat,Medium,2025-01-19,Active
+MER01343,Merchant 1343,Utilities,Services,Mysuru 3,Karnataka,Medium,2024-02-15,Inactive
+MER01344,Merchant 1344,Government Services,Services,Mysuru 7,Karnataka,Small,2024-09-04,Active
+MER01345,Merchant 1345,Grocery,Retail,Guwahati 3,Assam,Medium,2024-08-31,Inactive
+MER01346,Merchant 1346,Healthcare,Services,Kochi 5,Kerala,Small,2023-10-21,Active
+MER01347,Merchant 1347,Restaurants,Retail,Indore,Madhya Pradesh,Small,2023-10-12,Active
+MER01348,Merchant 1348,Retail,Retail,Jaipur 8,Rajasthan,Medium,2025-03-13,Active
+MER01349,Merchant 1349,Retail,Retail,Hyderabad,Telangana,Medium,2023-10-08,Active
+MER01350,Merchant 1350,Restaurants,Retail,Kolkata 3,West Bengal,Large,2024-08-27,Active
+MER01351,Merchant 1351,Education,Services,Surat 2,Gujarat,Medium,2025-05-27,Active
+MER01352,Merchant 1352,Retail,Retail,Ahmedabad,Gujarat,Large,2023-07-13,Active
+MER01353,Merchant 1353,Retail,Retail,Nashik 6,Maharashtra,Medium,2024-12-01,Active
+MER01354,Merchant 1354,Grocery,Retail,Lucknow 9,Uttar Pradesh,Small,2025-06-29,Active
+MER01355,Merchant 1355,Online Services,Services,Lucknow,Uttar Pradesh,Small,2026-02-25,Active
+MER01356,Merchant 1356,Grocery,Retail,Surat 8,Gujarat,Medium,2024-07-10,Active
+MER01357,Merchant 1357,Government Services,Services,Lucknow 4,Uttar Pradesh,Medium,2024-11-28,Active
+MER01358,Merchant 1358,Fuel,Retail,Patna 2,Bihar,Small,2023-02-12,Active
+MER01359,Merchant 1359,Fuel,Retail,Coimbatore 8,Tamil Nadu,Small,2023-01-14,Active
+MER01360,Merchant 1360,Education,Services,Kochi 4,Kerala,Small,2026-01-02,Active
+MER01361,Merchant 1361,Entertainment,Services,Kolkata 5,West Bengal,Small,2023-01-19,Active
+MER01362,Merchant 1362,Restaurants,Retail,Ahmedabad 7,Gujarat,Small,2023-02-20,Active
+MER01363,Merchant 1363,Restaurants,Retail,Lucknow 4,Uttar Pradesh,Small,2023-10-31,Active
+MER01364,Merchant 1364,Online Services,Services,Bhubaneswar 8,Odisha,Large,2024-12-10,Active
+MER01365,Merchant 1365,Food Delivery,Retail,Nagpur 7,Maharashtra,Large,2023-10-18,Active
+MER01366,Merchant 1366,Restaurants,Retail,Mysuru 5,Karnataka,Large,2026-05-06,Active
+MER01367,Merchant 1367,Retail,Retail,Guwahati 2,Assam,Medium,2023-12-21,Active
+MER01368,Merchant 1368,Restaurants,Retail,Bhubaneswar 8,Odisha,Medium,2026-06-13,Active
+MER01369,Merchant 1369,Retail,Retail,Surat,Gujarat,Large,2023-09-24,Active
+MER01370,Merchant 1370,Healthcare,Services,Kochi 7,Kerala,Small,2026-06-28,Active
+MER01371,Merchant 1371,Healthcare,Services,Bhubaneswar 9,Odisha,Small,2025-07-12,Active
+MER01372,Merchant 1372,Retail,Retail,Nashik,Maharashtra,Small,2023-03-30,Active
+MER01373,Merchant 1373,Restaurants,Retail,Bhopal 3,Madhya Pradesh,Medium,2026-01-11,Active
+MER01374,Merchant 1374,Healthcare,Services,Ahmedabad,Gujarat,Small,2024-04-04,Active
+MER01375,Merchant 1375,Online Services,Services,Hyderabad 8,Telangana,Small,2025-04-24,Active
+MER01376,Merchant 1376,Utilities,Services,Lucknow 5,Uttar Pradesh,Medium,2023-07-06,Active
+MER01377,Merchant 1377,Healthcare,Services,Guwahati 7,Assam,Medium,2024-05-05,Active
+MER01378,Merchant 1378,Restaurants,Retail,Nashik 8,Maharashtra,Small,2023-05-19,Active
+MER01379,Merchant 1379,Retail,Retail,Bhopal 6,Madhya Pradesh,Medium,2023-10-03,Active
+MER01380,Merchant 1380,Utilities,Services,Ahmedabad 6,Gujarat,Medium,2024-09-02,Active
+MER01381,Merchant 1381,Food Delivery,Retail,Jaipur 7,Rajasthan,Small,2026-04-05,Active
+MER01382,Merchant 1382,Retail,Retail,Bengaluru,Karnataka,Small,2024-03-22,Active
+MER01383,Merchant 1383,Travel,Services,Guwahati 5,Assam,Small,2025-10-26,Active
+MER01384,Merchant 1384,Entertainment,Services,Mumbai 6,Maharashtra,Large,2023-12-21,Active
+MER01385,Merchant 1385,Restaurants,Retail,Indore 4,Madhya Pradesh,Medium,2025-03-06,Active
+MER01386,Merchant 1386,Food Delivery,Retail,Chandigarh 7,Chandigarh,Small,2025-08-04,Active
+MER01387,Merchant 1387,Grocery,Retail,Lucknow,Uttar Pradesh,Small,2025-12-12,Active
+MER01388,Merchant 1388,Retail,Retail,Nashik 9,Maharashtra,Small,2026-02-13,Active
+MER01389,Merchant 1389,Retail,Retail,Mysuru 6,Karnataka,Small,2025-09-27,Active
+MER01390,Merchant 1390,Fuel,Retail,Pune 8,Maharashtra,Small,2025-12-24,Active
+MER01391,Merchant 1391,Grocery,Retail,Chandigarh 9,Chandigarh,Small,2026-05-16,Active
+MER01392,Merchant 1392,Entertainment,Services,Mumbai 4,Maharashtra,Small,2023-04-19,Active
+MER01393,Merchant 1393,Grocery,Retail,Indore 6,Madhya Pradesh,Small,2023-06-05,Active
+MER01394,Merchant 1394,Restaurants,Retail,Chennai 9,Tamil Nadu,Small,2025-10-09,Active
+MER01395,Merchant 1395,Retail,Retail,Hyderabad 3,Telangana,Large,2024-08-06,Active
+MER01396,Merchant 1396,Online Services,Services,Mysuru 7,Karnataka,Small,2025-08-21,Active
+MER01397,Merchant 1397,Grocery,Retail,Chandigarh 9,Chandigarh,Small,2025-01-30,Active
+MER01398,Merchant 1398,Retail,Retail,Delhi 3,Delhi,Large,2026-02-07,Active
+MER01399,Merchant 1399,Fuel,Retail,Jaipur 2,Rajasthan,Small,2023-01-30,Inactive
+MER01400,Merchant 1400,Retail,Retail,Nashik 7,Maharashtra,Small,2025-10-11,Active
+MER01401,Merchant 1401,Online Services,Services,Chennai,Tamil Nadu,Small,2023-12-24,Active
+MER01402,Merchant 1402,Fuel,Retail,Chennai 8,Tamil Nadu,Small,2024-08-19,Active
+MER01403,Merchant 1403,Online Services,Services,Chandigarh 6,Chandigarh,Medium,2025-04-27,Active
+MER01404,Merchant 1404,Food Delivery,Retail,Guwahati 4,Assam,Small,2025-02-14,Active
+MER01405,Merchant 1405,Retail,Retail,Chennai 8,Tamil Nadu,Small,2024-12-31,Active
+MER01406,Merchant 1406,Utilities,Services,Bengaluru 7,Karnataka,Enterprise,2026-02-25,Active
+MER01407,Merchant 1407,Food Delivery,Retail,Coimbatore 6,Tamil Nadu,Small,2023-10-16,Active
+MER01408,Merchant 1408,Utilities,Services,Pune 7,Maharashtra,Medium,2026-01-04,Active
+MER01409,Merchant 1409,Fuel,Retail,Indore 7,Madhya Pradesh,Large,2023-10-26,Active
+MER01410,Merchant 1410,Food Delivery,Retail,Mumbai,Maharashtra,Large,2025-01-15,Active
+MER01411,Merchant 1411,Fuel,Retail,Chennai,Tamil Nadu,Small,2024-04-15,Active
+MER01412,Merchant 1412,Food Delivery,Retail,Lucknow 6,Uttar Pradesh,Enterprise,2025-01-19,Active
+MER01413,Merchant 1413,Restaurants,Retail,Coimbatore 6,Tamil Nadu,Medium,2024-05-08,Active
+MER01414,Merchant 1414,Retail,Retail,Hyderabad 4,Telangana,Medium,2023-04-25,Active
+MER01415,Merchant 1415,Entertainment,Services,Bengaluru 2,Karnataka,Medium,2023-06-13,Active
+MER01416,Merchant 1416,Education,Services,Pune 3,Maharashtra,Small,2025-03-03,Active
+MER01417,Merchant 1417,Utilities,Services,Coimbatore 2,Tamil Nadu,Small,2023-08-01,Active
+MER01418,Merchant 1418,Online Services,Services,Ahmedabad 8,Gujarat,Medium,2023-10-20,Active
+MER01419,Merchant 1419,Restaurants,Retail,Chandigarh 5,Chandigarh,Small,2026-02-18,Active
+MER01420,Merchant 1420,Grocery,Retail,Bhubaneswar 5,Odisha,Medium,2024-01-31,Active
+MER01421,Merchant 1421,Retail,Retail,Chennai 6,Tamil Nadu,Small,2024-02-26,Active
+MER01422,Merchant 1422,Retail,Retail,Surat,Gujarat,Medium,2026-01-08,Active
+MER01423,Merchant 1423,Healthcare,Services,Nagpur 8,Maharashtra,Small,2023-10-09,Inactive
+MER01424,Merchant 1424,Utilities,Services,Ahmedabad 8,Gujarat,Small,2024-07-22,Active
+MER01425,Merchant 1425,Food Delivery,Retail,Kochi 7,Kerala,Medium,2025-06-28,Active
+MER01426,Merchant 1426,Fuel,Retail,Coimbatore 6,Tamil Nadu,Small,2024-03-15,Active
+MER01427,Merchant 1427,Entertainment,Services,Chandigarh 5,Chandigarh,Medium,2023-11-22,Active
+MER01428,Merchant 1428,Retail,Retail,Guwahati 6,Assam,Medium,2023-10-24,Inactive
+MER01429,Merchant 1429,Healthcare,Services,Ahmedabad 5,Gujarat,Small,2023-02-20,Active
+MER01430,Merchant 1430,Online Services,Services,Bhubaneswar 6,Odisha,Small,2024-04-12,Active
+MER01431,Merchant 1431,Healthcare,Services,Nashik 7,Maharashtra,Small,2024-05-15,Active
+MER01432,Merchant 1432,Retail,Retail,Chandigarh 5,Chandigarh,Medium,2025-05-24,Active
+MER01433,Merchant 1433,Healthcare,Services,Indore 3,Madhya Pradesh,Large,2024-06-07,Active
+MER01434,Merchant 1434,Grocery,Retail,Patna 5,Bihar,Small,2023-04-07,Active
+MER01435,Merchant 1435,Grocery,Retail,Lucknow 2,Uttar Pradesh,Small,2025-08-02,Active
+MER01436,Merchant 1436,Restaurants,Retail,Indore 4,Madhya Pradesh,Small,2025-02-07,Active
+MER01437,Merchant 1437,Food Delivery,Retail,Nashik 8,Maharashtra,Small,2024-10-20,Active
+MER01438,Merchant 1438,Education,Services,Bhopal 7,Madhya Pradesh,Enterprise,2024-03-17,Active
+MER01439,Merchant 1439,Retail,Retail,Kolkata 8,West Bengal,Small,2023-12-09,Active
+MER01440,Merchant 1440,Online Services,Services,Bengaluru 7,Karnataka,Small,2026-06-14,Active
+MER01441,Merchant 1441,Restaurants,Retail,Delhi 4,Delhi,Medium,2024-08-06,Active
+MER01442,Merchant 1442,Food Delivery,Retail,Delhi 9,Delhi,Medium,2026-06-03,Active
+MER01443,Merchant 1443,Healthcare,Services,Bhopal 5,Madhya Pradesh,Small,2023-05-06,Active
+MER01444,Merchant 1444,Fuel,Retail,Guwahati 5,Assam,Small,2025-06-22,Active
+MER01445,Merchant 1445,Retail,Retail,Chandigarh 2,Chandigarh,Medium,2024-06-22,Active
+MER01446,Merchant 1446,Online Services,Services,Guwahati 8,Assam,Medium,2023-12-19,Active
+MER01447,Merchant 1447,Healthcare,Services,Guwahati 7,Assam,Small,2025-03-21,Inactive
+MER01448,Merchant 1448,Utilities,Services,Bhubaneswar 6,Odisha,Small,2025-05-26,Active
+MER01449,Merchant 1449,Grocery,Retail,Indore 5,Madhya Pradesh,Large,2023-02-09,Active
+MER01450,Merchant 1450,Retail,Retail,Pune 2,Maharashtra,Small,2024-03-26,Active
+MER01451,Merchant 1451,Retail,Retail,Chandigarh 4,Chandigarh,Small,2024-12-13,Active
+MER01452,Merchant 1452,Retail,Retail,Bengaluru 4,Karnataka,Medium,2023-07-21,Active
+MER01453,Merchant 1453,Online Services,Services,Mysuru 5,Karnataka,Medium,2024-06-24,Active
+MER01454,Merchant 1454,Online Services,Services,Mysuru 7,Karnataka,Medium,2026-06-24,Active
+MER01455,Merchant 1455,Healthcare,Services,Kolkata 5,West Bengal,Medium,2026-02-14,Active
+MER01456,Merchant 1456,Education,Services,Delhi 7,Delhi,Large,2024-01-17,Active
+MER01457,Merchant 1457,Utilities,Services,Ahmedabad 9,Gujarat,Small,2023-08-30,Active
+MER01458,Merchant 1458,Food Delivery,Retail,Jaipur,Rajasthan,Medium,2023-09-04,Active
+MER01459,Merchant 1459,Healthcare,Services,Indore 7,Madhya Pradesh,Medium,2025-08-20,Active
+MER01460,Merchant 1460,Healthcare,Services,Delhi,Delhi,Medium,2023-04-06,Active
+MER01461,Merchant 1461,Food Delivery,Retail,Lucknow 2,Uttar Pradesh,Large,2023-04-16,Active
+MER01462,Merchant 1462,Healthcare,Services,Coimbatore,Tamil Nadu,Medium,2023-08-09,Active
+MER01463,Merchant 1463,Healthcare,Services,Mysuru 6,Karnataka,Small,2026-04-13,Active
+MER01464,Merchant 1464,Grocery,Retail,Bengaluru 4,Karnataka,Large,2024-04-21,Active
+MER01465,Merchant 1465,Retail,Retail,Nagpur 7,Maharashtra,Small,2025-06-23,Active
+MER01466,Merchant 1466,Fuel,Retail,Coimbatore 7,Tamil Nadu,Small,2024-01-31,Active
+MER01467,Merchant 1467,Retail,Retail,Jaipur 6,Rajasthan,Medium,2024-06-11,Active
+MER01468,Merchant 1468,Education,Services,Kochi 5,Kerala,Small,2025-03-25,Active
+MER01469,Merchant 1469,Utilities,Services,Mysuru 6,Karnataka,Medium,2025-12-15,Active
+MER01470,Merchant 1470,Fuel,Retail,Ahmedabad,Gujarat,Small,2024-07-16,Active
+MER01471,Merchant 1471,Restaurants,Retail,Delhi,Delhi,Large,2024-05-01,Active
+MER01472,Merchant 1472,Entertainment,Services,Bhopal,Madhya Pradesh,Medium,2023-03-07,Active
+MER01473,Merchant 1473,Healthcare,Services,Surat 2,Gujarat,Small,2025-09-28,Active
+MER01474,Merchant 1474,Retail,Retail,Ahmedabad 6,Gujarat,Small,2023-03-12,Active
+MER01475,Merchant 1475,Online Services,Services,Nashik 9,Maharashtra,Small,2025-06-22,Active
+MER01476,Merchant 1476,Travel,Services,Delhi 8,Delhi,Medium,2024-06-01,Active
+MER01477,Merchant 1477,,Retail,Delhi 6,Delhi,Small,2024-09-23,Active
+MER01478,Merchant 1478,Education,Services,Indore,Madhya Pradesh,Small,2025-10-19,Active
+MER01479,Merchant 1479,Education,Services,Chandigarh 9,Chandigarh,Small,2024-07-24,Active
+MER01480,Merchant 1480,Utilities,Services,Kolkata,West Bengal,Large,2023-08-25,Active
+MER01481,Merchant 1481,Restaurants,Retail,Guwahati 9,Assam,Small,2026-03-25,Active
+MER01482,Merchant 1482,Healthcare,Services,Guwahati 5,Assam,Medium,2026-03-07,Active
+MER01483,Merchant 1483,Grocery,Retail,Nagpur 2,Maharashtra,Small,2023-06-22,Active
+MER01484,Merchant 1484,Entertainment,Services,Mysuru 4,Karnataka,Small,2025-05-12,Active
+MER01485,Merchant 1485,Utilities,Services,Patna,Bihar,Small,2024-12-05,Active
+MER01486,Merchant 1486,Education,Services,Surat 6,Gujarat,Medium,2023-06-27,Active
+MER01487,Merchant 1487,Retail,Retail,Hyderabad,Telangana,Enterprise,2024-02-20,Active
+MER01488,Merchant 1488,Utilities,Services,Coimbatore 2,Tamil Nadu,Small,2025-08-14,Active
+MER01489,Merchant 1489,Fuel,Retail,Coimbatore,Tamil Nadu,Medium,2023-05-24,Active
+MER01490,Merchant 1490,Retail,Retail,Ahmedabad 6,Gujarat,Small,2024-03-25,Active
+MER01491,Merchant 1491,Online Services,Services,Guwahati 2,Assam,Small,2025-04-09,Active
+MER01492,Merchant 1492,Retail,Retail,Ahmedabad 5,Gujarat,Small,2025-01-15,Active
+MER01493,Merchant 1493,Grocery,Retail,Ahmedabad 5,Gujarat,Small,2023-11-18,Active
+MER01494,Merchant 1494,,Retail,Nashik 6,Maharashtra,Small,2025-08-20,Active
+MER01495,Merchant 1495,Travel,Services,Kochi 4,Kerala,Large,2025-02-10,Active
+MER01496,Merchant 1496,Grocery,Retail,Hyderabad 9,Telangana,Small,2023-05-26,Active
+MER01497,Merchant 1497,,Retail,Pune,Maharashtra,Large,2025-09-04,Active
+MER01498,Merchant 1498,Retail,Retail,Kochi,Kerala,Small,2023-06-23,Active
+MER01499,Merchant 1499,,Retail,Bhopal 4,Madhya Pradesh,Small,2025-01-27,Active
+MER01500,Merchant 1500,Travel,Services,Indore 3,Madhya Pradesh,Small,2025-03-24,Active
+MER01501,Merchant 1501,Entertainment,Services,Coimbatore 4,Tamil Nadu,Medium,2026-03-27,Active
+MER01502,Merchant 1502,Restaurants,Retail,Coimbatore 4,Tamil Nadu,Medium,2024-12-04,Active
+MER01503,Merchant 1503,Grocery,Retail,Pune 4,Maharashtra,Medium,2024-02-05,Active
+MER01504,Merchant 1504,Restaurants,Retail,Kolkata,West Bengal,Small,2026-03-02,Active
+MER01505,Merchant 1505,Grocery,Retail,Ahmedabad 9,Gujarat,Small,2025-10-25,Inactive
+MER01506,Merchant 1506,Education,Services,Lucknow 7,Uttar Pradesh,Large,2023-03-16,Active
+MER01507,Merchant 1507,Education,Services,Kochi 6,Kerala,Enterprise,2024-04-06,Active
+MER01508,Merchant 1508,Retail,Retail,Patna 6,Bihar,Medium,2024-09-23,Active
+MER01509,Merchant 1509,Restaurants,Retail,Mysuru 3,Karnataka,Medium,2025-02-12,Active
+MER01510,Merchant 1510,Restaurants,Retail,Kolkata,West Bengal,Medium,2024-03-24,Active
+MER01511,Merchant 1511,Utilities,Services,Coimbatore 9,Tamil Nadu,Medium,2024-06-08,Active
+MER01512,Merchant 1512,Retail,Retail,Mumbai 10,Maharashtra,Medium,2025-07-09,Active
+MER01513,Merchant 1513,,Retail,Bhubaneswar 3,Odisha,Enterprise,2024-11-26,Active
+MER01514,Merchant 1514,Food Delivery,Retail,Bengaluru 8,Karnataka,Medium,2023-03-09,Active
+MER01515,Merchant 1515,Retail,Retail,Nashik 4,Maharashtra,Medium,2024-11-29,Active
+MER01516,Merchant 1516,Restaurants,Retail,Mysuru 3,Karnataka,Small,2023-08-27,Active
+MER01517,Merchant 1517,Restaurants,Retail,Surat,Gujarat,Enterprise,2025-02-01,Active
+MER01518,Merchant 1518,Retail,Retail,Mysuru 5,Karnataka,Small,2023-04-05,Inactive
+MER01519,Merchant 1519,Retail,Retail,Delhi 5,Delhi,Large,2025-09-03,Active
+MER01520,Merchant 1520,Utilities,Services,Bhopal 3,Madhya Pradesh,Medium,2026-05-11,Active
+MER01521,Merchant 1521,Healthcare,Services,Ahmedabad 5,Gujarat,Small,2023-01-03,Active
+MER01522,Merchant 1522,Retail,Retail,Lucknow 3,Uttar Pradesh,Small,2026-05-15,Active
+MER01523,Merchant 1523,Retail,Retail,Patna 5,Bihar,Large,2024-07-22,Active
+MER01524,Merchant 1524,Retail,Retail,Guwahati,Assam,Small,2025-03-09,Active
+MER01525,Merchant 1525,,Retail,Nagpur 4,Maharashtra,Large,2023-01-03,Active
+MER01526,Merchant 1526,Healthcare,Services,Bhopal 6,Madhya Pradesh,Medium,2025-11-01,Active
+MER01527,Merchant 1527,Fuel,Retail,Pune 3,Maharashtra,Small,2025-05-09,Active
+MER01528,Merchant 1528,Government Services,Services,Jaipur 9,Rajasthan,Small,2024-09-09,Active
+MER01529,Merchant 1529,Education,Services,Mysuru 3,Karnataka,Small,2025-02-25,Active
+MER01530,Merchant 1530,Education,Services,Patna 8,Bihar,Small,2025-07-05,Active
+MER01531,Merchant 1531,Travel,Services,Lucknow 6,Uttar Pradesh,Large,2026-05-17,Active
+MER01532,Merchant 1532,Online Services,Services,Hyderabad 5,Telangana,Medium,2023-01-14,Active
+MER01533,Merchant 1533,,Retail,Ahmedabad 9,Gujarat,Small,2026-01-31,Active
+MER01534,Merchant 1534,Healthcare,Services,Jaipur 2,Rajasthan,Small,2023-11-27,Active
+MER01535,Merchant 1535,Online Services,Services,Nagpur 9,Maharashtra,Small,2024-06-24,Active
+MER01536,Merchant 1536,Online Services,Services,Bhubaneswar,Odisha,Large,2023-09-20,Active
+MER01537,Merchant 1537,Fuel,Retail,Kochi,Kerala,Medium,2023-02-18,Active
+MER01538,Merchant 1538,,Services,Delhi 3,Delhi,Small,2024-05-03,Active
+MER01539,Merchant 1539,Online Services,Services,Nashik 6,Maharashtra,Medium,2024-02-02,Active
+MER01540,Merchant 1540,Retail,Retail,Bhopal 8,Madhya Pradesh,Enterprise,2025-02-22,Active
+MER01541,Merchant 1541,Education,Services,Bhubaneswar 6,Odisha,Medium,2025-06-27,Active
+MER01542,Merchant 1542,Restaurants,Retail,Patna 2,Bihar,Small,2023-12-04,Active
+MER01543,Merchant 1543,Healthcare,Services,Hyderabad 6,Telangana,Medium,2024-04-13,Active
+MER01544,Merchant 1544,Retail,Retail,Bengaluru 6,Karnataka,Medium,2025-04-20,Active
+MER01545,Merchant 1545,Grocery,Retail,Bhopal,Madhya Pradesh,Small,2025-09-17,Active
+MER01546,Merchant 1546,Grocery,Retail,Jaipur 6,Rajasthan,Large,2023-03-02,Active
+MER01547,Merchant 1547,Grocery,Retail,Pune 6,Maharashtra,Large,2025-07-21,Active
+MER01548,Merchant 1548,Restaurants,Retail,Kochi 6,Kerala,Medium,2025-02-23,Active
+MER01549,Merchant 1549,Restaurants,Retail,Chandigarh 7,Chandigarh,Small,2025-10-19,Active
+MER01550,Merchant 1550,Food Delivery,Retail,Chennai 5,Tamil Nadu,Small,2025-03-10,Active
+MER01551,Merchant 1551,Restaurants,Retail,Surat 7,Gujarat,Large,2025-06-04,Active
+MER01552,Merchant 1552,Retail,Retail,Bhubaneswar 3,Odisha,Small,2026-06-17,Active
+MER01553,Merchant 1553,Grocery,Retail,Bhopal 3,Madhya Pradesh,Medium,2025-10-29,Inactive
+MER01554,Merchant 1554,Retail,Retail,Pune 2,Maharashtra,Small,2024-09-29,Active
+MER01555,Merchant 1555,Education,Services,Patna 2,Bihar,Small,2025-09-23,Active
+MER01556,Merchant 1556,Healthcare,Services,Bengaluru 8,Karnataka,Enterprise,2024-08-05,Active
+MER01557,Merchant 1557,Food Delivery,Retail,Mysuru 8,Karnataka,Small,2025-06-27,Active
+MER01558,Merchant 1558,Restaurants,Retail,Hyderabad 9,Telangana,Medium,2023-10-26,Active
+MER01559,Merchant 1559,Retail,Retail,Guwahati 4,Assam,Medium,2025-01-02,Active
+MER01560,Merchant 1560,Food Delivery,Retail,Delhi 4,Delhi,Enterprise,2023-11-21,Active
+MER01561,Merchant 1561,Entertainment,Services,Surat 7,Gujarat,Enterprise,2026-05-10,Active
+MER01562,Merchant 1562,Government Services,Services,Ahmedabad,Gujarat,Small,2025-09-25,Active
+MER01563,Merchant 1563,Grocery,Retail,Hyderabad 8,Telangana,Large,2024-01-18,Active
+MER01564,Merchant 1564,Food Delivery,Retail,Mysuru 6,Karnataka,Small,2025-12-06,Active
+MER01565,Merchant 1565,Retail,Retail,Chennai 2,Tamil Nadu,Medium,2025-08-14,Active
+MER01566,Merchant 1566,Grocery,Retail,Patna 7,Bihar,Medium,2026-06-06,Active
+MER01567,Merchant 1567,Education,Services,Hyderabad,Telangana,Large,2023-12-24,Inactive
+MER01568,Merchant 1568,Utilities,Services,Mysuru 4,Karnataka,Small,2023-12-06,Active
+MER01569,Merchant 1569,Restaurants,Retail,Mysuru 6,Karnataka,Small,2025-08-01,Active
+MER01570,Merchant 1570,Retail,Retail,Bhubaneswar 7,Odisha,Medium,2023-02-10,Active
+MER01571,Merchant 1571,Grocery,Retail,Bhubaneswar 6,Odisha,Small,2025-07-22,Active
+MER01572,Merchant 1572,Utilities,Services,Mysuru 6,Karnataka,Medium,2023-12-26,Active
+MER01573,Merchant 1573,Retail,Retail,Lucknow 2,Uttar Pradesh,Medium,2026-05-11,Active
+MER01574,Merchant 1574,Grocery,Retail,Ahmedabad 2,Gujarat,Large,2025-02-22,Active
+MER01575,Merchant 1575,Grocery,Retail,Mumbai,Maharashtra,Small,2023-03-06,Active
+MER01576,Merchant 1576,Food Delivery,Retail,Lucknow 9,Uttar Pradesh,Medium,2024-12-11,Active
+MER01577,Merchant 1577,Grocery,Retail,Mumbai 7,Maharashtra,Small,2025-04-18,Active
+MER01578,Merchant 1578,Fuel,Retail,Hyderabad,Telangana,Medium,2024-05-27,Active
+MER01579,Merchant 1579,Retail,Retail,Jaipur 4,Rajasthan,Small,2026-06-02,Active
+MER01580,Merchant 1580,Restaurants,Retail,Jaipur 8,Rajasthan,Large,2024-03-30,Active
+MER01581,Merchant 1581,Restaurants,Retail,Surat 2,Gujarat,Small,2025-10-24,Active
+MER01582,Merchant 1582,Utilities,Services,Bengaluru 2,Karnataka,Small,2024-08-16,Active
+MER01583,Merchant 1583,Fuel,Retail,Kochi 7,Kerala,Medium,2023-09-02,Active
+MER01584,Merchant 1584,Grocery,Retail,Patna 6,Bihar,Small,2024-07-02,Active
+MER01585,Merchant 1585,Entertainment,Services,Patna 3,Bihar,Small,2023-09-01,Active
+MER01586,Merchant 1586,Online Services,Services,Pune 10,Maharashtra,Medium,2024-10-05,Inactive
+MER01587,Merchant 1587,Food Delivery,Retail,Nashik,Maharashtra,Small,2026-04-09,Active
+MER01588,Merchant 1588,Retail,Retail,Bengaluru 3,Karnataka,Small,2023-01-26,Active
+MER01589,Merchant 1589,Education,Services,Kochi 5,Kerala,Small,2026-05-20,Active
+MER01590,Merchant 1590,Online Services,Services,Chandigarh 6,Chandigarh,Small,2024-10-16,Active
+MER01591,Merchant 1591,Utilities,Services,Delhi 9,Delhi,Medium,2023-06-14,Active
+MER01592,Merchant 1592,Retail,Retail,Chandigarh 4,Chandigarh,Small,2025-12-01,Active
+MER01593,Merchant 1593,Food Delivery,Retail,Kochi 5,Kerala,Small,2024-10-17,Inactive
+MER01594,Merchant 1594,Retail,Retail,Bengaluru 4,Karnataka,Medium,2024-07-07,Active
+MER01595,Merchant 1595,Government Services,Services,Nashik 2,Maharashtra,Large,2025-11-27,Active
+MER01596,Merchant 1596,Food Delivery,Retail,Bhopal 6,Madhya Pradesh,Small,2024-10-06,Active
+MER01597,Merchant 1597,Retail,Retail,Patna 9,Bihar,Large,2024-08-29,Active
+MER01598,Merchant 1598,Online Services,Services,Mumbai 3,Maharashtra,Small,2025-11-21,Active
+MER01599,Merchant 1599,Healthcare,Services,Chandigarh 3,Chandigarh,Large,2026-05-03,Active
+MER01600,Merchant 1600,Entertainment,Services,Chandigarh 7,Chandigarh,Small,2023-10-25,Active
+MER01601,Merchant 1601,Restaurants,Retail,Patna,Bihar,Enterprise,2024-01-17,Active
+MER01602,Merchant 1602,Online Services,Services,Kolkata 5,West Bengal,Medium,2024-05-31,Active
+MER01603,Merchant 1603,Restaurants,Retail,Lucknow 2,Uttar Pradesh,Small,2024-08-30,Active
+MER01604,Merchant 1604,Online Services,Services,Hyderabad 7,Telangana,Small,2023-08-18,Active
+MER01605,Merchant 1605,Grocery,Retail,Delhi 6,Delhi,Small,2024-01-27,Active
+MER01606,Merchant 1606,Entertainment,Services,Guwahati 9,Assam,Small,2024-12-31,Active
+MER01607,Merchant 1607,Restaurants,Retail,Bhubaneswar 5,Odisha,Medium,2026-02-03,Active
+MER01608,Merchant 1608,Utilities,Services,Indore 3,Madhya Pradesh,Small,2025-01-17,Active
+MER01609,Merchant 1609,Travel,Services,Delhi,Delhi,Medium,2024-05-17,Active
+MER01610,Merchant 1610,Online Services,Services,Kochi 3,Kerala,Small,2025-05-10,Active
+MER01611,Merchant 1611,Entertainment,Services,Nagpur 6,Maharashtra,Small,2025-07-28,Active
+MER01612,Merchant 1612,Utilities,Services,Guwahati 5,Assam,Small,2024-01-25,Active
+MER01613,Merchant 1613,Grocery,Retail,Chennai 9,Tamil Nadu,Small,2023-09-16,Active
+MER01614,Merchant 1614,Grocery,Retail,Nagpur,Maharashtra,Small,2024-02-21,Active
+MER01615,Merchant 1615,Food Delivery,Retail,Mumbai 3,Maharashtra,Medium,2024-07-31,Active
+MER01616,Merchant 1616,Restaurants,Retail,Surat 4,Gujarat,Medium,2025-05-24,Active
+MER01617,Merchant 1617,Food Delivery,Retail,Pune 8,Maharashtra,Small,2024-09-02,Active
+MER01618,Merchant 1618,Restaurants,Retail,Hyderabad 2,Telangana,Small,2025-10-17,Active
+MER01619,Merchant 1619,Fuel,Retail,Chennai 6,Tamil Nadu,Small,2023-06-20,Active
+MER01620,Merchant 1620,Online Services,Services,Coimbatore 5,Tamil Nadu,Large,2024-08-09,Active
+MER01621,Merchant 1621,Food Delivery,Retail,Coimbatore 5,Tamil Nadu,Medium,2024-09-13,Active
+MER01622,Merchant 1622,Grocery,Retail,Nagpur 2,Maharashtra,Medium,2024-12-28,Active
+MER01623,Merchant 1623,Education,Services,Bhubaneswar 3,Odisha,Small,2024-06-11,Active
+MER01624,Merchant 1624,Online Services,Services,Kolkata 5,West Bengal,Small,2026-01-17,Active
+MER01625,Merchant 1625,Grocery,Retail,Jaipur 6,Rajasthan,Small,2025-03-01,Active
+MER01626,Merchant 1626,Grocery,Retail,Indore 3,Madhya Pradesh,Medium,2023-07-06,Active
+MER01627,Merchant 1627,Retail,Retail,Ahmedabad 4,Gujarat,Large,2023-12-25,Active
+MER01628,Merchant 1628,Grocery,Retail,Bengaluru 6,Karnataka,Small,2023-10-18,Active
+MER01629,Merchant 1629,Education,Services,Kochi 8,Kerala,Medium,2026-05-25,Active
+MER01630,Merchant 1630,Travel,Services,Pune 8,Maharashtra,Small,2026-04-07,Active
+MER01631,Merchant 1631,Food Delivery,Retail,Lucknow 4,Uttar Pradesh,Medium,2024-01-08,Active
+MER01632,Merchant 1632,Online Services,Services,Jaipur 5,Rajasthan,Medium,2024-05-01,Active
+MER01633,Merchant 1633,Travel,Services,Delhi 6,Delhi,Small,2023-12-19,Active
+MER01634,Merchant 1634,Travel,Services,Pune 6,Maharashtra,Medium,2024-02-10,Active
+MER01635,Merchant 1635,Entertainment,Services,Mysuru 2,Karnataka,Small,2025-12-05,Active
+MER01636,Merchant 1636,Restaurants,Retail,Patna 6,Bihar,Medium,2023-10-05,Active
+MER01637,Merchant 1637,Online Services,Services,Kochi 5,Kerala,Small,2024-12-27,Active
+MER01638,Merchant 1638,Grocery,Retail,Jaipur 7,Rajasthan,Small,2024-10-31,Active
+MER01639,Merchant 1639,Grocery,Retail,Bhopal 6,Madhya Pradesh,Small,2023-03-28,Active
+MER01640,Merchant 1640,Retail,Retail,Chennai 5,Tamil Nadu,Large,2024-09-14,Active
+MER01641,Merchant 1641,Healthcare,Services,Ahmedabad 4,Gujarat,Small,2023-01-12,Active
+MER01642,Merchant 1642,Healthcare,Services,Pune 6,Maharashtra,Small,2023-12-05,Active
+MER01643,Merchant 1643,Restaurants,Retail,Lucknow 3,Uttar Pradesh,Small,2024-03-30,Active
+MER01644,Merchant 1644,Healthcare,Services,Pune 9,Maharashtra,Small,2024-02-15,Inactive
+MER01645,Merchant 1645,Food Delivery,Retail,Bhubaneswar,Odisha,Medium,2025-07-10,Inactive
+MER01646,Merchant 1646,Entertainment,Services,Bengaluru,Karnataka,Medium,2023-05-26,Active
+MER01647,Merchant 1647,Grocery,Retail,Delhi 9,Delhi,Enterprise,2023-04-02,Active
+MER01648,Merchant 1648,Grocery,Retail,Chandigarh 6,Chandigarh,Large,2025-08-19,Active
+MER01649,Merchant 1649,Travel,Services,Bhopal 9,Madhya Pradesh,Small,2024-12-01,Active
+MER01650,Merchant 1650,Utilities,Services,Hyderabad 6,Telangana,Small,2024-11-16,Active
+MER01651,Merchant 1651,Retail,Retail,Delhi 7,Delhi,Small,2024-11-02,Active
+MER01652,Merchant 1652,Food Delivery,Retail,Kolkata 4,West Bengal,Large,2024-10-16,Active
+MER01653,Merchant 1653,Grocery,Retail,Indore 9,Madhya Pradesh,Small,2023-07-29,Active
+MER01654,Merchant 1654,Retail,Retail,Lucknow 5,Uttar Pradesh,Medium,2026-03-25,Active
+MER01655,Merchant 1655,Utilities,Services,Bengaluru 9,Karnataka,Medium,2023-06-18,Active
+MER01656,Merchant 1656,Online Services,Services,Delhi,Delhi,Small,2023-10-16,Active
+MER01657,Merchant 1657,Grocery,Retail,Delhi 5,Delhi,Medium,2023-09-23,Active
+MER01658,Merchant 1658,Restaurants,Retail,Bhopal 9,Madhya Pradesh,Small,2024-02-12,Active
+MER01659,Merchant 1659,Healthcare,Services,Bhubaneswar 2,Odisha,Small,2024-09-25,Active
+MER01660,Merchant 1660,Retail,Retail,Hyderabad 7,Telangana,Small,2025-05-24,Active
+MER01661,Merchant 1661,Healthcare,Services,Surat 2,Gujarat,Small,2025-05-08,Active
+MER01662,Merchant 1662,Food Delivery,Retail,Chennai 9,Tamil Nadu,Small,2023-01-20,Active
+MER01663,Merchant 1663,Online Services,Services,Chandigarh 9,Chandigarh,Medium,2023-08-21,Active
+MER01664,Merchant 1664,Grocery,Retail,Delhi 6,Delhi,Large,2025-03-03,Active
+MER01665,Merchant 1665,Entertainment,Services,Mumbai 7,Maharashtra,Large,2025-12-14,Active
+MER01666,Merchant 1666,Grocery,Retail,Bhubaneswar 3,Odisha,Small,2023-08-29,Active
+MER01667,Merchant 1667,Online Services,Services,Chandigarh 8,Chandigarh,Small,2026-05-26,Active
+MER01668,Merchant 1668,Restaurants,Retail,Guwahati 3,Assam,Small,2024-03-02,Active
+MER01669,Merchant 1669,Government Services,Services,Bhopal,Madhya Pradesh,Medium,2024-12-25,Active
+MER01670,Merchant 1670,Education,Services,Bhopal 4,Madhya Pradesh,Small,2023-02-24,Active
+MER01671,Merchant 1671,Healthcare,Services,Jaipur 8,Rajasthan,Small,2025-06-27,Active
+MER01672,Merchant 1672,Retail,Retail,Mumbai 8,Maharashtra,Small,2026-04-15,Active
+MER01673,Merchant 1673,Healthcare,Services,Kolkata 7,West Bengal,Medium,2026-02-21,Active
+MER01674,Merchant 1674,Restaurants,Retail,Hyderabad 6,Telangana,Small,2025-05-09,Active
+MER01675,Merchant 1675,Retail,Retail,Bhopal,Madhya Pradesh,Enterprise,2025-09-19,Active
+MER01676,Merchant 1676,Entertainment,Services,Coimbatore 2,Tamil Nadu,Medium,2023-09-24,Active
+MER01677,Merchant 1677,Online Services,Services,Surat 9,Gujarat,Small,2024-09-22,Active
+MER01678,Merchant 1678,Healthcare,Services,Jaipur 2,Rajasthan,Small,2023-07-25,Active
+MER01679,Merchant 1679,Entertainment,Services,Coimbatore 9,Tamil Nadu,Small,2024-08-18,Active
+MER01680,Merchant 1680,Food Delivery,Retail,Pune 6,Maharashtra,Small,2023-01-20,Active
+MER01681,Merchant 1681,Food Delivery,Retail,Guwahati 5,Assam,Small,2023-03-13,Active
+MER01682,Merchant 1682,Grocery,Retail,Mumbai 4,Maharashtra,Medium,2025-09-19,Active
+MER01683,Merchant 1683,Healthcare,Services,Pune 10,Maharashtra,Medium,2026-01-04,Active
+MER01684,Merchant 1684,Grocery,Retail,Mysuru 2,Karnataka,Small,2025-07-01,Active
+MER01685,Merchant 1685,Retail,Retail,Bhopal 9,Madhya Pradesh,Medium,2023-08-31,Active
+MER01686,Merchant 1686,Food Delivery,Retail,Nagpur 7,Maharashtra,Enterprise,2024-03-05,Active
+MER01687,Merchant 1687,Food Delivery,Retail,Kochi 6,Kerala,Medium,2023-10-14,Active
+MER01688,Merchant 1688,Food Delivery,Retail,Bhopal 7,Madhya Pradesh,Enterprise,2024-09-05,Active
+MER01689,Merchant 1689,Healthcare,Services,Chennai,Tamil Nadu,Small,2025-08-04,Active
+MER01690,Merchant 1690,Grocery,Retail,Kochi 2,Kerala,Small,2023-04-30,Active
+MER01691,Merchant 1691,Restaurants,Retail,Hyderabad 3,Telangana,Small,2023-09-05,Active
+MER01692,Merchant 1692,Retail,Retail,Lucknow 5,Uttar Pradesh,Large,2025-02-25,Inactive
+MER01693,Merchant 1693,Grocery,Retail,Surat 6,Gujarat,Small,2023-11-14,Active
+MER01694,Merchant 1694,Grocery,Retail,Delhi 4,Delhi,Enterprise,2025-07-28,Active
+MER01695,Merchant 1695,Healthcare,Services,Nagpur 6,Maharashtra,Small,2024-12-17,Active
+MER01696,Merchant 1696,Grocery,Retail,Kochi,Kerala,Small,2024-11-08,Active
+MER01697,Merchant 1697,Fuel,Retail,Jaipur 3,Rajasthan,Small,2023-11-17,Active
+MER01698,Merchant 1698,Online Services,Services,Hyderabad 9,Telangana,Small,2023-10-10,Active
+MER01699,Merchant 1699,Grocery,Retail,Pune 4,Maharashtra,Small,2024-04-29,Active
+MER01700,Merchant 1700,Food Delivery,Retail,Kolkata,West Bengal,Medium,2024-07-23,Active
+MER01701,Merchant 1701,Government Services,Services,Nashik 8,Maharashtra,Small,2026-06-08,Active
+MER01702,Merchant 1702,Education,Services,Lucknow 9,Uttar Pradesh,Medium,2025-08-17,Active
+MER01703,Merchant 1703,Online Services,Services,Jaipur 9,Rajasthan,Medium,2026-05-01,Active
+MER01704,Merchant 1704,Fuel,Retail,Jaipur 9,Rajasthan,Large,2024-06-10,Active
+MER01705,Merchant 1705,Government Services,Services,Bhubaneswar,Odisha,Small,2026-04-22,Active
+MER01706,Merchant 1706,Food Delivery,Retail,Kolkata 7,West Bengal,Small,2025-04-23,Active
+MER01707,Merchant 1707,Food Delivery,Retail,Chennai 8,Tamil Nadu,Small,2023-07-07,Active
+MER01708,Merchant 1708,Grocery,Retail,Delhi 7,Delhi,Small,2025-12-25,Active
+MER01709,Merchant 1709,Food Delivery,Retail,Mumbai 5,Maharashtra,Small,2023-10-15,Active
+MER01710,Merchant 1710,Online Services,Services,Surat 9,Gujarat,Medium,2025-12-10,Active
+MER01711,Merchant 1711,Food Delivery,Retail,Bhopal 7,Madhya Pradesh,Medium,2025-03-04,Active
+MER01712,Merchant 1712,Grocery,Retail,Lucknow,Uttar Pradesh,Large,2023-03-25,Active
+MER01713,Merchant 1713,Grocery,Retail,Patna 4,Bihar,Large,2026-04-26,Active
+MER01714,Merchant 1714,Healthcare,Services,Coimbatore 4,Tamil Nadu,Small,2023-07-02,Active
+MER01715,Merchant 1715,Entertainment,Services,Jaipur,Rajasthan,Enterprise,2024-05-17,Active
+MER01716,Merchant 1716,Grocery,Retail,Indore 8,Madhya Pradesh,Small,2024-06-02,Active
+MER01717,Merchant 1717,Online Services,Services,Guwahati 5,Assam,Large,2023-12-03,Active
+MER01718,Merchant 1718,Travel,Services,Nashik 5,Maharashtra,Small,2026-03-23,Active
+MER01719,Merchant 1719,Healthcare,Services,Nashik 5,Maharashtra,Large,2023-04-28,Inactive
+MER01720,Merchant 1720,Retail,Retail,Chennai 2,Tamil Nadu,Small,2023-12-17,Active
+MER01721,Merchant 1721,Entertainment,Services,Kochi 5,Kerala,Medium,2024-09-22,Active
+MER01722,Merchant 1722,Fuel,Retail,Jaipur 3,Rajasthan,Small,2023-07-29,Active
+MER01723,Merchant 1723,Fuel,Retail,Jaipur 8,Rajasthan,Small,2026-06-10,Active
+MER01724,Merchant 1724,Education,Services,Jaipur 9,Rajasthan,Small,2023-05-04,Active
+MER01725,Merchant 1725,Retail,Retail,Surat 9,Gujarat,Medium,2025-09-29,Active
+MER01726,Merchant 1726,Entertainment,Services,Kochi 9,Kerala,Small,2024-08-12,Active
+MER01727,Merchant 1727,,Retail,Ahmedabad 5,Gujarat,Small,2023-05-13,Active
+MER01728,Merchant 1728,Fuel,Retail,Bengaluru 7,Karnataka,Small,2023-08-03,Active
+MER01729,Merchant 1729,Travel,Services,Guwahati 7,Assam,Medium,2025-10-21,Active
+MER01730,Merchant 1730,Retail,Retail,Ahmedabad 2,Gujarat,Small,2023-12-06,Active
+MER01731,Merchant 1731,Retail,Retail,Mysuru 2,Karnataka,Medium,2026-06-12,Active
+MER01732,Merchant 1732,Retail,Retail,Chennai 3,Tamil Nadu,Large,2024-09-28,Active
+MER01733,Merchant 1733,Healthcare,Services,Lucknow 2,Uttar Pradesh,Large,2026-06-24,Active
+MER01734,Merchant 1734,Fuel,Retail,Nagpur,Maharashtra,Small,2023-06-27,Active
+MER01735,Merchant 1735,Fuel,Retail,Mysuru 4,Karnataka,Small,2025-04-16,Inactive
+MER01736,Merchant 1736,Retail,Retail,Mysuru 5,Karnataka,Small,2026-01-05,Active
+MER01737,Merchant 1737,Education,Services,Nagpur 4,Maharashtra,Medium,2024-08-02,Active
+MER01738,Merchant 1738,Grocery,Retail,Ahmedabad 7,Gujarat,Small,2025-03-02,Active
+MER01739,Merchant 1739,Grocery,Retail,Guwahati 7,Assam,Small,2024-04-19,Active
+MER01740,Merchant 1740,Grocery,Retail,Chennai 8,Tamil Nadu,Small,2023-11-08,Active
+MER01741,Merchant 1741,Food Delivery,Retail,Nagpur 4,Maharashtra,Large,2023-08-16,Active
+MER01742,Merchant 1742,Education,Services,Jaipur 4,Rajasthan,Enterprise,2025-01-16,Active
+MER01743,Merchant 1743,Retail,Retail,Bengaluru 7,Karnataka,Medium,2025-02-08,Active
+MER01744,Merchant 1744,Online Services,Services,Hyderabad 6,Telangana,Medium,2024-04-24,Active
+MER01745,Merchant 1745,Grocery,Retail,Nashik 8,Maharashtra,Medium,2025-02-18,Active
+MER01746,Merchant 1746,Education,Services,Nagpur 6,Maharashtra,Small,2024-01-31,Active
+MER01747,Merchant 1747,Retail,Retail,Kolkata 7,West Bengal,Medium,2023-03-13,Active
+MER01748,Merchant 1748,Food Delivery,Retail,Nashik,Maharashtra,Small,2024-02-10,Active
+MER01749,Merchant 1749,Government Services,Services,Delhi 7,Delhi,Small,2025-12-21,Active
+MER01750,Merchant 1750,Entertainment,Services,Kochi 9,Kerala,Medium,2024-05-19,Active
+MER01751,Merchant 1751,Retail,Retail,Ahmedabad 8,Gujarat,Small,2023-01-28,Active
+MER01752,Merchant 1752,Online Services,Services,Surat,Gujarat,Small,2025-10-07,Active
+MER01753,Merchant 1753,Food Delivery,Retail,Surat 6,Gujarat,Medium,2024-05-30,Active
+MER01754,Merchant 1754,Food Delivery,Retail,Kolkata 2,West Bengal,Medium,2024-03-04,Active
+MER01755,Merchant 1755,Grocery,Retail,Patna 5,Bihar,Medium,2025-05-07,Active
+MER01756,Merchant 1756,Travel,Services,Mysuru 6,Karnataka,Small,2024-02-01,Active
+MER01757,Merchant 1757,Utilities,Services,Bhopal 2,Madhya Pradesh,Small,2026-01-26,Active
+MER01758,Merchant 1758,Restaurants,Retail,Surat 3,Gujarat,Small,2024-05-07,Inactive
+MER01759,Merchant 1759,Utilities,Services,Ahmedabad 2,Gujarat,Small,2024-04-08,Active
+MER01760,Merchant 1760,Grocery,Retail,Bhubaneswar 5,Odisha,Small,2025-01-18,Active
+MER01761,Merchant 1761,Retail,Retail,Kolkata 4,West Bengal,Small,2023-09-17,Active
+MER01762,Merchant 1762,Food Delivery,Retail,Bhopal 6,Madhya Pradesh,Small,2026-01-12,Active
+MER01763,Merchant 1763,Education,Services,Indore 3,Madhya Pradesh,Small,2025-05-22,Active
+MER01764,Merchant 1764,Utilities,Services,Jaipur,Rajasthan,Small,2025-07-10,Active
+MER01765,Merchant 1765,Retail,Retail,Bhopal 5,Madhya Pradesh,Medium,2023-04-18,Active
+MER01766,Merchant 1766,Retail,Retail,Lucknow,Uttar Pradesh,Medium,2024-10-07,Active
+MER01767,Merchant 1767,Travel,Services,Nagpur 9,Maharashtra,Small,2025-01-11,Active
+MER01768,Merchant 1768,Education,Services,Bhubaneswar 7,Odisha,Medium,2025-04-24,Active
+MER01769,Merchant 1769,Food Delivery,Retail,Jaipur 3,Rajasthan,Small,2024-03-15,Active
+MER01770,Merchant 1770,Grocery,Retail,Lucknow 4,Uttar Pradesh,Enterprise,2025-09-22,Active
+MER01771,Merchant 1771,Retail,Retail,Jaipur 9,Rajasthan,Small,2024-08-15,Active
+MER01772,Merchant 1772,Grocery,Retail,Pune 9,Maharashtra,Large,2023-10-18,Active
+MER01773,Merchant 1773,Retail,Retail,Lucknow 8,Uttar Pradesh,Small,2025-01-13,Inactive
+MER01774,Merchant 1774,Online Services,Services,Coimbatore 2,Tamil Nadu,Large,2024-04-25,Active
+MER01775,Merchant 1775,Grocery,Retail,Bengaluru 8,Karnataka,Medium,2025-10-09,Active
+MER01776,Merchant 1776,Education,Services,Kolkata 9,West Bengal,Small,2026-05-18,Active
+MER01777,Merchant 1777,Utilities,Services,Patna 2,Bihar,Small,2024-11-28,Active
+MER01778,Merchant 1778,Healthcare,Services,Kolkata 4,West Bengal,Small,2026-02-12,Active
+MER01779,Merchant 1779,Travel,Services,Jaipur 5,Rajasthan,Small,2025-05-12,Active
+MER01780,Merchant 1780,Grocery,Retail,Jaipur 6,Rajasthan,Small,2026-01-29,Active
+MER01781,Merchant 1781,Restaurants,Retail,Ahmedabad 6,Gujarat,Small,2024-08-15,Active
+MER01782,Merchant 1782,Entertainment,Services,Lucknow 3,Uttar Pradesh,Small,2023-02-02,Inactive
+MER01783,Merchant 1783,Food Delivery,Retail,Hyderabad 5,Telangana,Small,2026-06-27,Active
+MER01784,Merchant 1784,Retail,Retail,Coimbatore 9,Tamil Nadu,Medium,2024-07-12,Active
+MER01785,Merchant 1785,Food Delivery,Retail,Guwahati 6,Assam,Small,2024-11-15,Active
+MER01786,Merchant 1786,Retail,Retail,Chennai 4,Tamil Nadu,Small,2023-10-10,Active
+MER01787,Merchant 1787,Food Delivery,Retail,Nagpur,Maharashtra,Small,2023-05-15,Active
+MER01788,Merchant 1788,Government Services,Services,Chennai 6,Tamil Nadu,Small,2024-03-17,Active
+MER01789,Merchant 1789,Grocery,Retail,Guwahati 3,Assam,Small,2024-06-09,Active
+MER01790,Merchant 1790,Education,Services,Jaipur 2,Rajasthan,Small,2025-06-18,Active
+MER01791,Merchant 1791,Restaurants,Retail,Patna 7,Bihar,Small,2024-02-26,Active
+MER01792,Merchant 1792,Education,Services,Bengaluru 7,Karnataka,Small,2025-10-20,Inactive
+MER01793,Merchant 1793,Travel,Services,Chennai 8,Tamil Nadu,Large,2024-07-11,Active
+MER01794,Merchant 1794,Retail,Retail,Bengaluru 2,Karnataka,Large,2023-05-27,Active
+MER01795,Merchant 1795,Education,Services,Kolkata 3,West Bengal,Medium,2026-06-13,Active
+MER01796,Merchant 1796,Fuel,Retail,Jaipur 9,Rajasthan,Small,2024-03-21,Active
+MER01797,Merchant 1797,Grocery,Retail,Bengaluru,Karnataka,Small,2024-06-11,Active
+MER01798,Merchant 1798,Grocery,Retail,Patna,Bihar,Medium,2023-05-07,Active
+MER01799,Merchant 1799,Restaurants,Retail,Nashik 4,Maharashtra,Enterprise,2023-10-13,Active
+MER01800,Merchant 1800,Education,Services,Mumbai 5,Maharashtra,Small,2023-03-19,Active
+MER01801,Merchant 1801,Healthcare,Services,Delhi 6,Delhi,Large,2023-06-06,Active
+MER01802,Merchant 1802,Restaurants,Retail,Bhubaneswar 3,Odisha,Medium,2023-06-14,Active
+MER01803,Merchant 1803,Food Delivery,Retail,Mumbai 2,Maharashtra,Enterprise,2026-04-27,Active
+MER01804,Merchant 1804,,Services,Chennai 3,Tamil Nadu,Small,2025-10-28,Active
+MER01805,Merchant 1805,Healthcare,Services,Bengaluru 7,Karnataka,Small,2025-02-07,Active
+MER01806,Merchant 1806,Utilities,Services,Chennai 5,Tamil Nadu,Small,2023-11-15,Active
+MER01807,Merchant 1807,Government Services,Services,Surat 4,Gujarat,Medium,2024-05-21,Active
+MER01808,Merchant 1808,Restaurants,Retail,Nashik 6,Maharashtra,Medium,2024-12-05,Active
+MER01809,Merchant 1809,Healthcare,Services,Delhi 2,Delhi,Large,2024-11-16,Active
+MER01810,Merchant 1810,Government Services,Services,Chennai 7,Tamil Nadu,Large,2025-07-27,Active
+MER01811,Merchant 1811,Grocery,Retail,Guwahati 9,Assam,Small,2024-09-23,Active
+MER01812,Merchant 1812,Grocery,Retail,Guwahati 5,Assam,Small,2024-06-05,Active
+MER01813,Merchant 1813,Travel,Services,Kolkata 3,West Bengal,Small,2024-12-22,Active
+MER01814,Merchant 1814,Education,Services,Delhi 8,Delhi,Enterprise,2024-12-25,Active
+MER01815,Merchant 1815,Grocery,Retail,Pune 4,Maharashtra,Small,2025-12-21,Active
+MER01816,Merchant 1816,Fuel,Retail,Kolkata 8,West Bengal,Medium,2026-01-14,Active
+MER01817,Merchant 1817,Healthcare,Services,Bhubaneswar 6,Odisha,Small,2026-05-09,Active
+MER01818,Merchant 1818,Food Delivery,Retail,Chandigarh 8,Chandigarh,Medium,2024-11-28,Active
+MER01819,Merchant 1819,Entertainment,Services,Chandigarh,Chandigarh,Small,2026-01-23,Active
+MER01820,Merchant 1820,Online Services,Services,Hyderabad 6,Telangana,Medium,2026-06-20,Active
+MER01821,Merchant 1821,Fuel,Retail,Hyderabad,Telangana,Large,2023-09-02,Active
+MER01822,Merchant 1822,Fuel,Retail,Guwahati 4,Assam,Small,2023-08-13,Active
+MER01823,Merchant 1823,Education,Services,Chandigarh 5,Chandigarh,Small,2025-08-28,Active
+MER01824,Merchant 1824,Grocery,Retail,Patna 3,Bihar,Enterprise,2023-04-23,Active
+MER01825,Merchant 1825,Restaurants,Retail,Pune 10,Maharashtra,Small,2024-11-21,Active
+MER01826,Merchant 1826,Restaurants,Retail,Chennai 6,Tamil Nadu,Small,2023-07-19,Active
+MER01827,Merchant 1827,Grocery,Retail,Chennai 2,Tamil Nadu,Small,2025-02-27,Active
+MER01828,Merchant 1828,Education,Services,Guwahati 9,Assam,Large,2025-07-13,Active
+MER01829,Merchant 1829,Online Services,Services,Pune 2,Maharashtra,Medium,2024-10-04,Active
+MER01830,Merchant 1830,Grocery,Retail,Bengaluru 9,Karnataka,Small,2023-05-04,Active
+MER01831,Merchant 1831,Retail,Retail,Patna 6,Bihar,Small,2025-02-17,Active
+MER01832,Merchant 1832,Food Delivery,Retail,Kochi 8,Kerala,Enterprise,2026-01-22,Active
+MER01833,Merchant 1833,Grocery,Retail,Mysuru 9,Karnataka,Small,2026-01-17,Active
+MER01834,Merchant 1834,Online Services,Services,Bhopal 8,Madhya Pradesh,Small,2023-07-22,Active
+MER01835,Merchant 1835,Food Delivery,Retail,Pune 7,Maharashtra,Small,2025-01-07,Active
+MER01836,Merchant 1836,Restaurants,Retail,Delhi 4,Delhi,Small,2026-01-16,Active
+MER01837,Merchant 1837,Online Services,Services,Surat 8,Gujarat,Small,2026-03-29,Active
+MER01838,Merchant 1838,Utilities,Services,Chandigarh 4,Chandigarh,Medium,2025-06-17,Active
+MER01839,Merchant 1839,Grocery,Retail,Mumbai 6,Maharashtra,Large,2024-08-23,Active
+MER01840,Merchant 1840,Food Delivery,Retail,Mysuru 5,Karnataka,Small,2023-05-02,Active
+MER01841,Merchant 1841,Retail,Retail,Mysuru 7,Karnataka,Small,2024-09-12,Inactive
+MER01842,Merchant 1842,Food Delivery,Retail,Kochi 2,Kerala,Small,2026-06-25,Inactive
+MER01843,Merchant 1843,Retail,Retail,Guwahati 3,Assam,Small,2024-02-08,Active
+MER01844,Merchant 1844,Healthcare,Services,Bhubaneswar 8,Odisha,Medium,2023-03-22,Active
+MER01845,Merchant 1845,Retail,Retail,Bhopal 4,Madhya Pradesh,Small,2025-11-09,Inactive
+MER01846,Merchant 1846,Retail,Retail,Indore,Madhya Pradesh,Small,2026-06-03,Active
+MER01847,Merchant 1847,Utilities,Services,Guwahati 9,Assam,Small,2025-11-21,Active
+MER01848,Merchant 1848,Food Delivery,Retail,Surat,Gujarat,Small,2023-06-19,Active
+MER01849,Merchant 1849,Retail,Retail,Kochi,Kerala,Small,2024-09-25,Active
+MER01850,Merchant 1850,Government Services,Services,Guwahati 6,Assam,Small,2025-07-23,Active
+MER01851,Merchant 1851,Utilities,Services,Bengaluru,Karnataka,Medium,2025-10-24,Active
+MER01852,Merchant 1852,Online Services,Services,Coimbatore 4,Tamil Nadu,Small,2026-06-04,Active
+MER01853,Merchant 1853,Fuel,Retail,Bengaluru 4,Karnataka,Large,2023-05-04,Active
+MER01854,Merchant 1854,Fuel,Retail,Bengaluru,Karnataka,Small,2023-08-08,Active
+MER01855,Merchant 1855,Healthcare,Services,Nagpur 3,Maharashtra,Medium,2024-12-03,Active
+MER01856,Merchant 1856,Education,Services,Guwahati,Assam,Small,2023-08-23,Active
+MER01857,Merchant 1857,Online Services,Services,Mumbai 8,Maharashtra,Small,2025-04-08,Active
+MER01858,Merchant 1858,Grocery,Retail,Chandigarh 2,Chandigarh,Small,2025-04-25,Active
+MER01859,Merchant 1859,Travel,Services,Guwahati 4,Assam,Small,2025-06-19,Active
+MER01860,Merchant 1860,Restaurants,Retail,Jaipur,Rajasthan,Small,2023-07-13,Active
+MER01861,Merchant 1861,Food Delivery,Retail,Jaipur 8,Rajasthan,Small,2026-01-16,Active
+MER01862,Merchant 1862,Grocery,Retail,Kochi 5,Kerala,Small,2023-05-11,Active
+MER01863,Merchant 1863,Education,Services,Delhi 5,Delhi,Medium,2025-11-12,Active
+MER01864,Merchant 1864,Healthcare,Services,Surat 6,Gujarat,Small,2024-01-30,Active
+MER01865,Merchant 1865,Grocery,Retail,Surat 3,Gujarat,Small,2025-03-16,Active
+MER01866,Merchant 1866,Healthcare,Services,Coimbatore 2,Tamil Nadu,Small,2025-08-18,Active
+MER01867,Merchant 1867,Utilities,Services,Nagpur 4,Maharashtra,Medium,2023-09-19,Active
+MER01868,Merchant 1868,Grocery,Retail,Bhubaneswar 9,Odisha,Enterprise,2025-02-05,Active
+MER01869,Merchant 1869,,Services,Indore 4,Madhya Pradesh,Small,2025-11-24,Active
+MER01870,Merchant 1870,Grocery,Retail,Ahmedabad,Gujarat,Small,2024-02-01,Active
+MER01871,Merchant 1871,Fuel,Retail,Kochi 6,Kerala,Small,2024-08-02,Active
+MER01872,Merchant 1872,Utilities,Services,Bhubaneswar 2,Odisha,Medium,2025-05-16,Active
+MER01873,Merchant 1873,Healthcare,Services,Kochi 8,Kerala,Small,2025-06-04,Active
+MER01874,Merchant 1874,Travel,Services,Pune 10,Maharashtra,Medium,2024-11-13,Active
+MER01875,Merchant 1875,Restaurants,Retail,Jaipur 9,Rajasthan,Large,2024-05-28,Active
+MER01876,Merchant 1876,Entertainment,Services,Pune,Maharashtra,Medium,2025-12-04,Active
+MER01877,Merchant 1877,Restaurants,Retail,Bhubaneswar 2,Odisha,Medium,2025-12-21,Active
+MER01878,Merchant 1878,Food Delivery,Retail,Ahmedabad 4,Gujarat,Medium,2025-07-22,Active
+MER01879,Merchant 1879,Retail,Retail,Pune 9,Maharashtra,Small,2024-05-30,Active
+MER01880,Merchant 1880,Retail,Retail,Bhubaneswar 7,Odisha,Small,2024-11-30,Active
+MER01881,Merchant 1881,Online Services,Services,Nagpur 7,Maharashtra,Medium,2023-02-18,Active
+MER01882,Merchant 1882,Utilities,Services,Lucknow 6,Uttar Pradesh,Small,2026-01-04,Active
+MER01883,Merchant 1883,Utilities,Services,Bengaluru 4,Karnataka,Medium,2024-06-29,Active
+MER01884,Merchant 1884,Food Delivery,Retail,Indore 5,Madhya Pradesh,Small,2025-09-23,Active
+MER01885,Merchant 1885,Grocery,Retail,Chennai 8,Tamil Nadu,Small,2025-03-22,Active
+MER01886,Merchant 1886,Entertainment,Services,Jaipur 5,Rajasthan,Medium,2025-12-15,Inactive
+MER01887,Merchant 1887,Restaurants,Retail,Pune 2,Maharashtra,Small,2023-07-16,Inactive
+MER01888,Merchant 1888,Fuel,Retail,Coimbatore 8,Tamil Nadu,Large,2026-06-03,Active
+MER01889,Merchant 1889,Grocery,Retail,Chennai 3,Tamil Nadu,Enterprise,2026-06-01,Active
+MER01890,Merchant 1890,Online Services,Services,Patna 5,Bihar,Medium,2023-12-26,Active
+MER01891,Merchant 1891,Utilities,Services,Guwahati 7,Assam,Small,2025-09-30,Active
+MER01892,Merchant 1892,Grocery,Retail,Kochi 3,Kerala,Large,2025-12-03,Active
+MER01893,Merchant 1893,Fuel,Retail,Bhopal 4,Madhya Pradesh,Small,2024-03-16,Active
+MER01894,Merchant 1894,Education,Services,Mumbai 5,Maharashtra,Small,2023-02-05,Inactive
+MER01895,Merchant 1895,Travel,Services,Indore 2,Madhya Pradesh,Small,2024-09-26,Active
+MER01896,Merchant 1896,Retail,Retail,Mumbai 5,Maharashtra,Small,2024-01-07,Active
+MER01897,Merchant 1897,Education,Services,Patna 2,Bihar,Small,2024-05-29,Active
+MER01898,Merchant 1898,Retail,Retail,Mumbai 5,Maharashtra,Small,2024-01-05,Active
+MER01899,Merchant 1899,Food Delivery,Retail,Kochi 8,Kerala,Enterprise,2024-07-21,Inactive
+MER01900,Merchant 1900,Healthcare,Services,Bengaluru,Karnataka,Large,2025-07-11,Active
+MER01901,Merchant 1901,Food Delivery,Retail,Bhubaneswar 2,Odisha,Medium,2024-09-11,Active
+MER01902,Merchant 1902,Restaurants,Retail,Bhopal 5,Madhya Pradesh,Small,2023-03-08,Active
+MER01903,Merchant 1903,,Retail,Bhopal 7,Madhya Pradesh,Small,2025-05-17,Active
+MER01904,Merchant 1904,Restaurants,Retail,Kolkata 4,West Bengal,Small,2024-08-28,Active
+MER01905,Merchant 1905,Restaurants,Retail,Bhubaneswar 7,Odisha,Medium,2025-01-11,Inactive
+MER01906,Merchant 1906,Government Services,Services,Pune 3,Maharashtra,Enterprise,2026-02-28,Active
+MER01907,Merchant 1907,Healthcare,Services,Mumbai 2,Maharashtra,Large,2023-02-06,Active
+MER01908,Merchant 1908,Retail,Retail,Bhubaneswar 4,Odisha,Large,2025-10-08,Active
+MER01909,Merchant 1909,Entertainment,Services,Bhubaneswar 4,Odisha,Small,2024-02-08,Active
+MER01910,Merchant 1910,Education,Services,Nagpur 7,Maharashtra,Small,2025-04-30,Active
+MER01911,Merchant 1911,Restaurants,Retail,Mysuru 8,Karnataka,Small,2026-05-06,Active
+MER01912,Merchant 1912,Education,Services,Bengaluru 7,Karnataka,Small,2023-03-06,Active
+MER01913,Merchant 1913,Education,Services,Kolkata 8,West Bengal,Medium,2026-02-18,Active
+MER01914,Merchant 1914,Online Services,Services,Surat 4,Gujarat,Large,2023-12-05,Active
+MER01915,Merchant 1915,Retail,Retail,Jaipur 5,Rajasthan,Small,2026-03-29,Active
+MER01916,Merchant 1916,Online Services,Services,Bengaluru 7,Karnataka,Large,2024-05-10,Active
+MER01917,Merchant 1917,Retail,Retail,Indore 2,Madhya Pradesh,Small,2024-07-31,Active
+MER01918,Merchant 1918,Restaurants,Retail,Nagpur 2,Maharashtra,Medium,2024-02-25,Active
+MER01919,Merchant 1919,Healthcare,Services,Chennai 2,Tamil Nadu,Small,2025-12-05,Active
+MER01920,Merchant 1920,Utilities,Services,Guwahati 7,Assam,Small,2024-01-17,Active
+MER01921,Merchant 1921,Education,Services,Ahmedabad 4,Gujarat,Medium,2025-06-12,Inactive
+MER01922,Merchant 1922,Grocery,Retail,Patna 8,Bihar,Small,2023-11-06,Active
+MER01923,Merchant 1923,Grocery,Retail,Coimbatore 9,Tamil Nadu,Small,2023-09-26,Active
+MER01924,Merchant 1924,Restaurants,Retail,Bhopal 3,Madhya Pradesh,Medium,2025-11-14,Active
+MER01925,Merchant 1925,Retail,Retail,Bhopal,Madhya Pradesh,Small,2026-01-28,Active
+MER01926,Merchant 1926,Food Delivery,Retail,Delhi 4,Delhi,Large,2024-02-11,Active
+MER01927,Merchant 1927,Retail,Retail,Jaipur 4,Rajasthan,Large,2023-10-09,Active
+MER01928,Merchant 1928,Utilities,Services,Hyderabad 5,Telangana,Small,2024-07-13,Active
+MER01929,Merchant 1929,Retail,Retail,Jaipur 9,Rajasthan,Small,2024-01-25,Active
+MER01930,Merchant 1930,Travel,Services,Delhi 9,Delhi,Small,2024-12-20,Active
+MER01931,Merchant 1931,Restaurants,Retail,Coimbatore 3,Tamil Nadu,Small,2026-01-02,Active
+MER01932,Merchant 1932,Food Delivery,Retail,Delhi 2,Delhi,Small,2023-02-26,Active
+MER01933,Merchant 1933,Fuel,Retail,Chandigarh 5,Chandigarh,Small,2023-04-01,Active
+MER01934,Merchant 1934,Restaurants,Retail,Pune 6,Maharashtra,Large,2023-07-13,Active
+MER01935,Merchant 1935,Restaurants,Retail,Kochi 2,Kerala,Small,2024-01-29,Active
+MER01936,Merchant 1936,Grocery,Retail,Lucknow 5,Uttar Pradesh,Small,2023-07-19,Active
+MER01937,Merchant 1937,Travel,Services,Lucknow 6,Uttar Pradesh,Medium,2023-01-09,Active
+MER01938,Merchant 1938,Fuel,Retail,Patna 6,Bihar,Medium,2026-06-21,Inactive
+MER01939,Merchant 1939,Travel,Services,Chennai,Tamil Nadu,Enterprise,2024-08-06,Active
+MER01940,Merchant 1940,Education,Services,Kolkata 5,West Bengal,Medium,2023-02-15,Active
+MER01941,Merchant 1941,Travel,Services,Surat 5,Gujarat,Small,2025-04-10,Active
+MER01942,Merchant 1942,Fuel,Retail,Indore,Madhya Pradesh,Large,2026-05-21,Active
+MER01943,Merchant 1943,Food Delivery,Retail,Guwahati,Assam,Small,2024-02-22,Inactive
+MER01944,Merchant 1944,Retail,Retail,Bhopal 5,Madhya Pradesh,Medium,2025-05-10,Active
+MER01945,Merchant 1945,,Retail,Pune 5,Maharashtra,Small,2023-06-07,Inactive
+MER01946,Merchant 1946,Online Services,Services,Ahmedabad 8,Gujarat,Small,2024-04-08,Active
+MER01947,Merchant 1947,Grocery,Retail,Lucknow 2,Uttar Pradesh,Medium,2025-07-29,Active
+MER01948,Merchant 1948,Utilities,Services,Guwahati 8,Assam,Small,2023-08-22,Active
+MER01949,Merchant 1949,Retail,Retail,Bhopal 6,Madhya Pradesh,Small,2026-03-27,Active
+MER01950,Merchant 1950,Grocery,Retail,Chandigarh 5,Chandigarh,Medium,2023-01-15,Active
+MER01951,Merchant 1951,Online Services,Services,Kochi 7,Kerala,Small,2024-08-18,Active
+MER01952,Merchant 1952,Fuel,Retail,Surat 3,Gujarat,Small,2025-11-12,Active
+MER01953,Merchant 1953,Utilities,Services,Lucknow 6,Uttar Pradesh,Small,2025-07-15,Active
+MER01954,Merchant 1954,Fuel,Retail,Mumbai 2,Maharashtra,Medium,2024-11-27,Active
+MER01955,Merchant 1955,Travel,Services,Jaipur 6,Rajasthan,Small,2026-05-17,Active
+MER01956,Merchant 1956,Government Services,Services,Hyderabad 5,Telangana,Medium,2023-02-04,Active
+MER01957,Merchant 1957,Retail,Retail,Surat,Gujarat,Small,2026-06-16,Active
+MER01958,Merchant 1958,Fuel,Retail,Delhi 9,Delhi,Small,2023-06-30,Inactive
+MER01959,Merchant 1959,Education,Services,Jaipur 2,Rajasthan,Small,2023-01-31,Active
+MER01960,Merchant 1960,Retail,Retail,Bhubaneswar 7,Odisha,Medium,2024-02-14,Active
+MER01961,Merchant 1961,Education,Services,Jaipur 9,Rajasthan,Small,2026-05-08,Active
+MER01962,Merchant 1962,Online Services,Services,Bengaluru 7,Karnataka,Small,2023-06-30,Active
+MER01963,Merchant 1963,Food Delivery,Retail,Kochi 6,Kerala,Small,2024-07-09,Active
+MER01964,Merchant 1964,Restaurants,Retail,Hyderabad 4,Telangana,Large,2025-12-17,Active
+MER01965,Merchant 1965,Utilities,Services,Patna 8,Bihar,Medium,2025-08-18,Active
+MER01966,Merchant 1966,Online Services,Services,Kochi 3,Kerala,Small,2024-10-14,Active
+MER01967,Merchant 1967,Fuel,Retail,Patna 8,Bihar,Small,2024-08-02,Active
+MER01968,Merchant 1968,Restaurants,Retail,Bhubaneswar 8,Odisha,Medium,2026-04-17,Active
+MER01969,Merchant 1969,Grocery,Retail,Surat 5,Gujarat,Large,2026-02-22,Active
+MER01970,Merchant 1970,Grocery,Retail,Kolkata 5,West Bengal,Small,2024-12-02,Active
+MER01971,Merchant 1971,Online Services,Services,Patna 6,Bihar,Medium,2025-08-01,Active
+MER01972,Merchant 1972,Healthcare,Services,Surat 2,Gujarat,Large,2026-04-29,Active
+MER01973,Merchant 1973,Healthcare,Services,Nashik,Maharashtra,Small,2023-03-13,Active
+MER01974,Merchant 1974,Fuel,Retail,Guwahati 6,Assam,Small,2023-03-27,Active
+MER01975,Merchant 1975,Restaurants,Retail,Kochi 4,Kerala,Small,2026-04-06,Active
+MER01976,Merchant 1976,Travel,Services,Indore 4,Madhya Pradesh,Enterprise,2024-10-30,Active
+MER01977,Merchant 1977,Entertainment,Services,Jaipur 3,Rajasthan,Medium,2023-11-25,Active
+MER01978,Merchant 1978,Retail,Retail,Mumbai 6,Maharashtra,Small,2024-10-18,Active
+MER01979,Merchant 1979,Grocery,Retail,Bhopal 2,Madhya Pradesh,Small,2025-10-21,Active
+MER01980,Merchant 1980,Utilities,Services,Bhopal 9,Madhya Pradesh,Medium,2023-04-06,Active
+MER01981,Merchant 1981,Online Services,Services,Kolkata 9,West Bengal,Small,2026-05-20,Active
+MER01982,Merchant 1982,Education,Services,Bhubaneswar 2,Odisha,Small,2025-10-21,Active
+MER01983,Merchant 1983,Healthcare,Services,Mysuru 4,Karnataka,Small,2025-07-09,Active
+MER01984,Merchant 1984,Restaurants,Retail,Nagpur 7,Maharashtra,Small,2024-11-11,Active
+MER01985,Merchant 1985,Fuel,Retail,Bhopal 6,Madhya Pradesh,Small,2024-12-31,Active
+MER01986,Merchant 1986,Retail,Retail,Kochi 2,Kerala,Medium,2024-10-24,Active
+MER01987,Merchant 1987,Utilities,Services,Mysuru 6,Karnataka,Medium,2023-10-01,Active
+MER01988,Merchant 1988,Fuel,Retail,Coimbatore 6,Tamil Nadu,Medium,2025-01-25,Active
+MER01989,Merchant 1989,Fuel,Retail,Bengaluru 3,Karnataka,Large,2023-04-05,Active
+MER01990,Merchant 1990,Education,Services,Kochi,Kerala,Small,2024-10-29,Active
+MER01991,Merchant 1991,Restaurants,Retail,Kochi 3,Kerala,Small,2023-03-26,Inactive
+MER01992,Merchant 1992,Online Services,Services,Coimbatore 4,Tamil Nadu,Small,2024-10-13,Active
+MER01993,Merchant 1993,Entertainment,Services,Chandigarh,Chandigarh,Small,2024-08-22,Active
+MER01994,Merchant 1994,Education,Services,Nashik 7,Maharashtra,Large,2024-05-13,Active
+MER01995,Merchant 1995,Grocery,Retail,Chandigarh 8,Chandigarh,Small,2025-09-25,Active
+MER01996,Merchant 1996,Food Delivery,Retail,Surat,Gujarat,Small,2026-06-20,Active
+MER01997,Merchant 1997,Travel,Services,Mumbai 9,Maharashtra,Small,2025-09-03,Active
+MER01998,Merchant 1998,Utilities,Services,Bengaluru 7,Karnataka,Small,2024-05-21,Active
+MER01999,Merchant 1999,Grocery,Retail,Jaipur 9,Rajasthan,Small,2023-01-16,Active
+MER02000,Merchant 2000,Fuel,Retail,Nashik 8,Maharashtra,Small,2025-06-01,Active

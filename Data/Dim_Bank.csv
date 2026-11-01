@@ -1,0 +1,31 @@
+Bank_ID,Bank_Name,Bank_Type,Bank_Tier,Headquarters_State,Bank_Status
+BANK001,Bank Alpha 01,Cooperative,Tier 1,Maharashtra,Active
+BANK002,Bank Alpha 02,Cooperative,Tier 1,Maharashtra,Active
+BANK003,Bank Alpha 03,Regional,Tier 1,Delhi,Active
+BANK004,Bank Alpha 04,Private,Tier 2,Uttar Pradesh,Active
+BANK005,Bank Alpha 05,Private,Tier 3,Delhi,Active
+BANK006,Bank Alpha 06,Private,Tier 3,Tamil Nadu,Active
+BANK007,Bank Alpha 07,Private,Tier 2,Uttar Pradesh,Active
+BANK008,Bank Alpha 08,Private,Tier 1,Assam,Active
+BANK009,Bank Alpha 09,Private,Tier 3,West Bengal,Active
+BANK010,Bank Alpha 10,Public,Tier 2,Odisha,Active
+BANK011,Bank Alpha 11,Private,Tier 1,Assam,Active
+BANK012,Bank Alpha 12,Private,Tier 2,Kerala,Active
+BANK013,Bank Alpha 13,Private,Tier 2,Chandigarh,Active
+BANK014,Bank Alpha 14,Public,Tier 3,West Bengal,Active
+BANK015,Bank Alpha 15,Public,Tier 1,Maharashtra,Maintenance
+BANK016,Bank Alpha 16,Private,Tier 2,Kerala,Active
+BANK017,Bank Alpha 17,Public,Tier 2,Madhya Pradesh,Active
+BANK018,Bank Alpha 18,Private,Tier 1,Chandigarh,Active
+BANK019,Bank Alpha 19,Regional,Tier 2,Kerala,Active
+BANK020,Bank Alpha 20,Private,Tier 2,Maharashtra,Active
+BANK021,Bank Alpha 21,Private,Tier 1,Rajasthan,Active
+BANK022,Bank Alpha 22,Private,Tier 2,Telangana,Active
+BANK023,Bank Alpha 23,Private,Tier 1,Tamil Nadu,Active
+BANK024,Bank Alpha 24,Private,Tier 2,Madhya Pradesh,Active
+BANK025,Bank Alpha 25,Cooperative,Tier 2,Chandigarh,Active
+BANK026,Bank Alpha 26,Private,Tier 2,Maharashtra,Active
+BANK027,Bank Alpha 27,Private,Tier 1,Telangana,Active
+BANK028,Bank Alpha 28,Private,Tier 1,Odisha,Active
+BANK029,Bank Alpha 29,Private,Tier 2,Maharashtra,Active
+BANK030,Bank Alpha 30,Private,Tier 1,Karnataka,Active
